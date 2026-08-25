@@ -1,0 +1,99 @@
+---
+/** 独立文章详情页：/posts/<id>/ 复用阅读页体验 */
+import { getCollection } from "astro:content";
+import { render } from "astro:content";
+import Base from "../../layouts/Base.astro";
+import { categoryInfo } from "../../lib/catalog";
+
+export async function getStaticPaths() {
+  const posts = await getCollection("posts", (p) => !p.data.draft);
+  return posts.map((post) => ({ params: { id: post.id }, props: { post } }));
+}
+
+const { post } = Astro.props;
+const { Content, headings } = await render(post);
+const toc = (headings ?? []).filter((h) => h.depth === 2 || h.depth === 3);
+const minutes = post.data.minutes ?? Math.max(1, Math.round((post.body?.length ?? 0) / 400));
+const cat = categoryInfo(post.data.category);
+---
+
+<Base title={post.data.title} description={post.data.summary}>
+  <div data-reader data-chapter={`post:${post.id}`} data-done="false" class="section">
+    <div class="reader-topbar">
+      <div class="reader-progress-track" aria-hidden="true"><i></i></div>
+      <div class="fs-btns" role="group" aria-label="字号">
+        <button data-fs-btn="s" aria-pressed="false">A-</button>
+        <button data-fs-btn="m" aria-pressed="true">A</button>
+        <button data-fs-btn="l" aria-pressed="false">A+</button>
+      </div>
+    </div>
+
+    <article class="with-toc reader-layout">
+      <div class="reader-main">
+        <header class="article-head">
+          <p class="kicker">
+            <a href="/posts/" style="text-decoration:none;color:inherit">独立文章</a>
+            · {cat.emoji} {cat.label}
+          </p>
+          <h1>
+            {post.data.title}
+            <span data-stamp-holder></span>
+          </h1>
+          {post.data.summary && <p class="article-summary">{post.data.summary}</p>}
+          <p class="article-meta">
+            {post.data.date && (
+              <time>
+                {post.data.date.toLocaleDateString("zh-CN", {
+                  year: "numeric",
+                  month: "long",
+                  day: "numeric",
+                })}
+              </time>
+            )}
+            <span>· 约 {minutes} 分钟</span>
+          </p>
+        </header>
+
+        {toc.length >= 3 && (
+          <details class="toc-collapse">
+            <summary>本页目录</summary>
+            <ol>
+              {toc.map((h) => (
+                <li>
+                  <a href={`#${h.slug}`} class:list={[h.depth === 3 && "lvl-3"]}>{h.text}</a>
+                </li>
+              ))}
+            </ol>
+          </details>
+        )}
+
+        <div class="prose-wrap prose">
+          <Content />
+        </div>
+
+        <button class="btn done-btn" data-mark-done>标记为已读 ✓</button>
+
+        <nav class="reader-nav">
+          <a href="/posts/" class="prev">
+            <span class="dir">← 返回</span>
+            <span class="t">全部独立文章</span>
+          </a>
+          <a href="/library/" class="next">
+            <span class="dir">继续学习 →</span>
+            <span class="t">去书架看系列课</span>
+          </a>
+        </nav>
+      </div>
+
+      {toc.length >= 3 && (
+        <nav class="page-toc" aria-label="本页目录">
+          <ol>
+            {toc.map((h) => (
+              <li><a href={`#${h.slug}`} class:list={[h.depth === 3 && "lvl-3"]}>{h.text}</a></li>
+            ))}
+          </ol>
+        </nav>
+      )}
+    </article>
+  </div>
+</Base>

@@ -1,0 +1,34 @@
+name: CI
+
+# push 时验证构建是否通过，防止坏内容上线
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: 安装依赖
+        run: npm ci
+
+      - name: 构建验证
+        run: npm run build
+
+      # 构建通过后，把产物发布到 gh-pages 分支（第一期兜底部署通道）
+      # 如果你用 Netlify/Vercel 等平台，可以注释掉下面两步
+      - name: 发布到 GitHub Pages
+        if: github.ref == 'refs/heads/main'
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          force_orphan: true

@@ -1,0 +1,55 @@
+---
+/** 独立文章列表页：/posts/ */
+import { getCollection } from "astro:content";
+import Base from "../../layouts/Base.astro";
+import { categoryInfo } from "../../lib/catalog";
+
+const posts = (await getCollection("posts", (p) => !p.data.draft)).sort(
+  (a, b) => (b.data.date?.getTime() ?? 0) - (a.data.date?.getTime() ?? 0)
+);
+
+const fmt = (d?: Date) =>
+  d?.toLocaleDateString("zh-CN", { year: "numeric", month: "long", day: "numeric" }) ?? "";
+---
+
+<Base title="文章">
+  <section class="section" style="margin-top: var(--sp-7)">
+    <p class="kicker">POSTS</p>
+    <h1 class="section-title" style="font-size: var(--fs-h1); margin: 8px 0 var(--sp-2)">
+      独立文章
+    </h1>
+    <p class="muted">
+      不成书、但值得读的单篇：概念辨析、读书笔记、技术备忘。共 {posts.length} 篇。
+    </p>
+
+    <div class="post-list" style="margin-top: var(--sp-6)">
+      {posts.map((p) => {
+        const cat = categoryInfo(p.data.category);
+        return (
+          <a class="post-item" href={`/posts/${p.id}/`}>
+            <div class="post-item-main">
+              <h3>{p.data.title}</h3>
+              {p.data.summary && <p class="muted">{p.data.summary}</p>}
+              <div class="card-meta">
+                <span class="chip chip-accent">{cat.emoji} {cat.label}</span>
+                {p.data.tags.map((t) => <span class="chip">#{t}</span>)}
+              </div>
+            </div>
+            <div class="post-item-side">
+              <time>{fmt(p.data.date)}</time>
+              <span class="muted">
+                {Math.max(1, Math.round((p.body?.length ?? 0) / 400))} 分钟
+              </span>
+            </div>
+          </a>
+        );
+      })}
+    </div>
+
+    {posts.length === 0 && (
+      <div class="empty-tip">
+        还没有独立文章。往 content/posts/ 里放一个 markdown 试试。
+      </div>
+    )}
+  </section>
+</Base>

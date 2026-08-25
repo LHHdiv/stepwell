@@ -1,0 +1,174 @@
+---
+/** 首页「书房」：信息密度优先 —— 今日继续 + 双入口 + 最新更新 + 分类导览 */
+import { getCollection } from "astro:content";
+import { allSeries, chaptersOf, seriesStats, categoryInfo } from "../lib/catalog";
+import Base from "../layouts/Base.astro";
+import SeriesCard from "../components/SeriesCard.astro";
+import ChapterData from "../components/ChapterData.astro";
+import { SITE } from "../site.config";
+
+const seriesList = await allSeries();
+
+// 系列统计
+const stats = new Map<string, { count: number; minutes: number }>();
+for (const s of seriesList) {
+  const st = seriesStats(await chaptersOf(s.id));
+  stats.set(s.id, { count: st.count, minutes: st.minutes });
+}
+
+// 独立文章（最新 4 篇）
+const posts = (await getCollection("posts", (p) => !p.data.draft)).sort(
+  (a, b) => (b.data.date?.getTime() ?? 0) - (a.data.date?.getTime() ?? 0)
+);
+
+// 全系列最新章节（按文件序取每卷最后一讲，简单取每系列最后一章作为"更新到"）
+const latest: { url: string; title: string; seriesTitle: string; no: string }[] = [];
+for (const s of seriesList.slice(0, 3)) {
+  const chs = await chaptersOf(s.id);
+  const last = chs[chs.length - 1];
+  if (last)
+    latest.push({
+      url: `/series/${last.id}/`,
+      title: last.data.title,
+      seriesTitle: s.data.title,
+      no: last.id.split("/").pop()?.split("-")[0] ?? "",
+    });
+}
+
+let totalChapters = 0;
+let totalMinutes = 0;
+for (const s of seriesList) totalChapters += stats.get(s.id)?.count ?? 0;
+for (const s of seriesList) totalMinutes += stats.get(s.id)?.minutes ?? 0;
+
+// 分类导览：每个分类下的系列数
+const catCounts = new Map<string, number>();
+for (const s of seriesList) {
+  catCounts.set(s.data.category, (catCounts.get(s.data.category) ?? 0) + 1);
+}
+for (const p of posts) {
+  catCounts.set(p.data.category, (catCounts.get(p.data.category) ?? 0) + 1);
+}
+---
+
+<Base>
+  <!-- ===== Hero：左标题右数据，压掉空白 ===== -->
+  <section class="hero hero-dense">
+    <div class="hero-grid">
+      <div>
+        <p class="kicker">{SITE.nameEn} · PERSONAL LEARNING</p>
+        <h1>把想学的知识，<br />读成一套一套的书。</h1>
+        <p class="hero-lede">
+          系列课循序渐进，独立文章随想随记，订阅广场每天吸收新知。{SITE.motto}。
+        </p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="/library/">进入书架 →</a>
+          <a class="btn" href="/posts/">看独立文章</a>
+          <a class="btn btn-ghost" href="/prompts/">用提示词造新课</a>
+        </div>
+      </div>
+      <div class="hero-stats">
+        <div class="stat-cell">
+          <div class="stat-num">{seriesList.length}</div>
+          <div class="stat-label">在学系列</div>
+        </div>
+        <div class="stat-cell">
+          <div class="stat-num">{totalChapters}</div>
+          <div class="stat-label">章节讲次</div>
+        </div>
+        <div class="stat-cell">
+          <div class="stat-num">{posts.length}</div>
+          <div class="stat-label">独立文章</div>
+        </div>
+        <div class="stat-cell">
+          <div class="stat-num" data-streak>0</div>
+          <div class="stat-label">连续学习天数</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 继续阅读（有本地记录时显示） -->
+    <a class="resume-bar" data-resume href="#">
+      <span class="resume-label">继续阅读</span>
+      <span class="resume-title" data-resume-title></span>
+      <span class="resume-pct" data-resume-pct></span>
+    </a>
+  </section>
+
+  <!-- ===== 双栏：系列 + 独立文章 ===== -->
+  <section class="section home-duo">
+    <div>
+      <div class="section-head">
+        <h2 class="section-title">系列课程</h2>
+        <a class="section-more" href="/library/">全部 →</a>
+      </div>
+      <div class="series-grid series-grid-tight">
+        {seriesList.slice(0, 4).map((s, i) => (
+          <SeriesCard series={s} no={i + 1} />
+        ))}
+      </div>
+    </div>
+
+    <aside>
+      <div class="section-head">
+        <h2 class="section-title">最新更新</h2>
+      </div>
+      <ul class="latest-list">
+        {latest.map((l) => (
+          <li>
+            <a href={l.url}>
+              <span class="latest-no">{l.no}</span>
+              <span class="latest-body">
+                <span class="latest-series">{l.seriesTitle}</span>
+                <span class="latest-title">{l.title}</span>
+              </span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </aside>
+  </section>
+
+  <!-- ===== 独立文章条 ===== -->
+  {posts.length > 0 && (
+    <section class="section">
+      <div class="section-head">
+        <h2 class="section-title">独立文章</h2>
+        <a class="section-more" href="/posts/">全部文章 →</a>
+      </div>
+      <div class="post-strip">
+        {posts.slice(0, 3).map((p) => {
+          const cat = categoryInfo(p.data.category);
+          return (
+            <a class="post-mini" href={`/posts/${p.id}/`}>
+              <span class="chip chip-accent">{cat.emoji} {cat.label}</span>
+              <h3>{p.data.title}</h3>
+              {p.data.summary && <p class="muted">{p.data.summary}</p>}
+            </a>
+          );
+        })}
+      </div>
+    </section>
+  )}
+
+  <!-- ===== 分类导览 ===== -->
+  <section class="section">
+    <div class="section-head">
+      <h2 class="section-title">按分类探索</h2>
+    </div>
+    <div class="cat-grid">
+      {Object.entries(SITE.categories).map(([key, c]) => (
+        <a
+          class="cat-cell"
+          href={key === "source" ? "/series/deepseek-harness/" : "/library/"}
+          style={`--card-accent: var(--accent)`}
+        >
+          <span class="cat-emoji">{c.emoji}</span>
+          <span class="cat-label">{c.label}</span>
+          <span class="cat-count">{catCounts.get(key) ?? 0} 篇内容</span>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <ChapterData />
+</Base>

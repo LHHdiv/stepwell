@@ -1,0 +1,44 @@
+---
+/** 关于页：这个网站是什么、怎么运作的 */
+import Base from "../layouts/Base.astro";
+import { SITE } from "../site.config";
+---
+
+<Base title="关于本站">
+  <article class="section prose" style="max-width: var(--prose-max); margin-top: var(--sp-7)">
+    <p class="kicker">ABOUT</p>
+    <h1 class="section-title" style="font-size: var(--fs-h1)">{SITE.name} {SITE.nameEn}</h1>
+    <p>
+      这是一个<strong>个人学习平台</strong>：我把想学的知识，请 AI 按照统一的规范生成一系列
+      精读文章，像一套一套的书。每本书有路线图、有分卷、有学习目标和要点回顾。
+    </p>
+
+    <h2>为什么要做这个站？</h2>
+    <p>
+      网上的知识零散、深浅不一。与其收藏一堆链接，不如把「我要学什么」变成
+      一套结构化的书：从第 00 讲开始，一步一步读完。写下来的过程本身就是最好的学习
+      （以写促学），而这个站就是学习的沉淀地。
+    </p>
+
+    <h2>内容是怎么生产的？</h2>
+    <ol>
+      <li>在<a href="/prompts/">提示词库</a>里复制「系列规划师」，让 AI 生成整书大纲；</li>
+      <li>用「章节写作者」逐章产出符合网站规范的 Markdown；</li>
+      <li>提交到 GitHub 仓库，自动构建发布上线。</li>
+    </ol>
+    <p>
+      所以这里的每一篇文章都是<strong>规范统一</strong>的：都有摘要、学习目标、正文和要点回顾，
+      阅读体验一致。
+    </p>
+
+    <h2>技术栈</h2>
+    <ul>
+      <li>Astro 静态站点 —— 快、省、SEO 友好；</li>
+      <li>PWA —— 可以安装到手机主屏，离线也能读；</li>
+      <li>阅读进度与看板数据存在你自己的浏览器本地（不上传服务器）。</li>
+    </ul>
+
+    <h2>联系我</h2>
+    <p>如果你也对这套学习方法感兴趣，欢迎通过 GitHub 找到我。</p>
+  </article>
+</Base>

@@ -1,0 +1,29 @@
+---
+/** ⌘K 检索面板骨架（交互逻辑在 scripts/app/search.ts） */
+---
+
+<div class="search-layer" data-search-layer role="dialog" aria-modal="true" aria-label="全站搜索">
+  <div class="search-backdrop"></div>
+  <div class="search-panel">
+    <div class="search-input-row">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+        <circle cx="11" cy="11" r="7"></circle>
+        <path d="m20 20-3.5-3.5"></path>
+      </svg>
+      <input
+        type="search"
+        placeholder="搜索全部课程…"
+        data-search-input
+        autocomplete="off"
+        spellcheck="false"
+      />
+      <kbd>ESC</kbd>
+    </div>
+    <ul class="search-results" data-search-results></ul>
+    <div class="search-foot">
+      <span>↑↓ 选择</span>
+      <span>↵ 打开</span>
+      <span style="margin-left:auto">任意页面按 ⌘K / Ctrl+K</span>
+    </div>
+  </div>
+</div>

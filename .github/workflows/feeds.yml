@@ -1,0 +1,45 @@
+name: 每日抓取 RSS
+
+# 每天早上 8 点（北京时间）抓取 feeds.yaml 里的信息源，
+# 更新 src/data/feeds-cache.json 并提交，网站随之出现最新文章。
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # UTC 0 点 = 北京时间 8 点
+  workflow_dispatch: # 支持在 GitHub 页面手动触发
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feeds
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # 只装 yaml + rss-parser 两个小依赖（不装全量 node_modules，快）
+      - name: 安装依赖
+        run: npm install --no-save yaml rss-parser
+
+      - name: 抓取订阅源
+        run: node scripts/fetch-feeds.mjs
+
+      - name: 提交快照
+        run: |
+          git config user.name "stepwell-bot"
+          git config user.email "bot@stepwell.local"
+          if [[ -n "$(git status --porcelain src/data/feeds-cache.json)" ]]; then
+            git add src/data/feeds-cache.json
+            git commit -m "chore(feeds): 更新订阅快照 $(date -u +%F)"
+            git push
+          else
+            echo "没有新内容，跳过提交"
+          fi

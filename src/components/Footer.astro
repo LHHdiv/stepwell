@@ -1,0 +1,38 @@
+---
+/** 页脚：品牌、站内导航、内容生产说明 */
+import { SITE } from "../site.config";
+const year = new Date().getFullYear();
+---
+
+<footer class="footer">
+  <div class="page footer-inner">
+    <div>
+      <h3>{SITE.name} <span class="brand-en">{SITE.nameEn}</span></h3>
+      <p class="footer-motto">{SITE.motto}</p>
+      <p>
+        这是一个用 AI 辅助写作、以 Markdown 驱动的个人学习平台。
+        所有课程按系列组织，一步一步深入学习。
+      </p>
+    </div>
+    <div>
+      <h3>站内</h3>
+      <ul>
+        {SITE.nav.map((item) => (
+          <li><a href={item.href}>{item.label}</a></li>
+        ))}
+      </ul>
+    </div>
+    <div>
+      <h3>订阅</h3>
+      <ul>
+        <li><a href="/rss.xml">本站 RSS</a></li>
+        <li><a href="/feeds/">我的信息源</a></li>
+        <li><a href="/posts/">独立文章</a></li>
+        <li><a href="/prompts/">提示词库</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="page">
+    <p class="copyright">© {year} {SITE.author} · 拾阶而上，每天向上一步</p>
+  </div>
+</footer>

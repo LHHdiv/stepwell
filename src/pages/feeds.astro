@@ -1,0 +1,128 @@
+---
+/** 订阅广场 v2：信息源卡片 + 按天分组的最新文章 */
+import Base from "../layouts/Base.astro";
+import yaml from "yaml";
+import { readFileSync } from "node:fs";
+import { fileURLToPath } from "node:url";
+
+const ROOT = fileURLToPath(new URL("../../", import.meta.url));
+
+// 订阅清单（feeds.yaml）
+type Source = { name: string; url: string; tag?: string };
+let sources: Source[] = [];
+try {
+  const doc = yaml.parse(readFileSync(ROOT + "src/data/feeds.yaml", "utf8"));
+  sources = doc.sources ?? [];
+} catch {
+  /* ignore */
+}
+
+// 抓取快照
+let items: {
+  source: string;
+  tag: string;
+  title: string;
+  link: string;
+  summary: string;
+  date: string;
+}[] = [];
+let generatedAt = "";
+try {
+  const raw = await import("../data/feeds-cache.json");
+  items = raw.default?.items ?? [];
+  generatedAt = raw.default?.generatedAt ?? "";
+} catch {
+  /* 尚未抓取 */
+}
+
+// 每个源的最新一条（信息源卡片用）
+const latestBySource = new Map<string, (typeof items)[number]>();
+for (const it of items) {
+  if (!latestBySource.has(it.source)) latestBySource.set(it.source, it);
+}
+
+// 按天分组
+const byDay = new Map<string, typeof items>();
+for (const it of items) {
+  const day = (it.date || "").slice(0, 10) || "更早";
+  if (!byDay.has(day)) byDay.set(day, []);
+  byDay.get(day)!.push(it);
+}
+const days = [...byDay.entries()].sort((a, b) => b[0].localeCompare(a[0])).slice(0, 10);
+
+const fmtDay = (d: string) => {
+  try {
+    return new Date(d).toLocaleDateString("zh-CN", {
+      month: "long",
+      day: "numeric",
+      weekday: "long",
+    });
+  } catch {
+    return d;
+  }
+};
+---
+
+<Base title="订阅广场" description="我每天看的信息源：RSS 订阅的最新文章，每日自动更新">
+  <section class="section" style="margin-top: var(--sp-7)">
+    <p class="kicker">FEEDS · 知识拓展</p>
+    <h1 class="section-title" style="font-size: var(--fs-h1); margin: 8px 0 var(--sp-2)">
+      订阅广场
+    </h1>
+    <p class="muted">
+      {items.length > 0
+        ? `${sources.length} 个信息源 · ${items.length} 篇最新文章 · 每天早上 8 点自动更新`
+        : "把想读的博客加进 src/data/feeds.yaml，运行 npm run feeds 后这里就会出现内容。"}
+      {generatedAt && `（快照：${new Date(generatedAt).toLocaleString("zh-CN")}）`}
+    </p>
+
+    <!-- 信息源卡片 -->
+    <div class="section-head" style="margin-top: var(--sp-7)">
+      <h2 class="section-title">我的信息源</h2>
+      <span class="muted">编辑 src/data/feeds.yaml 即可增删</span>
+    </div>
+    <div class="source-grid">
+      {sources.map((s) => {
+        const latest = latestBySource.get(s.name);
+        return (
+          <a class="source-card" href={latest?.link ?? s.url} target="_blank" rel="noopener noreferrer">
+            <span>
+              <span class="s-name">{s.name}</span>
+              {s.tag && <span class="chip" style="margin-left:8px">{s.tag}</span>}
+            </span>
+            <span class="s-latest">
+              {latest ? `最新：${latest.title}` : "暂无内容（下次抓取时更新）"}
+            </span>
+          </a>
+        );
+      })}
+    </div>
+
+    <!-- 按天分组的文章流 -->
+    {items.length === 0 ? (
+      <div class="empty-tip">
+        还没有抓取到内容。编辑 <code>src/data/feeds.yaml</code> 后运行 <code>npm run feeds</code>。
+      </div>
+    ) : (
+      days.map(([day, list]) => (
+        <div class="feed-day">
+          <h2 class="feed-day-date">{fmtDay(day)}</h2>
+          <ul class="feed-list">
+            {list.map((it) => (
+              <li class="feed-item">
+                <a href={it.link} target="_blank" rel="noopener noreferrer">
+                  <span>
+                    <span class="feed-source">{it.source}</span>
+                    {it.tag && <span class="chip">{it.tag}</span>}
+                  </span>
+                  <div class="feed-title">{it.title}</div>
+                  {it.summary && <p class="feed-summary">{it.summary}</p>}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      ))
+    )}
+  </section>
+</Base>

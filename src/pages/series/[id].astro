@@ -1,0 +1,86 @@
+---
+/** 系列目录页：/series/<id>/ 封面头 + 分卷章节列表 + 进度 */
+import Base from "../../layouts/Base.astro";
+import ChapterData from "../../components/ChapterData.astro";
+import {
+  allSeries,
+  chaptersOf,
+  groupByPhases,
+  seriesStats,
+  categoryInfo,
+  levelInfo,
+} from "../../lib/catalog";
+
+export async function getStaticPaths() {
+  const list = await allSeries();
+  return list.map((series) => ({ params: { id: series.id }, props: { series } }));
+}
+
+const { series } = Astro.props;
+const chapters = await chaptersOf(series.id);
+const stats = seriesStats(chapters);
+const groups = groupByPhases(series, chapters);
+const cat = categoryInfo(series.data.category);
+const lvl = levelInfo(series.data.level);
+
+const statusLabel =
+  { ongoing: "连载中", done: "已完结", paused: "暂停更新" }[series.data.status] ?? "";
+---
+
+<Base title={series.data.title} description={series.data.sub || series.data.intro}>
+  <article class="section" data-series-page={series.id}>
+    <header class="series-head" style="margin-top: var(--sp-6)">
+      <div
+        class="card-cover"
+        style={`height:auto;aspect-ratio:3/4;border-radius:var(--r-md);--card-accent:${series.data.hue};--card-accent2:${series.data.hue2};align-items:center;justify-content:center`}
+      >
+        <span style="color:#fff;font-family:var(--font-display);font-weight:700;font-size:1.1rem">
+          {series.data.en || series.data.title}
+        </span>
+      </div>
+      <div>
+        <p class="kicker">{cat.emoji} {cat.label} · {lvl.label}{statusLabel && ` · ${statusLabel}`}</p>
+        <h1 class="section-title" style="font-size: var(--fs-h1); margin: 10px 0 12px">
+          {series.data.title}
+        </h1>
+        {series.data.sub && <p class="article-summary">{series.data.sub}</p>}
+        {series.data.intro && <p class="muted" style="max-width:44em">{series.data.intro}</p>}
+        <p class="card-meta" style="margin-top:14px">
+          <span class="chip">共 {stats.count} 讲</span>
+          <span class="chip">约 {stats.minutes} 分钟</span>
+          <span class="chip">{(stats.words / 10000).toFixed(1)} 万字</span>
+        </p>
+        {chapters.length > 0 && (
+          <a class="btn btn-primary" style="margin-top:16px" href={`/series/${chapters[0].id}/`}>
+            从第 {String(0).padStart(2, "0")} 讲开始读 →
+          </a>
+        )}
+      </div>
+    </header>
+
+    {groups.map((g) => (
+      <section class="toc-group">
+        <h2 class="toc-group-name">{g.name}</h2>
+        <ol class="toc-list">
+          {g.items.map((c) => (
+            <li class="toc-item">
+              <a href={`/series/${c.id}/`} data-toc-link={c.id}>
+                <span class="toc-no">{c.id.split("/").pop()?.split("-")[0]}</span>
+                <span class="toc-title">{c.data.title}</span>
+                <span class="toc-minutes">
+                  {Math.max(1, Math.round((c.body?.length ?? 0) / 400))} min
+                </span>
+              </a>
+            </li>
+          ))}
+        </ol>
+      </section>
+    ))}
+
+    {chapters.length === 0 && (
+      <div class="empty-tip">这个系列还在筹备中，敬请期待。</div>
+    )}
+  </article>
+
+  <ChapterData chapters={chapters} seriesId={series.id} seriesTitle={series.data.title} />
+</Base>

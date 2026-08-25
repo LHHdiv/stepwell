@@ -1,0 +1,165 @@
+---
+/** 阅读页：/series/<id>/<slug>/ 正文 + 右侧信息栏（目录/系列卡/本讲信息） */
+import Base from "../../../layouts/Base.astro";
+import { render } from "astro:content";
+import { allSeries, chaptersOf, readingMinutes } from "../../../lib/catalog";
+
+export async function getStaticPaths() {
+  const list = await allSeries();
+  const out: { params: { id: string; slug: string }; props: any }[] = [];
+  for (const series of list) {
+    const chapters = await chaptersOf(series.id);
+    for (let i = 0; i < chapters.length; i++) {
+      const c = chapters[i];
+      const slug = c.id.split("/").slice(1).join("/");
+      out.push({
+        params: { id: series.id, slug },
+        props: {
+          series,
+          chapter: c,
+          prev: i > 0 ? chapters[i - 1] : undefined,
+          next: i < chapters.length - 1 ? chapters[i + 1] : undefined,
+          index: i,
+          total: chapters.length,
+        },
+      });
+    }
+  }
+  return out;
+}
+
+const { series, chapter, prev, next, index, total } = Astro.props;
+const { Content, headings } = await render(chapter);
+
+const toc = (headings ?? []).filter((h) => h.depth === 2 || h.depth === 3);
+const minutes = readingMinutes(chapter);
+const pct = Math.round(((index + 1) / total) * 100);
+---
+
+<Base title={chapter.data.title} description={chapter.data.summary}>
+  <div data-reader data-chapter={chapter.id} data-done="false" class="section">
+    <!-- 阅读工具条 -->
+    <div class="reader-topbar">
+      <div class="reader-progress-track" aria-hidden="true"><i></i></div>
+      <div class="fs-btns" role="group" aria-label="字号">
+        <button data-fs-btn="s" aria-pressed="false">A-</button>
+        <button data-fs-btn="m" aria-pressed="true">A</button>
+        <button data-fs-btn="l" aria-pressed="false">A+</button>
+      </div>
+    </div>
+
+    <article class="reader-layout">
+      <div class="reader-main">
+        <header class="article-head">
+          <p class="kicker">
+            <a href={`/series/${series.id}/`} style="text-decoration:none;color:inherit">
+              {series.data.title}
+            </a>
+            · 第 {index + 1} / {total} 讲 · 约 {minutes} 分钟
+          </p>
+          <h1>
+            {chapter.data.title}
+            <span data-stamp-holder></span>
+          </h1>
+          {chapter.data.summary && <p class="article-summary">{chapter.data.summary}</p>}
+          {chapter.data.tags.length > 0 && (
+            <p class="article-meta">
+              {chapter.data.tags.map((t) => <span class="chip">#{t}</span>)}
+            </p>
+          )}
+        </header>
+
+        {chapter.data.objectives.length > 0 && (
+          <aside class="objectives-box">
+            <h2>本讲学习目标</h2>
+            <ol>
+              {chapter.data.objectives.map((o) => <li set:html={o} />)}
+            </ol>
+          </aside>
+        )}
+
+        {toc.length >= 3 && (
+          <details class="toc-collapse">
+            <summary>本页目录</summary>
+            <ol>
+              {toc.map((h) => (
+                <li>
+                  <a href={`#${h.slug}`} class:list={[h.depth === 3 && "lvl-3"]}>{h.text}</a>
+                </li>
+              ))}
+            </ol>
+          </details>
+        )}
+
+        <div class="prose-wrap prose">
+          <Content />
+        </div>
+
+        {chapter.data.keyPoints.length > 0 && (
+          <aside class="keypoints-box">
+            <h2>要点回顾</h2>
+            <ol>
+              {chapter.data.keyPoints.map((k) => <li set:html={k} />)}
+            </ol>
+          </aside>
+        )}
+
+        {(prev || next) && (
+          <nav class="reader-nav" aria-label="上下篇">
+            {prev ? (
+              <a href={`/series/${prev.id}/`} class="prev">
+                <span class="dir">← 上一讲</span>
+                <span class="t">{prev.data.title}</span>
+              </a>
+            ) : (
+              <span></span>
+            )}
+            {next && (
+              <a href={`/series/${next.id}/`} class="next">
+                <span class="dir">下一讲 →</span>
+                <span class="t">{next.data.title}</span>
+              </a>
+            )}
+          </nav>
+        )}
+
+        <button class="btn done-btn" data-mark-done>标记为已读 ✓</button>
+      </div>
+
+      <!-- ===== 右侧信息栏（≥1280px 显示）===== -->
+      <aside class="reader-side">
+        <div class="side-card">
+          <h3>本讲进度</h3>
+          <div style="display:flex;align-items:baseline;gap:8px">
+            <span class="side-progress" data-side-pct>0%</span>
+            <span class="muted" style="font-size:var(--fs-xs)">系列进度 {pct}%</span>
+          </div>
+          <div class="card-progress" style="margin-top:10px"><i></i></div>
+        </div>
+
+        {toc.length >= 3 && (
+          <nav class="page-toc" aria-label="本页目录">
+            <ol>
+              {toc.map((h) => (
+                <li>
+                  <a href={`#${h.slug}`} class:list={[h.depth === 3 && "lvl-3"]}>{h.text}</a>
+                </li>
+              ))}
+            </ol>
+          </nav>
+        )}
+
+        <div class="side-card">
+          <h3>所属系列</h3>
+          <a href={`/series/${series.id}/`}>{series.data.title}</a>
+          <p class="muted" style="margin:6px 0 0;font-size:var(--fs-xs)">
+            {series.data.sub}
+          </p>
+          <a class="btn" style="margin-top:12px;min-height:36px;padding:0 var(--sp-4);font-size:var(--fs-xs)" href={`/series/${series.id}/`}>
+            查看全部 {total} 讲
+          </a>
+        </div>
+      </aside>
+    </article>
+  </div>
+</Base>

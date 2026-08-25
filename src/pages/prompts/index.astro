@@ -1,0 +1,40 @@
+---
+/** 提示词库：列表页 —— 点击进入单条详情 */
+import { getCollection } from "astro:content";
+import Base from "../../layouts/Base.astro";
+
+const prompts = (await getCollection("prompts")).sort((a, b) =>
+  a.id.localeCompare(b.id)
+);
+---
+
+<Base title="提示词库" description="用 AI 生成符合网站规范的系列课程：规划师、写作者、审校员三件套">
+  <section class="section" style="margin-top: var(--sp-7)">
+    <p class="kicker">PROMPTS</p>
+    <h1 class="section-title" style="font-size: var(--fs-h1); margin: 8px 0 var(--sp-2)">
+      提示词库
+    </h1>
+    <div class="prose" style="max-width: var(--prose-max); color: var(--ink-2)">
+      <p>
+        想学任何新知识，三步变成网站上的一门课：
+        <strong>① 规划师</strong>生成整书大纲 →
+        <strong>② 写作者</strong>逐章产出正文 →
+        <strong>③ 审校员</strong>发布前把关。
+        点击卡片查看完整提示词，详情页可一键复制。
+      </p>
+    </div>
+
+    <div class="prompt-list" style="margin-top: var(--sp-6)">
+      {prompts.map((p) => (
+        <a class="prompt-row" href={`/prompts/${p.id}/`}>
+          <span class="prompt-row-no">{p.id.split("-")[0]}</span>
+          <span class="prompt-row-main">
+            <h3>{p.data.title}</h3>
+            <p class="muted">{p.data.description}</p>
+          </span>
+          <span class="prompt-row-cta">查看详情 →</span>
+        </a>
+      ))}
+    </div>
+  </section>
+</Base>

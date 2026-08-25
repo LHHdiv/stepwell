@@ -1,0 +1,37 @@
+---
+/** 系列卡片：程序化封面 + 元信息；进度条由客户端脚本回填 */
+import type { SeriesEntry } from "../lib/catalog";
+import { seriesUrl, categoryInfo, levelInfo } from "../lib/catalog";
+
+interface Props {
+  series: SeriesEntry;
+  /** 书架序号（封面右上角） */
+  no?: number;
+}
+
+const { series, no } = Astro.props;
+const cat = categoryInfo(series.data.category);
+const lvl = levelInfo(series.data.level);
+---
+
+<a
+  class="series-card"
+  href={seriesUrl(series)}
+  data-series-card={series.id}
+  style={`--card-accent:${series.data.hue};--card-accent2:${series.data.hue2}`}
+>
+  <div class="card-cover">
+    {no !== undefined && <span class="cover-no">{String(no).padStart(2, "0")}</span>}
+    {series.data.en && <span class="cover-en">{series.data.en}</span>}
+  </div>
+  <div class="card-body">
+    <h3 class="card-title">{series.data.title}</h3>
+    {series.data.sub && <p class="card-sub">{series.data.sub}</p>}
+    <div class="card-meta">
+      <span class="chip chip-accent">{cat.emoji} {cat.label}</span>
+      <span class="chip">{lvl.label}</span>
+      <span data-progress-label></span>
+    </div>
+    <div class="card-progress" aria-hidden="true"><i></i></div>
+  </div>
+</a>

@@ -1,0 +1,58 @@
+---
+/** 提示词详情页：/prompts/<id>/ 完整内容 + 一键复制 */
+import { getCollection } from "astro:content";
+import { render } from "astro:content";
+import Base from "../../layouts/Base.astro";
+
+export async function getStaticPaths() {
+  const prompts = await getCollection("prompts");
+  return prompts.map((p) => ({ params: { id: p.id }, props: { prompt: p } }));
+}
+
+const { prompt } = Astro.props;
+const { Content } = await render(prompt);
+---
+
+<Base title={`提示词 · ${prompt.data.title}`} description={prompt.data.description}>
+  <article class="section" style="margin-top: var(--sp-7); max-width: var(--prose-max)">
+    <p class="kicker">
+      <a href="/prompts/" style="text-decoration:none;color:inherit">提示词库</a>
+      · {prompt.id.split("-")[0]}
+    </p>
+    <h1 class="section-title" style="font-size: var(--fs-h1); margin: 8px 0 var(--sp-2)">
+      {prompt.data.title}
+    </h1>
+    <p class="article-summary">{prompt.data.description}</p>
+
+    <div class="prose" style="font-size: var(--fs-sm)">
+      <Content />
+    </div>
+
+    <div class="prompt-card" style="margin-top: var(--sp-6)">
+      <button class="btn btn-primary" data-copy-target={`prompt-${prompt.id}`}>复制提示词全文</button>
+      <p class="muted" style="margin-top:10px">
+        复制后粘贴给大模型使用。详情见上方「使用说明」。
+      </p>
+    </div>
+  </article>
+
+  <script type="text/plain" data-prompt-source={`prompt-${prompt.id}`} set:html={prompt.body ?? ""} />
+
+  <script>
+    document.querySelectorAll<HTMLButtonElement>("[data-copy-target]").forEach((btn) => {
+      btn.addEventListener("click", async () => {
+        const src = document.querySelector<HTMLScriptElement>(
+          `script[data-prompt-source="${btn.dataset.copyTarget}"]`
+        );
+        if (!src) return;
+        try {
+          await navigator.clipboard.writeText(src.textContent ?? "");
+          btn.textContent = "已复制 ✓";
+          setTimeout(() => (btn.textContent = "复制提示词全文"), 1600);
+        } catch {
+          btn.textContent = "复制失败，请手动选择文本";
+        }
+      });
+    });
+  </script>
+</Base>

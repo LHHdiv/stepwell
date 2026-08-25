@@ -1,0 +1,29 @@
+{
+  "name": "stepwell",
+  "type": "module",
+  "version": "0.1.0",
+  "private": true,
+  "description": "拾阶 STEPWELL — 个人学习平台：系列精读、PWA 离线阅读、RSS 广场、学习看板",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "check": "astro check",
+    "new:chapter": "node scripts/new-chapter.mjs",
+    "feeds": "node scripts/fetch-feeds.mjs"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.6.0",
+    "astro": "^7.2.2",
+    "rss-parser": "^3.13.0",
+    "yaml": "^2.6.0"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.4",
+    "typescript": "^5.7.0"
+  }
+}

@@ -1,0 +1,17 @@
+---
+/** 离线回退页：Service Worker 在无网络导航时返回这个页面 */
+import Base from "../layouts/Base.astro";
+---
+
+<Base title="离线模式">
+  <section class="section" style="text-align:center; padding-block: var(--sp-9)">
+    <p class="kicker">OFFLINE</p>
+    <h1 class="section-title" style="font-size: var(--fs-h1); margin: 16px 0">
+      当前离线
+    </h1>
+    <p class="muted" style="margin-bottom: var(--sp-6)">
+      没有检测到网络连接。你之前浏览过的页面仍然可以离线阅读——回到书房挑一篇吧。
+    </p>
+    <a class="btn btn-primary" href="/">回到书房</a>
+  </section>
+</Base>

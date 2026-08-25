@@ -1,0 +1,59 @@
+---
+/** 学习看板：连续天数 / 累计完成 / 活动热力图 / 每本书进度（数据在浏览器本地） */
+import Base from "../layouts/Base.astro";
+import ChapterData from "../components/ChapterData.astro";
+---
+
+<Base title="学习看板">
+  <section class="section" data-dashboard style="margin-top: var(--sp-7)">
+    <p class="kicker">DASHBOARD</p>
+    <h1 class="section-title" style="font-size: var(--fs-h1); margin: 8px 0 var(--sp-2)">
+      学习看板
+    </h1>
+    <p class="muted">
+      数据保存在<strong>这台设备的浏览器</strong>里，不会上传服务器——换设备后各自独立记录。
+    </p>
+
+    <div class="dash-grid" style="margin-top: var(--sp-6)">
+      <div class="dash-stat">
+        <div class="n" data-stat-streak>0</div>
+        <div class="l">连续学习天数</div>
+      </div>
+      <div class="dash-stat">
+        <div class="n" data-stat-done>0</div>
+        <div class="l">累计读完章节</div>
+      </div>
+      <div class="dash-stat">
+        <div class="n" data-stat-minutes>0</div>
+        <div class="l">累计学习分钟（估算）</div>
+      </div>
+      <div class="dash-stat">
+        <div class="n" data-stat-days>0</div>
+        <div class="l">有学习活动的日子</div>
+      </div>
+    </div>
+
+    <div class="section-head" style="margin-top: var(--sp-8)">
+      <h2 class="section-title">最近 26 周</h2>
+      <span class="muted">每格一天 · 越绿读得越多</span>
+    </div>
+    <div class="heatmap">
+      <div class="heatmap-grid" data-heatmap></div>
+      <div class="heatmap-legend">
+        少
+        <span class="hm-cell"></span>
+        <span class="hm-cell" data-lv="1"></span>
+        <span class="hm-cell" data-lv="2"></span>
+        <span class="hm-cell" data-lv="3"></span>
+        多
+      </div>
+    </div>
+
+    <div class="section-head" style="margin-top: var(--sp-8)">
+      <h2 class="section-title">每本书的进度</h2>
+    </div>
+    <ul class="book-progress-list" data-book-progress></ul>
+  </section>
+
+  <ChapterData />
+</Base>

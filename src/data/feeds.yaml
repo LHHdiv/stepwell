@@ -1,0 +1,35 @@
+# =========================================================
+# 我的信息源 —— RSS 订阅清单
+#
+# 怎么用：想订阅新内容，照着下面的格式加一条，push 到 GitHub 即可。
+# GitHub Actions 会每天早上 8 点（北京时间）自动抓取并更新 /feeds/ 页面。
+# ==========================================================
+
+sources:
+  # ---------- 科技 / 综合 ----------
+  - name: 阮一峰的网络日志
+    url: https://www.ruanyifeng.com/blog/atom.xml
+    tag: tech
+
+  - name: 少数派
+    url: https://sspai.com/feed
+    tag: tech
+
+  - name: 爱范儿
+    url: https://www.ifanr.com/feed
+    tag: tech
+
+  - name: Solidot
+    url: https://www.solidot.org/index.rss
+    tag: tech
+
+  # ---------- AI / 大模型 ----------
+  # 机器之心的 RSS XML 格式不规范暂不可用；推荐替代：
+  - name: AI 前线
+    url: https://www.infoq.cn/feed/ai
+    tag: ai
+
+  # ---------- 英文（AI 前沿）----------
+  - name: Hacker News
+    url: https://hnrss.org/frontpage
+    tag: ai

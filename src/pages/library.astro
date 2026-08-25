@@ -1,0 +1,68 @@
+---
+/** 书架：全部系列总览，支持按分类筛选（客户端过滤） */
+import { allSeries, chaptersOf, seriesStats, categoryInfo } from "../lib/catalog";
+import Base from "../layouts/Base.astro";
+import SeriesCard from "../components/SeriesCard.astro";
+import ChapterData from "../components/ChapterData.astro";
+
+const seriesList = await allSeries();
+
+// 每个系列的章节数（构建期算好写进 data 属性）
+const counts: Record<string, number> = {};
+for (const s of seriesList) {
+  counts[s.id] = seriesStats(await chaptersOf(s.id)).count;
+}
+
+const usedCats = [...new Set(seriesList.map((s) => s.data.category))];
+---
+
+<Base title="书架">
+  <section class="section" style="margin-top: var(--sp-7)">
+    <p class="kicker">LIBRARY</p>
+    <h1 class="section-title" style="font-size: var(--fs-h1); margin-top: 8px">
+      全部系列
+    </h1>
+    <p class="muted" style="max-width: 40em">
+      共 {seriesList.length} 个系列 · {Object.values(counts).reduce((a, b) => a + b, 0)} 讲。
+      点分类可以筛选。
+    </p>
+
+    <div class="filter-row" style="margin-top: var(--sp-5)" role="group" aria-label="按分类筛选">
+      <button class="chip chip-btn" data-cat-filter="*" aria-pressed="true">全部</button>
+      {usedCats.map((c) => {
+        const info = categoryInfo(c);
+        return (
+          <button class="chip chip-btn" data-cat-filter={c} aria-pressed="false">
+            {info.emoji} {info.label}
+          </button>
+        );
+      })}
+    </div>
+
+    <div class="series-grid" id="library-grid">
+      {seriesList.map((s, i) => (
+        <div data-cat={s.data.category} style="display:grid">
+          <SeriesCard series={s} no={i + 1} />
+          <p class="muted" style="margin: 8px 4px 0">{counts[s.id]} 讲</p>
+        </div>
+      ))}
+    </div>
+  </section>
+
+  <ChapterData />
+
+  <script>
+    // 书架分类筛选：纯客户端，无依赖
+    document.querySelectorAll<HTMLButtonElement>("[data-cat-filter]").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        const cat = btn.dataset.catFilter ?? "*";
+        document.querySelectorAll<HTMLButtonElement>("[data-cat-filter]").forEach((b) =>
+          b.setAttribute("aria-pressed", String(b === btn))
+        );
+        document.querySelectorAll<HTMLElement>("#library-grid > [data-cat]").forEach((cell) => {
+          cell.style.display = cat === "*" || cell.dataset.cat === cat ? "grid" : "none";
+        });
+      });
+    });
+  </script>
+</Base>

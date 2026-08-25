@@ -1,0 +1,76 @@
+---
+/**
+ * 全站基础布局：SEO、PWA、主题预载（防闪烁）、顶栏/页脚/检索面板
+ */
+import "../styles/tokens.css";
+import "../styles/base.css";
+import "../styles/components.css";
+import Topbar from "../components/Topbar.astro";
+import Footer from "../components/Footer.astro";
+import SearchPalette from "../components/SearchPalette.astro";
+import { SITE } from "../site.config";
+
+interface Props {
+  title?: string;
+  description?: string;
+  /** 页面主体宽度模式 */
+  wide?: boolean;
+}
+
+const { title, description = SITE.description, wide = false } = Astro.props;
+
+const pageTitle = title ? `${title} · ${SITE.name}` : `${SITE.name} · ${SITE.motto}`;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+
+/* 主题预载：首帧前应用主题与字号，避免明暗闪烁 */
+const themeBootstrap = `
+(function(){try{
+var s=JSON.parse(localStorage.getItem('stepwell.settings.v1')||'{}');
+var t=s.theme||'auto';
+var dark=t==='dark'||(t!=='light'&&matchMedia('(prefers-color-scheme: dark)').matches);
+document.documentElement.dataset.theme=dark?'dark':'light';
+document.documentElement.dataset.fs=s.fs||'m';
+}catch(e){document.documentElement.dataset.theme='light';}})();
+`;
+---
+
+<!doctype html>
+<html lang={SITE.lang}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{pageTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <link rel="apple-touch-icon" href="/icons/icon-192.png" />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <meta name="theme-color" content="#fafaf8" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#17191b" media="(prefers-color-scheme: dark)" />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonical} />
+    <meta name="generator" content={Astro.generator} />
+    <script is:inline set:html={themeBootstrap} />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">跳到主要内容</a>
+    <Topbar />
+    <main id="main" class:list={["page", wide && "page-wide"]}>
+      <slot />
+    </main>
+    <Footer />
+    <SearchPalette />
+    <script>
+      import "../scripts/app/main";
+    </script>
+    <script is:inline>
+      if ("serviceWorker" in navigator) {
+        window.addEventListener("load", () => {
+          navigator.serviceWorker.register("/sw.js").catch(() => {});
+        });
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,43 @@
+---
+/**
+ * 章节清单数据：把章节列表序列化为 JSON 供客户端进度脚本使用。
+ * 用 <script type="application/json">，浏览器不会执行，只作数据载体。
+ */
+import { getCollection } from "astro:content";
+import type { ChapterEntry } from "../lib/catalog";
+
+interface Props {
+  /** 传入则为目录页模式：只含该系列章节 */
+  chapters?: ChapterEntry[];
+  seriesId?: string;
+  seriesTitle?: string;
+}
+
+const { chapters, seriesId = "", seriesTitle = "" } = Astro.props;
+
+let items: { key: string; url: string; title: string; seriesTitle: string }[] = [];
+
+if (chapters && seriesId) {
+  items = chapters.map((c) => ({
+    key: c.id,
+    url: `/series/${c.id}/`,
+    title: c.data.title,
+    seriesTitle,
+  }));
+} else {
+  const metas = await getCollection("seriesMeta");
+  const all = await getCollection("chapters", (c) => !c.data.draft);
+  const titleOf = new Map(metas.map((m) => [m.id, m.data.title]));
+  items = all.map((c) => {
+    const sid = c.id.split("/")[0];
+    return {
+      key: c.id,
+      url: `/series/${c.id}/`,
+      title: c.data.title,
+      seriesTitle: titleOf.get(sid) ?? sid,
+    };
+  });
+}
+---
+
+<script type="application/json" data-chapters set:html={JSON.stringify(items)} />

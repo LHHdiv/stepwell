@@ -1,0 +1,86 @@
+/* =========================================================
+   拾阶 STEPWELL · 设计令牌
+   明亮杂志风：暖白底、墨黑字、单一强调色
+   ========================================================= */
+
+:root {
+  /* ---- 色彩 ---- */
+  --bg: #fafaf8;            /* 页面底色：暖白 */
+  --bg-soft: #f3f2ec;       /* 次级底色：区块 */
+  --surface: #ffffff;       /* 卡片面 */
+  --ink: #1a1c1a;           /* 主文字：墨黑 */
+  --ink-2: #565d58;         /* 次级文字 */
+  --ink-3: #8b918c;         /* 弱文字/占位 */
+  --line: #e6e4dc;          /* 分隔线 */
+  --accent: #2f6b4f;        /* 强调色：深松绿 */
+  --accent-soft: #e6efe9;   /* 强调色浅底 */
+  --accent-ink: #ffffff;    /* 强调色上的文字 */
+
+  /* 语义色（少量点缀） */
+  --ok: #2f8a5d;
+  --warn: #b07d2b;
+
+  /* ---- 字体 ---- */
+  --serif: "Source Han Serif SC", "Noto Serif SC", "Songti SC", "SimSun", serif;
+  --sans: "MiSans", "PingFang SC", "HarmonyOS Sans SC", "Microsoft YaHei UI",
+    "Microsoft YaHei", system-ui, -apple-system, sans-serif;
+  --mono: ui-monospace, "SF Mono", "Cascadia Code", Menlo, Consolas, monospace;
+  --font-body: var(--sans);
+  --font-display: var(--serif);
+
+  /* ---- 字号（移动优先基准）---- */
+  --fs-hero: clamp(2.1rem, 1.4rem + 3.2vw, 3.4rem);
+  --fs-h1: clamp(1.55rem, 1.2rem + 1.6vw, 2.2rem);
+  --fs-h2: clamp(1.25rem, 1.1rem + 0.7vw, 1.55rem);
+  --fs-h3: 1.12rem;
+  --fs-body: 1rem;
+  --fs-sm: 0.875rem;
+  --fs-xs: 0.78rem;
+
+  /* ---- 间距体系（4 的倍数）---- */
+  --sp-1: 4px;  --sp-2: 8px;  --sp-3: 12px; --sp-4: 16px;
+  --sp-5: 24px; --sp-6: 32px; --sp-7: 48px; --sp-8: 64px;
+  --sp-9: 96px;
+
+  /* ---- 圆角 ---- */
+  --r-sm: 6px;
+  --r-md: 10px;
+  --r-lg: 16px;
+  --r-full: 999px;
+
+  /* ---- 阴影（克制，杂志风不靠投影）---- */
+  --shadow-card: 0 1px 2px rgba(26, 28, 26, 0.05);
+  --shadow-pop: 0 12px 40px rgba(26, 28, 26, 0.16);
+
+  /* ---- 布局 ---- */
+  --page-max: 1080px;
+  --prose-max: 760px;
+
+  /* ---- 动效 ---- */
+  --ease: cubic-bezier(0.22, 0.61, 0.36, 1);
+  --t-fast: 160ms;
+
+  color-scheme: light;
+}
+
+/* ---- 暗色主题（跟随系统或手动切换）---- */
+[data-theme="dark"] {
+  --bg: #17191b;            /* 页面底色：深炭 */
+  --bg-soft: #1d2022;       /* 次级底色 */
+  --surface: #22262a;       /* 卡片面 */
+  --ink: #e8e9e4;           /* 主文字：暖白 */
+  --ink-2: #a6aca7;         /* 次级文字 */
+  --ink-3: #767c77;         /* 弱文字 */
+  --line: #33383b;          /* 分隔线 */
+  --accent: #5da583;        /* 强调色：亮松绿 */
+  --accent-soft: #24352d;   /* 强调色浅底 */
+  --accent-ink: #0f1512;    /* 强调色上的文字 */
+
+  --ok: #57b47f;
+  --warn: #d1a054;
+
+  --shadow-card: 0 1px 2px rgba(0, 0, 0, 0.3);
+  --shadow-pop: 0 12px 40px rgba(0, 0, 0, 0.5);
+
+  color-scheme: dark;
+}
