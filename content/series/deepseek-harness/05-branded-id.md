@@ -1,5 +1,5 @@
 ---
-title: 第10讲·Branded ID：用类型系统消灭"张冠李戴"
+title: 第05讲·Branded ID：用类型系统消灭"张冠李戴"
 summary: 从一个真实隐患出发，精读 dsh 的品牌类型原语，顺带修一门 TypeScript 类型体操小课。
 objectives:
   - 说出结构化类型（structural typing）带来的 ID 混用隐患
@@ -88,7 +88,7 @@ export function SessionId(id: string): SessionId {
 还有一个细节体现严谨：brand 包甚至配了一个"不变量伴侣"插件（invariant companion），注册进 dsh 的不变量检查体系——虽然它自己没有任何运行时不变量（纯类型工具靠单测保障），但走完了整个注册流程。这种"每个包都遵守同一套纪律"的一致性，是大型 monorepo 不腐烂的关键。
 
 > 💡 **知识拓展：这个模式在业界叫什么？**
-> Branded Type（品牌类型），也叫 Nominal Typing Simulation 或 Opaque Type 别名。GraphQL 客户端、货币处理库（区分 USD/EUR 金额）、单位制库（区分米/英尺）都用它。核心思想一句话：**用交叉类型给基础类型"纹身"，纹身内容编译期可验、运行时蒸发**。你在第 16 讲还会见到它的变体——scope 包里的 `ScopedBrand`。
+> Branded Type（品牌类型），也叫 Nominal Typing Simulation 或 Opaque Type 别名。GraphQL 客户端、货币处理库（区分 USD/EUR 金额）、单位制库（区分米/英尺）都用它。核心思想一句话：**用交叉类型给基础类型"纹身"，纹身内容编译期可验、运行时蒸发**。你在第 11 讲还会见到它的变体——scope 包里的 `ScopedBrand`。
 
 ## 试一试
 

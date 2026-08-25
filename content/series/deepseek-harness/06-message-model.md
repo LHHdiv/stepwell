@@ -1,5 +1,5 @@
 ---
-title: 第11讲·SessionEventMap：会话日志的完整词汇表
+title: 第06讲·SessionEventMap：会话日志的完整词汇表
 summary: 逐条精读 13 种会话事件：谁持久化、谁进模型历史、谁只给 UI 看，以及背后的取舍。
 objectives:
   - 背下 SessionEventMap 的全部事件并按"三类消费者"归类
@@ -87,7 +87,7 @@ export type TurnEndReason = TurnEndReasonMap[keyof TurnEndReasonMap]
 >   case 'error': reason.error  // ✅ 只有 error 变体才有 error 字段
 > }
 > ```
-> 这是 TS 处理"多种情况"的标准姿势，比 if-else 链 + 类型断言优雅得多。SessionEvent 本身也是同样的结构（`type` 字段做判别），第 13 讲的投影函数就靠它逐个收窄。
+> 这是 TS 处理"多种情况"的标准姿势，比 if-else 链 + 类型断言优雅得多。SessionEvent 本身也是同样的结构（`type` 字段做判别），第 08 讲的投影函数就靠它逐个收窄。
 
 还有一个容易被忽略的事件值得点名：`interrupted` 这个结束原因**永远不会由循环自己发出**，它是持久化后端在崩溃恢复时"替死者补写的死亡证明"——崩溃前那些事件完好保留，只是缺一个 turn/end，重载时由后端补上。系统对自己崩溃方式的想象，都写进了类型定义里。
 

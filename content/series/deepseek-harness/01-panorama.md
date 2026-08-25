@@ -64,11 +64,11 @@ deepseek-harness/
 
 智能体不是孤岛。这一族群负责和外部标准对话：
 
-- `mcp/mcp-client`：接入 MCP（Model Context Protocol，模型上下文协议——一个让任何工具提供方都能被任何智能体使用的开放标准）；→ 第 50 讲
-- `lsp`：接入 LSP（Language Server Protocol，语言服务器协议——VSCode 用的代码智能协议，让智能体获得跳转定义、查引用等超能力）；→ 第 51 讲
-- `acp`：ACP（Agent Client Protocol，智能体客户端协议）；→ 第 52 讲
-- `web` 家族：`web-search-deepseek` / `web-search-exa` / `web-search-perplexity`（三家搜索引擎适配）、`web-fetch-http`（网页抓取）；→ 第 53 讲
-- `subagent` 家族最有趣：除了自家的进程内实现，还有 `subagent-claude-code`、`subagent-codex` 这样的适配器——**把别家产品的智能体当成自己的子智能体来调用**。→ 第 54 讲
+- `mcp/mcp-client`：接入 MCP（Model Context Protocol，模型上下文协议——一个让任何工具提供方都能被任何智能体使用的开放标准）；→ 第 27 讲
+- `lsp`：接入 LSP（Language Server Protocol，语言服务器协议——VSCode 用的代码智能协议，让智能体获得跳转定义、查引用等超能力）；→ 第 28 讲
+- `acp`：ACP（Agent Client Protocol，智能体客户端协议）；→ 第 29 讲
+- `web` 家族：`web-search-deepseek` / `web-search-exa` / `web-search-perplexity`（三家搜索引擎适配）、`web-fetch-http`（网页抓取）；→ 第 30 讲
+- `subagent` 家族最有趣：除了自家的进程内实现，还有 `subagent-claude-code`、`subagent-codex` 这样的适配器——**把别家产品的智能体当成自己的子智能体来调用**。→ 第 31 讲
 
 ## 族群四：平台装配——从零件到产品
 

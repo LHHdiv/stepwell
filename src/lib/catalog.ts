@@ -71,7 +71,8 @@ export async function chaptersOf(
   });
 }
 
-/** 按元卡的 phases 分卷；没分进任何卷的章节归入"其他" */
+/** 按元卡的 phases 分卷；没分进任何卷的章节归入“其他”。slugPrefix 支持两种写法：
+ *  前缀匹配（"0" 匹配 00、01…）或区间匹配（"5-11" 匹配 05 到 11） */
 export function groupByPhases(
   s: SeriesEntry,
   chapters: ChapterEntry[]
@@ -83,12 +84,19 @@ export function groupByPhases(
   const other: ChapterEntry[] = [];
   for (const c of chapters) {
     const no = chapterNo(c);
-    const gi = s.data.phases.findIndex((p) => no.startsWith(p.slugPrefix));
+    const gi = s.data.phases.findIndex((p) => matchesPhase(no, p.slugPrefix));
     if (gi >= 0) groups[gi].items.push(c);
     else other.push(c);
   }
   if (other.length) groups.push({ name: "其他", items: other });
   return groups.filter((g) => g.items.length > 0);
+}
+
+function matchesPhase(no: string, slugPrefix: string): boolean {
+  const range = slugPrefix.match(/^(\d+)-(\d+)$/);
+  if (!range) return no.startsWith(slugPrefix);
+  const n = Number(no);
+  return n >= Number(range[1]) && n <= Number(range[2]);
 }
 
 /** 系列统计：总章数、总字数、总时长 */

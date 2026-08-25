@@ -1,5 +1,5 @@
 ---
-title: 第15讲·持久化与 fork：日志如何落盘、历史如何分身
+title: 第10讲·持久化与 fork：日志如何落盘、历史如何分身
 summary: 拆解 storage 枢纽的后端契约、持久化插件的事件订阅模型，以及 fork 的边界与拒绝码。
 objectives:
   - 描述 StorageBackend 的 facet 设计与"缺了就响亮失败"的解析策略
@@ -55,9 +55,9 @@ export interface StorageBackend {
 
 1. **核心可测试**：不需要 mock 文件系统就能测全部会话逻辑；
 2. **后端可热插**：从 JSON 换 SQLite = 卸载一个插件挂另一个，核心无感知；
-3. **策略可定制**：想要"每条都立即落盘"的偏执模式？想要"攒 5 秒批量写"的高性能模式？都是换个监听器的事。（第 11 讲提过的 `dsh-session-checkpoint-policy` 就是官方的检查点策略插件。）
+3. **策略可定制**：想要"每条都立即落盘"的偏执模式？想要"攒 5 秒批量写"的高性能模式？都是换个监听器的事。（第 06 讲提过的 `dsh-session-checkpoint-policy` 就是官方的检查点策略插件。）
 
-甚至崩溃善后也是插件的活：第 11 讲那个"由持久层替崩溃孤儿补写 turn/end（reason: interrupted）"的机制，就发生在重载时的持久化一侧——核心循环永远不会发出这个标记。
+甚至崩溃善后也是插件的活：第 06 讲那个"由持久层替崩溃孤儿补写 turn/end（reason: interrupted）"的机制，就发生在重载时的持久化一侧——核心循环永远不会发出这个标记。
 
 ## 三、fork：历史的分身术
 
@@ -75,7 +75,7 @@ fork(source: SessionForkSource, boundary?: number, childSessionId?: SessionId): 
 子: [e1' e2' e3' e4'] [自己的新事件...]   ← e1'-e4' 是种子重放的副本
 ```
 
-配合第 12 讲的头部字段食用：`parentSession` 记血统，`seedLength=4` 记"前 4 条是遗产"，还有一个专门的 `session/end-seed` 事件标记种子的结束位置（第 11 讲词汇表里那个 payload 为空、全靠位置表意的怪事件）。从此任何人都分得清孩子的"继承家业"和"自己奋斗"。
+配合第 07 讲的头部字段食用：`parentSession` 记血统，`seedLength=4` 记"前 4 条是遗产"，还有一个专门的 `session/end-seed` 事件标记种子的结束位置（第 06 讲词汇表里那个 payload 为空、全靠位置表意的怪事件）。从此任何人都分得清孩子的"继承家业"和"自己奋斗"。
 
 **但 fork 有脾气。** 源码定义了五种拒绝码，其中最有味道的是：
 

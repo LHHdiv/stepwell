@@ -1,5 +1,5 @@
 ---
-title: 第12讲·仅追加日志的宪法：版本、头部与失败哲学
+title: 第07讲·仅追加日志的宪法：版本、头部与失败哲学
 summary: 精读 SESSION_FORMAT_VERSION、SessionHeader 与 ignorable 标记，看 dsh 如何用规则治理一条永不回头的日志。
 objectives:
   - 说清仅追加（append-only）设计换来了什么、付出了什么
@@ -17,7 +17,7 @@ keyPoints:
 
 ## 一、为什么是"仅追加"
 
-先复习这个根本设定：会话日志**只允许追加，不允许修改或删除**。要"改变"历史？追加一条新事件来表达（比如压缩时用带 replace 标记的新节点覆盖旧内容——第 13 讲细讲）。原始记录永远躺在那里。
+先复习这个根本设定：会话日志**只允许追加，不允许修改或删除**。要"改变"历史？追加一条新事件来表达（比如压缩时用带 replace 标记的新节点覆盖旧内容——第 08 讲细讲）。原始记录永远躺在那里。
 
 这个约束换来四样东西：
 
@@ -26,7 +26,7 @@ keyPoints:
 3. **崩溃安全**：追加到一半断电，最坏情况是最后半条不完整，之前的完好无损；如果是原地改写，损坏的可能是一大片；
 4. **并发友好**：多读者永远看到一致的已提交前缀，不需要锁。
 
-代价也很直白：日志只增不减，磁盘占用持续增长。dsh 用压缩（compaction，第 24 讲）和外溢存储（spill）来对冲。这是典型的工程交换：**用空间和纪律，买正确性和可追溯性**。
+代价也很直白：日志只增不减，磁盘占用持续增长。dsh 用压缩（compaction，第 16 讲）和外溢存储（spill）来对冲。这是典型的工程交换：**用空间和纪律，买正确性和可追溯性**。
 
 > 💡 **知识拓展：这个思想在业界到处都是**
 > - 数据库的 WAL（预写日志）：先记日志再改数据，崩溃后靠日志恢复；
@@ -42,7 +42,7 @@ keyPoints:
 ```ts
 export interface SessionHeader {
   readonly version: number        // 磁盘格式版本，创建时盖戳
-  readonly id: SessionId          // 会话 ID（第 10 讲的品牌类型）
+  readonly id: SessionId          // 会话 ID（第 05 讲的品牌类型）
   readonly createdAt: number      // 创建时间的 Unix 毫秒数
   readonly cwd?: string           // 创建时的工作目录（绝对路径）
   readonly parentSession?: SessionId  // fork 自哪个父会话（种子血统）
@@ -102,7 +102,7 @@ ignorable?: true
 
 ## 试一试
 
-在仓库里搜索 `ignorable`（`grep -rn "ignorable" packages/core/session/`），看看目前哪些事件真的打了 `true` 标记，对照第 11 讲的分类表验证：打标记的是不是都是"丢了也不影响重建"的信息型记录？
+在仓库里搜索 `ignorable`（`grep -rn "ignorable" packages/core/session/`），看看目前哪些事件真的打了 `true` 标记，对照第 06 讲的分类表验证：打标记的是不是都是"丢了也不影响重建"的信息型记录？
 
 ## 下一讲预告
 

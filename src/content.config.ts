@@ -35,8 +35,8 @@ const seriesMeta = defineCollection({
     /** 状态：ongoing 连载 | done 完结 | paused 暂停 */
     status: z.enum(["ongoing", "done", "paused"]).default("ongoing"),
     /**
-     * 分卷规划：name 为卷名，slugPrefix 为该卷章节文件名前缀区间起点，
-     * 例如 slugPrefix "0" 匹配 00-xx 01-xx …；"1" 匹配 10-xx … 19-xx。
+     * 分卷规划：name 为卷名，slugPrefix 支持两种写法：
+     * 前缀匹配（如 "0" 匹配 00-xx、01-xx …）或区间匹配（"5-11" 匹配第 5 到第 11 章）。
      * 目录页按 phases 顺序分组展示。
      */
     phases: z
