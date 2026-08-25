@@ -7,8 +7,8 @@ objectives:
   - 概述适配器内部 translate/serialize/file-store 的分工
 tags: [deepseek-harness, sse, llm-deepseek]
 keyPoints:
-  - SSE 帧 = 事件 + 空行终止符；注释与非 data 字段被跳过，多行 data: 合并
-  - [DONE] 是 DeepSeek/OpenAI 的终结哨兵；EOF 前没见到它 = STREAM_CLOSED 截断错误
+  - "SSE 帧 = 事件 + 空行终止符；注释与非 data 字段被跳过，多行 data 合并"
+  - "[DONE] 是 DeepSeek/OpenAI 的终结哨兵；EOF 前没见到它 = STREAM_CLOSED 截断错误"
   - 解析器只管解码字节流，协议语义（含哨兵处理）归调用方——分层清晰
   - 适配器包内另有 translate(方言转换)、serialize、files-api(文件上传) 三位配角
 ---

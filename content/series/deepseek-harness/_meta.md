@@ -11,7 +11,7 @@ category: source
 level: deep
 hue: "#2F6B4F"
 hue2: "#7FB89A"
-status: ongoing
+status: done
 order: 1
 phases:
   - name: 卷一 · 启程：世界观与地图（00-04）

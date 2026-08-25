@@ -7,7 +7,7 @@ objectives:
   - 解释"按操作解析"如何让密钥轮换免重启
 tags: [deepseek-harness, credentials, 安全]
 keyPoints:
-  - 配置里写 apiKeyEnv: DEEPSEEK_API_KEY 这样的引用；真值住在凭据提供方
+  - "配置里写 apiKeyEnv 引用（如 DEEPSEEK_API_KEY）；真值住在凭据提供方"
   - resolve(ref) 在每个操作开始时调用，绝不跨操作缓存——改钥匙即时生效
   - 空存储值 = 不存在：空白永远不能伪装成已配置
   - 键文法 <scope>/<id> 中 scope 取插件注册名，让两个键空间永不相撞
