@@ -91,6 +91,10 @@ export type TurnEndReason = TurnEndReasonMap[keyof TurnEndReasonMap]
 
 还有一个容易被忽略的事件值得点名：`interrupted` 这个结束原因**永远不会由循环自己发出**，它是持久化后端在崩溃恢复时"替死者补写的死亡证明"——崩溃前那些事件完好保留，只是缺一个 turn/end，重载时由后端补上。系统对自己崩溃方式的想象，都写进了类型定义里。
 
+## 🔍 被否决的方案：不存 chunk 只存完整消息？
+
+Agent Note《assembled-assistant-messages-only》（状态：rejected）曾正式提案停止持久化 assistant/chunk——理由听起来很充分：派生历史只用 assistant/message，chunk 让 JSONL 日志被微小增量淹没、快照场景被迫“对分片事件分组来模拟模型”。否決理由一针见血：高保真回放、失败流的部分输出、快照确定性都依赖 chunk，“只有具备无信息损失的回放替代方案后，才能删除分片”。你在本章看到的“一条回复记两遍”，是信息保真与存储体积博奕后的胜者——而且赢的理由写得明明白白。
+
 ## 试一试
 
 打开 `packages/core/session/src/types.ts`，找到 `TodoItem` 接口。它故意没有 id 和 priority 字段——读读上面的注释，用一句话回答：为什么每次写入都要全量替换整个清单，而不是增量更新单条？（答案就在注释里，这也是在练"读官方注释"的肌肉。）

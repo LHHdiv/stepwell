@@ -84,6 +84,10 @@ fork(source: SessionForkSource, boundary?: number, childSessionId?: SessionId): 
 
 其余拒绝码也各有含义：源不存在（SESSION_NOT_FOUND）、源对象不是存储里的活跃实例（SESSION_NOT_LIVE——防止拿一个已被顶替的旧对象来 fork）、孩子 id 已被占用（SESSION_ALREADY_EXISTS）。每个错误都精确命名，调用方可以逐个处理——这也是 fail-loud 哲学在 API 层的延伸。
 
+## 🔍 被否决的方案：把持久化接口折叠进 dsh-session？
+
+Agent Note《fold-session-persistence-interface》（rejected）提议把独立的持久化 Service Definition 包并入 dsh-session，减少包数量。否决理由：那正是能力 seam 预期的模块化角色拆分，折叠虽省一个包，却会牺牲清晰的后端边界。——本章讲的分层不是教条，而是被正式审视过并被保住的决策；仓库里甚至有一篇《NIH 审计》笔记专门记录哪些“合并简化”被拒绝，以免后人从零重新争论一遍。
+
 ## 试一试
 
 在仓库里搜 `session/end-seed` 的文档注释（types.ts 里那段超长的注释），找出它为什么强调"定位最后一条 end-seed 而不是第一条"？（提示：想象一个 fork 出来的会话再次被 fork，日志里会有几条 end-seed？）这道题想明白，你对种子机制的掌握就毕业了。
