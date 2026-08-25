@@ -8,7 +8,7 @@ objectives:
 tags: [deepseek-harness, typescript, 类型体操]
 keyPoints:
   - TS 是结构化类型系统："形状相同即可互换"，这让两个不同的 ID 可以互相冒充
-  - Branded<B> = string & { readonly [BRAND]: B }，用交叉类型制造"名义类型"效果
+  - "Branded<B> = string & { readonly [BRAND]: B }，用交叉类型制造名义类型效果"
   - 品牌化是编译期行为，运行时就是普通 string——工厂函数里一次 as 强转，零开销
   - 政策：只有跨包边界、可能混淆的 ID 才品牌化（CallId、SessionId、JobId）
 ---
