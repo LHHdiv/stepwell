@@ -52,17 +52,20 @@ const usedCats = [...new Set(seriesList.map((s) => s.data.category))];
   <ChapterData />
 
   <script>
-    // 书架分类筛选：纯客户端，无依赖
-    document.querySelectorAll<HTMLButtonElement>("[data-cat-filter]").forEach((btn) => {
-      btn.addEventListener("click", () => {
-        const cat = btn.dataset.catFilter ?? "*";
-        document.querySelectorAll<HTMLButtonElement>("[data-cat-filter]").forEach((b) =>
-          b.setAttribute("aria-pressed", String(b === btn))
-        );
-        document.querySelectorAll<HTMLElement>("#library-grid > [data-cat]").forEach((cell) => {
-          cell.style.display = cat === "*" || cell.dataset.cat === cat ? "grid" : "none";
-        });
+    // 书架分类筛选：纯客户端，无依赖。支持 /library/?cat=source 直达某一类。
+    const buttons = document.querySelectorAll<HTMLButtonElement>("[data-cat-filter]");
+    const apply = (cat: string) => {
+      buttons.forEach((b) =>
+        b.setAttribute("aria-pressed", String((b.dataset.catFilter ?? "*") === cat))
+      );
+      document.querySelectorAll<HTMLElement>("#library-grid > [data-cat]").forEach((cell) => {
+        cell.style.display = cat === "*" || cell.dataset.cat === cat ? "grid" : "none";
       });
+    };
+    buttons.forEach((btn) => {
+      btn.addEventListener("click", () => apply(btn.dataset.catFilter ?? "*"));
     });
+    const fromUrl = new URLSearchParams(location.search).get("cat");
+    if (fromUrl && [...buttons].some((b) => b.dataset.catFilter === fromUrl)) apply(fromUrl);
   </script>
 </Base>

@@ -1,7 +1,7 @@
 /* 拾阶 STEPWELL · 轻量 Service Worker
  * 安装后：已访问过的页面可离线打开；未访问过的页面回退到 /offline/
  */
-const CACHE = "stepwell-v1";
+const CACHE = "stepwell-v2";
 const FALLBACK = "/offline/";
 
 self.addEventListener("install", (event) => {
