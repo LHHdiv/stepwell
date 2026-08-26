@@ -56,7 +56,7 @@ pnpm dsh --help           # 子命令帮助由应用自己持有
 | 1157 | session 包主文件 index.ts 行数 | `wc -l packages/core/session/src/index.ts` |
 | 1484 | .agents/notes 下 Agent Note 总数 | `find .agents/notes -name "*.md" \| wc -l` |
 | 11 | 被否决的简化/特性提案（zh） | `find .agents/notes/rejected -name "*.zh.md" \| wc -l` |
-| 4 | 事故复盘文档数 | `ls docs/postmortem/*.md \| wc -l` |
+| 10 | 事故复盘文档数 | `ls docs/postmortem/*.md \| wc -l` |
 | 9 | docs/cookbook 实操指南数 | `ls docs/cookbook/*.zh.md \| wc -l` |
 | 3 | 出厂 profile 形态相关组合包（base/web-app/headless） | `ls packages/bundle/` |
 

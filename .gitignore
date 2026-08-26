@@ -18,3 +18,6 @@ Thumbs.db
 # 日志
 *.log
 npm-debug.log*
+
+# 智能体工作区（含私有记忆/技能，禁止提交）
+.workbuddy/
