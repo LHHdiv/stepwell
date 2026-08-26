@@ -21,3 +21,8 @@ npm-debug.log*
 
 # 智能体工作区（含私有记忆/技能，禁止提交）
 .workbuddy/
+
+# 本地排版试稿，不进仓库
+/test.html
+/test1.html
+/test*.html

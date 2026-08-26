@@ -1,5 +1,5 @@
 ---
-/** 首页「书房」：信息密度优先 —— 今日继续 + 双入口 + 最新更新 + 分类导览 */
+/** 首页「书房」：三列书架 + 最新更新 + 分类导览 */
 import { getCollection } from "astro:content";
 import { allSeries, chaptersOf, seriesStats, categoryInfo } from "../lib/catalog";
 import Base from "../layouts/Base.astro";
@@ -23,7 +23,7 @@ const posts = (await getCollection("posts", (p) => !p.data.draft)).sort(
 
 // 全系列最新章节（按文件序取每卷最后一讲，简单取每系列最后一章作为"更新到"）
 const latest: { url: string; title: string; seriesTitle: string; no: string }[] = [];
-for (const s of seriesList.slice(0, 3)) {
+for (const s of seriesList.slice(0, 6)) {
   const chs = await chaptersOf(s.id);
   const last = chs[chs.length - 1];
   if (last)
@@ -94,38 +94,36 @@ for (const p of posts) {
     </a>
   </section>
 
-  <!-- ===== 双栏：系列 + 独立文章 ===== -->
-  <section class="section home-duo">
-    <div>
-      <div class="section-head">
-        <h2 class="section-title">系列课程</h2>
-        <a class="section-more" href="/library/">全部 →</a>
-      </div>
-      <div class="series-grid series-grid-tight">
-        {seriesList.slice(0, 4).map((s, i) => (
-          <SeriesCard series={s} no={i + 1} />
-        ))}
-      </div>
+  <!-- ===== 系列：三列齐平，避免第三本孤零零掉一行 ===== -->
+  <section class="section">
+    <div class="section-head">
+      <h2 class="section-title">系列课程</h2>
+      <a class="section-more" href="/library/">全部 →</a>
     </div>
+    <div class="series-grid home-shelf">
+      {seriesList.slice(0, 6).map((s, i) => (
+        <SeriesCard series={s} no={i + 1} />
+      ))}
+    </div>
+  </section>
 
-    <aside>
-      <div class="section-head">
-        <h2 class="section-title">最新更新</h2>
-      </div>
-      <ul class="latest-list">
-        {latest.map((l) => (
-          <li>
-            <a href={l.url}>
-              <span class="latest-no">{l.no}</span>
-              <span class="latest-body">
-                <span class="latest-series">{l.seriesTitle}</span>
-                <span class="latest-title">{l.title}</span>
-              </span>
-            </a>
-          </li>
-        ))}
-      </ul>
-    </aside>
+  <section class="section">
+    <div class="section-head">
+      <h2 class="section-title">最新更新</h2>
+    </div>
+    <ul class="latest-list latest-strip">
+      {latest.map((l) => (
+        <li>
+          <a href={l.url}>
+            <span class="latest-no">{l.no}</span>
+            <span class="latest-body">
+              <span class="latest-series">{l.seriesTitle}</span>
+              <span class="latest-title">{l.title}</span>
+            </span>
+          </a>
+        </li>
+      ))}
+    </ul>
   </section>
 
   <!-- ===== 独立文章条 ===== -->

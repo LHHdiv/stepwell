@@ -1058,6 +1058,30 @@
     grid-template-columns: 1fr;
   }
 }
+
+/* 首页书架：三本并排，卡片同高；窄屏两列、手机一列 */
+.home-shelf {
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--sp-4);
+  align-items: stretch;
+}
+.home-shelf .series-card {
+  height: 100%;
+}
+.home-shelf .card-sub {
+  min-height: 2.6em;
+}
+@media (max-width: 960px) {
+  .home-shelf {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+@media (max-width: 560px) {
+  .home-shelf {
+    grid-template-columns: 1fr;
+  }
+}
+
 .series-grid-tight {
   grid-template-columns: repeat(2, 1fr);
   gap: var(--sp-4);
@@ -1074,6 +1098,15 @@
   padding: 0;
   display: grid;
   gap: var(--sp-2);
+}
+.latest-strip {
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--sp-4);
+}
+@media (max-width: 960px) {
+  .latest-strip {
+    grid-template-columns: 1fr;
+  }
 }
 .latest-list li a {
   display: flex;
@@ -1110,6 +1143,17 @@
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+}
+.latest-strip .latest-list li a,
+.latest-strip li a {
+  height: 100%;
+  align-items: flex-start;
+}
+.latest-strip .latest-title {
+  white-space: normal;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
 }
 
 .post-strip {
