@@ -1,6 +1,174 @@
 {
-  "generatedAt": "2026-08-29T04:55:32.727Z",
+  "generatedAt": "2026-08-30T02:40:32.489Z",
   "items": [
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "FreeCORE TrueNAS Core – Continued",
+      "link": "https://freecore.org/",
+      "summary": "Article URL: https://freecore.org/ Comments URL: https://news.ycombinator.com/item?id=49494856 Points: 28 # Comments: 10",
+      "date": "2026-08-30T01:31:32.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Bug Blindness",
+      "link": "https://danluu.com/bug-blind/",
+      "summary": "Article URL: https://danluu.com/bug-blind/ Comments URL: https://news.ycombinator.com/item?id=49494520 Points: 64 # Comments: 24",
+      "date": "2026-08-30T00:21:40.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "Pixel 11 取消了对硬件 MTE 的支持",
+      "link": "https://www.solidot.org/story?sid=85233",
+      "summary": "Android 安全加固项目 GrapheneOS 发现，Google 新一代旗舰智能手机 Pixel 11 取消了对硬件 MTE（hardware memory tagging）的支持，导致该项目无法完成对 Pixel 11 的支持。MTE（Memory Tagging Extension）是 ARMv8.5-A 架",
+      "date": "2026-08-29T23:44:03.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Highest-ever ocean temperature measured as powerful El Niño forms",
+      "link": "https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms",
+      "summary": "Article URL: https://www.latimes.com/environment/story/2026-08-26/highest-ever-ocean-temperature-measured-as-powerful-el-nino-forms Comments URL: https://news.y",
+      "date": "2026-08-29T23:26:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
+      "link": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
+      "summary": "Article URL: https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/ Comments URL: https://news.ycombinator.com/item?id=494",
+      "date": "2026-08-29T23:17:17.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "I co-founded Burning Man. The festival has lost its soul",
+      "link": "https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/",
+      "summary": "Article URL: https://sfstandard.com/2026/08/29/burning-man-lost-its-soul-founder/ Comments URL: https://news.ycombinator.com/item?id=49494151 Points: 111 # Comm",
+      "date": "2026-08-29T23:12:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Defrag98: Windows 98 Disk Defragmenter Simulator Online",
+      "link": "https://defrag98.com",
+      "summary": "Article URL: https://defrag98.com Comments URL: https://news.ycombinator.com/item?id=49494036 Points: 95 # Comments: 50",
+      "date": "2026-08-29T22:51:17.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Hy4 preview",
+      "link": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+      "summary": "Article URL: https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/ Comments URL: https://news.ycombinator.com/item?id=49492632 Points: ",
+      "date": "2026-08-29T19:33:23.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Domain-Driven Agents",
+      "link": "https://coldtake.dev/blog/domain-driven-agents",
+      "summary": "Article URL: https://coldtake.dev/blog/domain-driven-agents Comments URL: https://news.ycombinator.com/item?id=49492584 Points: 57 # Comments: 6",
+      "date": "2026-08-29T19:28:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Functional State Machines in Rust: Typestate and Newtype Patterns",
+      "link": "https://dl.acm.org/doi/10.1145/3830438.3830958",
+      "summary": "Article URL: https://dl.acm.org/doi/10.1145/3830438.3830958 Comments URL: https://news.ycombinator.com/item?id=49492368 Points: 55 # Comments: 13",
+      "date": "2026-08-29T19:01:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+      "link": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits Comments URL: https://news.ycombinator.com/it",
+      "date": "2026-08-29T18:44:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+      "link": "https://tucker.wales/writing/bias-towards-action/",
+      "summary": "Article URL: https://tucker.wales/writing/bias-towards-action/ Comments URL: https://news.ycombinator.com/item?id=49491714 Points: 116 # Comments: 49",
+      "date": "2026-08-29T17:39:18.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
+      "link": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
+      "summary": "Article URL: https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity Comments URL: https://news.ycombinator.com/item?id=49491568 Points",
+      "date": "2026-08-29T17:19:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Trees for a Changing Climate and Resilient Urban Forest (2022)",
+      "link": "https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest",
+      "summary": "Article URL: https://www.coolboulder.org/news/trees-for-a-changing-climate-resilient-urban-forest Comments URL: https://news.ycombinator.com/item?id=49491175 Po",
+      "date": "2026-08-29T16:24:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Nancy Grace Roman Space Telescope",
+      "link": "https://science.nasa.gov/mission/roman-space-telescope/",
+      "summary": "https://nextspaceflight.com/launches/details/6983/ https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grac... https://en.wikipedia.org/wiki/Nancy_Grace_Rom",
+      "date": "2026-08-29T15:48:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Quantifying Colour",
+      "link": "https://ekunazanu.foo/lab/quantifying-colour/",
+      "summary": "Article URL: https://ekunazanu.foo/lab/quantifying-colour/ Comments URL: https://news.ycombinator.com/item?id=49490832 Points: 72 # Comments: 7",
+      "date": "2026-08-29T15:43:53.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "女性在产后遭遇 PTSD",
+      "link": "https://www.solidot.org/story?sid=85231",
+      "summary": "东英吉利大学的一项研究认为，英国可能有数万女性在产后经历未诊断的 PTSD（创伤后应激障碍）。PTSD 可能在经历艰难的妊娠或分娩后出现，其症状包括闪回、噩梦、焦虑和持续的负面想法。最新数据显示，2021-2023 年间自杀是英国产后六周至一年内女性死亡的首要原因。研究人员称这些死亡只是冰山一角，有更多女性正遭受严重的",
+      "date": "2026-08-29T14:52:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+      "link": "https://uecker.codeberg.page/2026-08-29.html",
+      "summary": "Article URL: https://uecker.codeberg.page/2026-08-29.html Comments URL: https://news.ycombinator.com/item?id=49490138 Points: 69 # Comments: 43",
+      "date": "2026-08-29T14:20:33.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "日韩上半年人口都出现增长",
+      "link": "https://www.solidot.org/story?sid=85230",
+      "summary": "韩国和日本两国今年上半年人口都恢复了增长：",
+      "date": "2026-08-29T14:15:15.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "Debian 项目将允许以负责任的方式使用生成式 AI",
+      "link": "https://www.solidot.org/story?sid=85229",
+      "summary": "Debian 项目对是否允许使用 AI 进行了投票表决，投票采用孔多塞投票法，共有 9 个选项，最终结果是第 5 选项“负责任的使用生成式 AI”获胜。Debian 项目表示，它既不反对也不支持在软件、包、文档等的开发和维护中使用生成式 AI 工具。但项目也认识到，如果能负责任的使用 AI 工具，将能显著提高贡献者的效",
+      "date": "2026-08-29T13:37:00.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "一句话找图，低清图再增强：HarmonyOS7 视觉 AI 如何走进真实应用",
+      "link": "https://www.infoq.cn/article/3R8f57Bow3B4kEBkPv5J?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-08-29T13:19:17.000Z"
+    },
     {
       "source": "AI 前线",
       "tag": "ai",
@@ -10,36 +178,28 @@
       "date": "2026-08-29T12:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "TurboKV: Insanely fast Rust key-value store",
-      "link": "https://github.com/kingroryg/turbokv",
-      "summary": "Article URL: https://github.com/kingroryg/turbokv Comments URL: https://news.ycombinator.com/item?id=49486334 Points: 41 # Comments: 12",
-      "date": "2026-08-29T02:23:37.000Z"
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "人形机器人的跑步方式与人类不同",
+      "link": "https://www.solidot.org/story?sid=85228",
+      "summary": "北京人形机器人创新中心研发的通用人形机器人天工在世界人形机器人运动会上跑出了 100 米 8.64 秒的成绩，远超博尔特（Usain Bolt）于 2009 年创下的 100 米 9.58 秒的人类世界纪录。机器人的平均速度接近 42 公里/时。专家表示，这一成绩凸显了机器人的强大，也凸显了它们在决策和感知等方面的不足",
+      "date": "2026-08-29T10:46:44.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "程序员在公司厕所猝死，人社局以电脑没开不认定工伤",
+      "link": "https://www.solidot.org/story?sid=85227",
+      "summary": "39 岁的深圳程序员邢志（化名）于 2026 年 4 月 23 日 8 时 56 分驾车进入公司所在办公楼负 2 楼停车，9 时步行至电梯厅询问值班安保 2 楼卫生间位置，1 分钟后，其到达卫生间一直未出，直至 11 时 28 分被发现失去意识躺坐在马桶上。公司随即用 AED 进行急救并拨打 120。12 时 50 分",
+      "date": "2026-08-29T09:57:06.000Z"
     },
     {
       "source": "Hacker News",
       "tag": "ai",
-      "title": "Kumander Linux – A Linux Distro with a Windows 7 Desktop",
-      "link": "https://www.kumander.org/",
-      "summary": "Article URL: https://www.kumander.org/ Comments URL: https://news.ycombinator.com/item?id=49486176 Points: 26 # Comments: 4",
-      "date": "2026-08-29T01:48:15.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "link": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
-      "summary": "Article URL: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/ Comments URL: https://news.ycombinator.com/item?id=49486172 Po",
-      "date": "2026-08-29T01:47:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "StemDeck, a free, open-source and local AI stem separator",
-      "link": "https://github.com/stemdeckapp/stemdeck",
-      "summary": "Article URL: https://github.com/stemdeckapp/stemdeck Comments URL: https://news.ycombinator.com/item?id=49486081 Points: 49 # Comments: 12",
-      "date": "2026-08-29T01:24:13.000Z"
+      "title": "Samsung's Processing-in-Memory (PIM)",
+      "link": "https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing",
+      "summary": "Article URL: https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing Comments URL: https://news.ycombinator.com/item?id=49487341 Points: 246 # Comments:",
+      "date": "2026-08-29T06:06:51.000Z"
     },
     {
       "source": "少数派",
@@ -60,58 +220,10 @@
     {
       "source": "Hacker News",
       "tag": "ai",
-      "title": "Does the Sumerian King List Align with Paleoclimate Events?",
-      "link": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
-      "summary": "Article URL: https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/ Comments URL: https://news.ycombinator.com/item?id",
-      "date": "2026-08-28T23:46:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "PPWR lands another blow to an precarious tabletop industry",
-      "link": "https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/",
-      "summary": "Article URL: https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/ Comments URL: https://news.ycombinator.com/item?id=4948",
-      "date": "2026-08-28T23:41:05.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "9th Circuit sides with states in Kalshi gambling fight",
-      "link": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
-      "summary": "Article URL: https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/ Comments URL: htt",
-      "date": "2026-08-28T23:32:22.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "I accidentally turned LLM memory into program analysis",
-      "link": "https://pwning.systems/posts/llm-memory-program-analysis/",
-      "summary": "Article URL: https://pwning.systems/posts/llm-memory-program-analysis/ Comments URL: https://news.ycombinator.com/item?id=49485416 Points: 72 # Comments: 13",
-      "date": "2026-08-28T23:27:45.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
       "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
       "link": "https://github.com/Lakr233/vphone-cli",
-      "summary": "Article URL: https://github.com/Lakr233/vphone-cli Comments URL: https://news.ycombinator.com/item?id=49485267 Points: 171 # Comments: 60",
+      "summary": "Article URL: https://github.com/Lakr233/vphone-cli Comments URL: https://news.ycombinator.com/item?id=49485267 Points: 383 # Comments: 103",
       "date": "2026-08-28T23:02:21.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Identifying fake cosmetics using AI",
-      "link": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
-      "summary": "Article URL: https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html Comments URL: https://news.ycombinator.com/item?id=49484925 Points: 44 # Comm",
-      "date": "2026-08-28T22:18:27.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Aspirational Clownmaxxing and Joey's cadillac todo list",
-      "link": "https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/",
-      "summary": "Article URL: https://charlesleifer.com/blog/aspirational-clownmaxxing-and-joey-s-cadillac-todo-list/ Comments URL: https://news.ycombinator.com/item?id=49483080",
-      "date": "2026-08-28T19:18:22.000Z"
     },
     {
       "source": "AI 前线",
@@ -120,22 +232,6 @@
       "link": "https://www.infoq.cn/article/c4zPz7WHXryL5Erw7xop?utm_source=rss&utm_medium=article",
       "summary": "点击查看原文>",
       "date": "2026-08-28T18:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-      "link": "https://arxiv.org/abs/2608.23691",
-      "summary": "Article URL: https://arxiv.org/abs/2608.23691 Comments URL: https://news.ycombinator.com/item?id=49481455 Points: 91 # Comments: 23",
-      "date": "2026-08-28T17:01:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research",
-      "link": "https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering",
-      "summary": "Article URL: https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering Comments URL: https://news.ycombinator.com/item?id",
-      "date": "2026-08-28T17:00:06.000Z"
     },
     {
       "source": "AI 前线",
@@ -186,14 +282,6 @@
       "date": "2026-08-28T16:09:08.000Z"
     },
     {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Just the rumour of a bug is enough to find an exploit these days",
-      "link": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-      "summary": "Article URL: https://anil.recoil.org/notes/rumour-is-the-exploit Comments URL: https://news.ycombinator.com/item?id=49480466 Points: 280 # Comments: 101",
-      "date": "2026-08-28T15:58:46.000Z"
-    },
-    {
       "source": "AI 前线",
       "tag": "ai",
       "title": "大模型和硬件之间，长出了一层新生意",
@@ -228,26 +316,10 @@
     {
       "source": "Hacker News",
       "tag": "ai",
-      "title": "EasyEffects can improve laptop speaker sound quality",
-      "link": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
-      "summary": "Article URL: https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-spea",
-      "date": "2026-08-28T15:23:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "GLM-5.3 is now open-weight",
-      "link": "https://huggingface.co/zai-org/GLM-5.3",
-      "summary": "https://twitter.com/Zai_org/status/2093354097122455713 https://z.ai/blog/glm-5.3 Comments URL: https://news.ycombinator.com/item?id=49479878 Points: 631 # Comme",
-      "date": "2026-08-28T15:20:13.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "GUIs should be fully keyboard-driven",
-      "link": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
-      "summary": "Article URL: https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html Comments URL: https://news.ycombinator.com/item?id=49479837 Points: 685 # Comments:",
-      "date": "2026-08-28T15:17:09.000Z"
+      "title": "Creating the Aetheryte Radio",
+      "link": "https://haz.ee/posts/aetheryte-radio.html",
+      "summary": "Article URL: https://haz.ee/posts/aetheryte-radio.html Comments URL: https://news.ycombinator.com/item?id=49479546 Points: 68 # Comments: 14",
+      "date": "2026-08-28T14:59:15.000Z"
     },
     {
       "source": "Solidot",
@@ -256,14 +328,6 @@
       "link": "https://www.solidot.org/story?sid=85224",
       "summary": "根据网友在小红书上发布、由 BBC 验证真实性的两则无人机拍摄视频，视频记录了喜马拉雅山脉蓝塘里壤峰冰川崩塌的瞬间，中尼边境的致命泥石流灾害正是由其引发的。蓝塘里壤峰海拔约 7200 米，冰川崩塌扬起的尘土直冲云霄。截至目前，尼泊尔报告其境内的死亡人数达到了 547 人，失踪外国游客 575 人——其中包括 183 名",
       "date": "2026-08-28T14:39:21.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Verschlimmbesserung: The Word Your Software Updates Need",
-      "link": "https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/",
-      "summary": "Article URL: https://geekyschmidt.com/post/2026-08-25-verschlimmbesserung/ Comments URL: https://news.ycombinator.com/item?id=49479072 Points: 117 # Comments: 7",
-      "date": "2026-08-28T14:30:33.000Z"
     },
     {
       "source": "AI 前线",
@@ -288,22 +352,6 @@
       "link": "https://www.solidot.org/story?sid=85223",
       "summary": "美国国务院和财政部周三将一家提供加密聊天和电子邮件、网站托管、安全视频会议和流媒体等服务的意大利组织 Autistici/Inventati 列入特别指定全球恐怖分子名单，这意味着美国公民与该组织进行的任何交易都是违法的。美国国务院列举的一个理由是该组织为极左翼组织如 Antifa 提供了数字基础设施，让极左激进分子能",
       "date": "2026-08-28T13:33:01.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Htmx 4.0",
-      "link": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-      "summary": "Article URL: https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released Comments URL: https://news.ycombinator.com/item?id=49478178 Points: 575 # Com",
-      "date": "2026-08-28T13:28:56.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "U.S. sanctions against the A/I Collective",
-      "link": "https://www.inventati.org/",
-      "summary": "Earlier: US Government designates host of noblogs.org a \"global terrorist\" - https://news.ycombinator.com/item?id=49464391 - (131 comments) US sanctions Italian",
-      "date": "2026-08-28T12:58:53.000Z"
     },
     {
       "source": "AI 前线",
@@ -360,14 +408,6 @@
       "link": "https://www.infoq.cn/article/MCTm2NvWob0ZHulXe0AQ?utm_source=rss&utm_medium=article",
       "summary": "点击查看原文>",
       "date": "2026-08-28T10:58:42.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "Cloudflare 将工程规范改造为 AI 强制执行的管控系统",
-      "link": "https://www.infoq.cn/article/TEgX02zINMmLVbYPyP0N?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-08-28T10:53:07.000Z"
     },
     {
       "source": "Solidot",
@@ -514,6 +554,14 @@
       "date": "2026-08-27T14:29:55.000Z"
     },
     {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "The Wandering Yamamura Theater Troupe",
+      "link": "https://cinemasojourns.com/2026/08/27/the-wandering-yamamura-theater-troupe/",
+      "summary": "Article URL: https://cinemasojourns.com/2026/08/27/the-wandering-yamamura-theater-troupe/ Comments URL: https://news.ycombinator.com/item?id=49465250 Points: 8 ",
+      "date": "2026-08-27T14:13:15.000Z"
+    },
+    {
       "source": "Solidot",
       "tag": "tech",
       "title": "亚马逊 AI 训练设施员工谈内部工作",
@@ -536,14 +584,6 @@
       "link": "https://www.ifanr.com/1677118?utm_source=rss&utm_medium=rss&utm_campaign=",
       "summary": "小鹏 VLA 获得了奇异博士的超能力。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "date": "2026-08-27T13:36:06.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "亚马逊 Mechanical Turk 将于 9 月 30 日关闭",
-      "link": "https://www.solidot.org/story?sid=85212",
-      "summary": "亚马逊宣布其众包平台 Mechanical Turk 将于 9 月 30 日关闭。亚马逊上个月才宣布将于 7 月 30 日起停止接受新用户。当时亚马逊表示该决定是在“慎重考虑”后做出的，“现有用户可以继续正常使用该服务。AWS 将继续投资改进 Mechanical Turk 的安全性和可用性，但我们不打算推出新功能。如",
-      "date": "2026-08-27T10:48:03.000Z"
     },
     {
       "source": "爱范儿",
@@ -578,28 +618,12 @@
       "date": "2026-08-27T09:33:10.000Z"
     },
     {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "LibreOffice 26.8 释出",
-      "link": "https://www.solidot.org/story?sid=85211",
-      "summary": "The Document Foundation 宣布释出 LibreOffice 26.8，强调该版本不包含生成式 AI 功能，不会将文档传输到远程服务进行处理，各个组件也不需要网络访问就能运行。LibreOffice 26.8 最大的单项改进聚焦于双向文本和复杂文本处理。Writer 现在会在打开或粘贴文档/纯文本时",
-      "date": "2026-08-27T09:22:30.000Z"
-    },
-    {
       "source": "爱范儿",
       "tag": "tech",
       "title": "智元机器人「奥运」首秀封神，戴着工牌狂揽 18 枚金牌",
       "link": "https://www.ifanr.com/1676970?utm_source=rss&utm_medium=rss&utm_campaign=",
       "summary": "刚下工厂，就上赛场，金牌榜奖牌榜双领跑 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "date": "2026-08-27T08:48:38.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "Apple Maps 加入广告",
-      "link": "https://www.solidot.org/story?sid=85210",
-      "summary": "苹果的地图服务 Apple Maps 加入了广告。美国和加拿大用户的搜索结果顶部以及“推荐地点（suggested places）”部分会显示付费广告商家的名字。苹果表示，广告可能基于用户的大致位置、搜索词或正在查看的地图区域，但不会与用户的 Apple 帐户关联，个人数据也保留在设备上。付费商家上会显示“Ad”的蓝色",
-      "date": "2026-08-27T08:38:19.000Z"
     },
     {
       "source": "少数派",
@@ -618,36 +642,12 @@
       "date": "2026-08-27T07:24:07.000Z"
     },
     {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "中尼边境泥石流灾害逾 1300 人失踪",
-      "link": "https://www.solidot.org/story?sid=85209",
-      "summary": "8 月 26 日周三上午中尼边境吉隆口岸发生泥石流灾害。尼泊尔周四报告有 165 人死亡，826 人失踪。中国央视报告，截至周四上午有 3 人死亡，558 人失踪，其中外国人 260 人。这次事件被认为是冰川崩塌引起的，冰川崩塌的震动是如此之大，以至于当地地震仪记录到了地震事件。美国地质调查局（USGS）称未发生地震，",
-      "date": "2026-08-27T07:22:02.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "亚马逊收购开源数据库 DuckDB 开发团队",
-      "link": "https://www.solidot.org/story?sid=85208",
-      "summary": "亚马逊同意收购开源数据库 DuckDB 开发团队 DuckLabs。DuckLabs 员工将加入亚马逊 AWS，其中包括联合创始人 Hannes Muhleisen 和 Mark Raasveldt，他们将继续领导团队和制定项目的技术方向，员工也将继续在阿姆斯特丹办公。DuckDB 项目将继续维持现有的开源状态，使用 ",
-      "date": "2026-08-27T06:47:56.000Z"
-    },
-    {
       "source": "爱范儿",
       "tag": "tech",
       "title": "苹果发布会最全爆料：折叠 iPhone 和新 CEO 都来了，还有一个 One more thing",
       "link": "https://www.ifanr.com/1676900?utm_source=rss&utm_medium=rss&utm_campaign=",
       "summary": "苹果今年最重要的一场发布会，终于来了！ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "date": "2026-08-27T06:25:14.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "新 Twitter.now 上线",
-      "link": "https://www.solidot.org/story?sid=85207",
-      "summary": "总部位于美国弗吉尼亚州的初创公司 Operation Bluebird 上线了新社交网络 Twitter.now，致力于复兴已被马斯克（Elon Musk）的 X 抛弃了的 Twitter。马斯克在 2022 年收购 Twitter 之后迅速将其改名为 X，弃用了 Twitter 相关标识。Operation Blue",
-      "date": "2026-08-27T06:22:12.000Z"
     },
     {
       "source": "少数派",
