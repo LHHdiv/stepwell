@@ -2,8 +2,8 @@
 import { defineConfig } from "astro/config";
 import sitemap from "@astrojs/sitemap";
 
-// 站点最终域名。本地开发/预览不受影响；部署后改成你的域名即可。
-const SITE = "https://stepwell.example.com";
+// 站点最终域名（Netlify 生产地址）。本地开发/预览不受影响；换域名时改这一行。
+const SITE = "https://stepwell-reader.netlify.app";
 
 export default defineConfig({
   site: SITE,
