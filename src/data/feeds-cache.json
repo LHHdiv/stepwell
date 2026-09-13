@@ -1,6 +1,190 @@
 {
-  "generatedAt": "2026-09-12T02:19:58.573Z",
+  "generatedAt": "2026-09-13T02:17:55.005Z",
   "items": [
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "Figma 如何利用 AI 代理提升安全性",
+      "link": "https://www.infoq.cn/article/eS4M9XEPmLbkxksCyAye?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-09-13T10:00:00.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "Read, Don&#39;t Write: 重塑大模型评价体系，构建全自动、可进化的“探测式”评测管线｜QCon上海",
+      "link": "https://www.infoq.cn/article/0kYhxXxhOXhxGATe64ec?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-09-13T10:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Scientists Create a New Form of Ice at More Than 2000°C",
+      "link": "https://www.sciencealert.com/scientists-create-a-new-form-of-ice-at-more-than-2000-c",
+      "summary": "Article URL: https://www.sciencealert.com/scientists-create-a-new-form-of-ice-at-more-than-2000-c Comments URL: https://news.ycombinator.com/item?id=49678918 Po",
+      "date": "2026-09-13T01:12:04.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Align AI and Mathematics–To Something Else",
+      "link": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
+      "summary": "Article URL: https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/ Comments URL: https://news.ycombinator.com/item?id=4967878",
+      "date": "2026-09-13T00:47:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Everyone should slow down AI development except for me",
+      "link": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "summary": "Article URL: https://xeiaso.net/notes/2026/everyone-slowdown-but-me/ Comments URL: https://news.ycombinator.com/item?id=49678683 Points: 127 # Comments: 38",
+      "date": "2026-09-13T00:30:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Recurrent Looped Transformer",
+      "link": "https://yifanzhang-pro.github.io/recurrent-looped-tranformer/",
+      "summary": "Article URL: https://yifanzhang-pro.github.io/recurrent-looped-tranformer/ Comments URL: https://news.ycombinator.com/item?id=49678548 Points: 11 # Comments: 3",
+      "date": "2026-09-13T00:05:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "AgentsDock: An IDE designed for agentic AI research",
+      "link": "https://agentsdock.net/",
+      "summary": "Article URL: https://agentsdock.net/ Comments URL: https://news.ycombinator.com/item?id=49678435 Points: 7 # Comments: 2",
+      "date": "2026-09-12T23:45:58.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "No Atlantic hurricanes by Sept. 12 breaks a 60-year record",
+      "link": "https://www.accuweather.com/en/hurricane/no-atlantic-hurricanes-by-sept-12-breaks-a-60-year-record/1932278",
+      "summary": "Article URL: https://www.accuweather.com/en/hurricane/no-atlantic-hurricanes-by-sept-12-breaks-a-60-year-record/1932278 Comments URL: https://news.ycombinator.c",
+      "date": "2026-09-12T23:44:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Don't be the out of touch Kung Fu master – John Carmack",
+      "link": "https://twitter.com/ID_AA_Carmack/status/2098443262214230095",
+      "summary": "Article URL: https://twitter.com/ID_AA_Carmack/status/2098443262214230095 Comments URL: https://news.ycombinator.com/item?id=49677577 Points: 9 # Comments: 1",
+      "date": "2026-09-12T21:51:43.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "AI的新用法，被这群 Builder 带到了外滩大会开发者日",
+      "link": "https://www.infoq.cn/article/i1FJsYNhNM4wwV78ANhL?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-09-12T20:35:26.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "link": "https://withspecific.com/benchmarks/real-swe",
+      "summary": "Article URL: https://withspecific.com/benchmarks/real-swe Comments URL: https://news.ycombinator.com/item?id=49676820 Points: 125 # Comments: 64",
+      "date": "2026-09-12T20:25:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "LG Says We're Fake News [video]",
+      "link": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+      "summary": "Article URL: https://www.youtube.com/watch?v=ToP9xfLDSME Comments URL: https://news.ycombinator.com/item?id=49676324 Points: 174 # Comments: 78",
+      "date": "2026-09-12T19:35:36.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Linux Zoom client proactively reading everything written to X11 clipboard",
+      "link": "https://hachyderm.io/@simontatham/117201594980991062",
+      "summary": "Article URL: https://hachyderm.io/@simontatham/117201594980991062 Comments URL: https://news.ycombinator.com/item?id=49675902 Points: 202 # Comments: 61",
+      "date": "2026-09-12T18:58:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Will There Be a 7G?",
+      "link": "https://arxiv.org/abs/2609.01877",
+      "summary": "Article URL: https://arxiv.org/abs/2609.01877 Comments URL: https://news.ycombinator.com/item?id=49674498 Points: 84 # Comments: 143",
+      "date": "2026-09-12T17:05:31.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Make your first edit to OpenStreetMap",
+      "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
+      "summary": "Article URL: https://high5apps.github.io/josm-plugin-website-wizard/ Comments URL: https://news.ycombinator.com/item?id=49674050 Points: 336 # Comments: 78",
+      "date": "2026-09-12T16:25:08.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "Google Mantis：一款旨在减少误报的基于智能代理的漏洞扫描框架",
+      "link": "https://www.infoq.cn/article/mF8WwkbQRUS7ZKprE3Ku?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-09-12T16:06:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+      "link": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+      "summary": "Article URL: https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html Comments URL: https://news.ycombinator.com/item?id=49673580 Points: 9",
+      "date": "2026-09-12T15:49:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Nvidia is the central bank of AI",
+      "link": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "summary": "https://archive.ph/kt50V Comments URL: https://news.ycombinator.com/item?id=49673098 Points: 403 # Comments: 272",
+      "date": "2026-09-12T15:08:27.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "I made a build visualizer to understand Bun's compile times",
+      "link": "https://lalitm.com/post/buildprof/",
+      "summary": "Article URL: https://lalitm.com/post/buildprof/ Comments URL: https://news.ycombinator.com/item?id=49672842 Points: 96 # Comments: 20",
+      "date": "2026-09-12T14:45:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "We must pace the frontier",
+      "link": "https://darioamodei.com/post/we-must-pace-the-frontier",
+      "summary": "Article URL: https://darioamodei.com/post/we-must-pace-the-frontier Comments URL: https://news.ycombinator.com/item?id=49672510 Points: 557 # Comments: 785",
+      "date": "2026-09-12T14:10:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "A Mathematical Framework for Transformer Circuits (2021)",
+      "link": "https://transformer-circuits.pub/2021/framework/index.html",
+      "summary": "Article URL: https://transformer-circuits.pub/2021/framework/index.html Comments URL: https://news.ycombinator.com/item?id=49672365 Points: 86 # Comments: 17",
+      "date": "2026-09-12T13:56:58.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "How Trail of Bits helps verify the integrity of Signal chats",
+      "link": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+      "summary": "Article URL: https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/ Comments URL: https://news.ycombinator.c",
+      "date": "2026-09-12T11:27:55.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "两个 Token 就让 Kimi“变成”Claude？前Google DeepMind研究员意外撞上大模型的蒸馏疑云",
+      "link": "https://www.infoq.cn/article/GhA2VWxo6JTGyKIb7KdT?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-09-12T10:19:25.000Z"
+    },
     {
       "source": "AI 前线",
       "tag": "ai",
@@ -34,20 +218,36 @@
       "date": "2026-09-12T10:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "How Poor People Buy Cars",
-      "link": "https://abio.substack.com/p/how-poor-people-buy-cars",
-      "summary": "Article URL: https://abio.substack.com/p/how-poor-people-buy-cars Comments URL: https://news.ycombinator.com/item?id=49667762 Points: 18 # Comments: 3",
-      "date": "2026-09-12T01:37:06.000Z"
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "特努斯回答一切，那个懂技术的苹果 CEO 回来了",
+      "link": "https://www.ifanr.com/1679848?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "「That’s your guy.」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "date": "2026-09-12T08:30:04.000Z"
     },
     {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies",
-      "link": "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies",
-      "summary": "Article URL: https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies Comments URL: https://news.ycombina",
-      "date": "2026-09-12T00:40:32.000Z"
+      "source": "少数派",
+      "tag": "tech",
+      "title": "与 AI 搏斗失败后重新开始找工作：经验分享与半可靠避雷指南",
+      "link": "https://sspai.com/post/114461",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+      "date": "2026-09-12T07:00:00.000Z"
+    },
+    {
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "讲讲 Duo 作为科技产品命名的前世今生",
+      "link": "https://www.ifanr.com/1679899?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "这就是我们能够联想到的关于「Duo」的故事，当然还有很多其他公司、产品没有涉及到，欢迎你在评论区聊聊让你印象最深的同名产品。以及接下来，等拿到 iPhone Duo 真机，我们更想看看那块大屏又会让我们「Duo」做些什么。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "date": "2026-09-12T06:14:09.000Z"
+    },
+    {
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "刚刚，Apple Watch 成为了苹果最新的 AI 硬件",
+      "link": "https://www.ifanr.com/1679877?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "刚刚，Apple Watch 成为了苹果最新的 AI 硬件 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "date": "2026-09-12T06:08:51.000Z"
     },
     {
       "source": "爱范儿",
@@ -60,50 +260,10 @@
     {
       "source": "Hacker News",
       "tag": "ai",
-      "title": "Show HN: Graphify C# – Compiler-accurate Find Usages for coding agents",
-      "link": "https://github.com/zachsaw/graphify-csharp",
-      "summary": "Article URL: https://github.com/zachsaw/graphify-csharp Comments URL: https://news.ycombinator.com/item?id=49667188 Points: 9 # Comments: 5",
-      "date": "2026-09-12T00:16:10.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "link": "https://www.rubyhack.ai/",
-      "summary": "Article URL: https://www.rubyhack.ai/ Comments URL: https://news.ycombinator.com/item?id=49666735 Points: 341 # Comments: 203",
-      "date": "2026-09-11T23:17:42.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]",
-      "link": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf",
-      "summary": "Article URL: https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf Comments URL: https://news.ycombinator.com/item?id=49666155 Points: 19 # Comments: 8",
-      "date": "2026-09-11T22:16:15.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Project Blinkenlights",
-      "link": "https://blinkenlights.de/en/",
-      "summary": "Article URL: https://blinkenlights.de/en/ Comments URL: https://news.ycombinator.com/item?id=49666146 Points: 49 # Comments: 22",
-      "date": "2026-09-11T22:15:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
-      "link": "https://github.com/mirza-rizvi/ResolveHQ",
-      "summary": "Article URL: https://github.com/mirza-rizvi/ResolveHQ Comments URL: https://news.ycombinator.com/item?id=49665864 Points: 29 # Comments: 11",
-      "date": "2026-09-11T21:48:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "AI researchers debate how close we are to recursive self-improvement",
-      "link": "https://www.dwarkesh.com/p/john-beren-charlie",
-      "summary": "Article URL: https://www.dwarkesh.com/p/john-beren-charlie Comments URL: https://news.ycombinator.com/item?id=49665711 Points: 36 # Comments: 18",
-      "date": "2026-09-11T21:35:29.000Z"
+      "title": "Android NAT-T keepalive offload bypasses VPN lockdown",
+      "link": "https://supuk.ch/papers/android-natt-keepalive-vpn-bypass",
+      "summary": "https://mullvad.net/en/blog/another-way-to-leak-traffic-on-a... Comments URL: https://news.ycombinator.com/item?id=49665502 Points: 176 # Comments: 44",
+      "date": "2026-09-11T21:16:48.000Z"
     },
     {
       "source": "AI 前线",
@@ -130,30 +290,6 @@
       "date": "2026-09-11T19:08:42.000Z"
     },
     {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "GrapheneOS' rewritten Messages app is released",
-      "link": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-      "summary": "Article URL: https://github.com/GrapheneOS/Messaging/releases/tag/13 Comments URL: https://news.ycombinator.com/item?id=49663373 Points: 201 # Comments: 126",
-      "date": "2026-09-11T18:50:36.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
-      "link": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
-      "summary": "https://www.cia.gov/stories/story/cia-releases-presidents-da... Comments URL: https://news.ycombinator.com/item?id=49663054 Points: 117 # Comments: 57",
-      "date": "2026-09-11T18:30:07.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-      "link": "https://dayzlegame.com/blog/google-ads-bot-farm/",
-      "summary": "Article URL: https://dayzlegame.com/blog/google-ads-bot-farm/ Comments URL: https://news.ycombinator.com/item?id=49662990 Points: 308 # Comments: 172",
-      "date": "2026-09-11T18:24:55.000Z"
-    },
-    {
       "source": "AI 前线",
       "tag": "ai",
       "title": "AI Coding 的下一步不是写得更快，而是可验收：蚂蚁数科 Harness 工程实践",
@@ -162,60 +298,12 @@
       "date": "2026-09-11T18:15:19.000Z"
     },
     {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Litelm: LiteLLM Without the Bloat",
-      "link": "https://github.com/kennethwolters/litelm",
-      "summary": "Article URL: https://github.com/kennethwolters/litelm Comments URL: https://news.ycombinator.com/item?id=49662767 Points: 97 # Comments: 38",
-      "date": "2026-09-11T18:10:20.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "The EPA is planning to scrap public review rules for data center pollution",
-      "link": "https://capitalbnews.org/data-centers-permit-rules-epa/",
-      "summary": "Article URL: https://capitalbnews.org/data-centers-permit-rules-epa/ Comments URL: https://news.ycombinator.com/item?id=49662672 Points: 364 # Comments: 246",
-      "date": "2026-09-11T18:05:21.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "A misalignment of AI in mathematics",
-      "link": "https://mathandai.org/",
-      "summary": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignm... https://www.economist.com/science-and-technology/2026/09/11/..., https://unwall.app/www.economis",
-      "date": "2026-09-11T17:45:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
-      "link": "https://snap.berkeley.edu/",
-      "summary": "Article URL: https://snap.berkeley.edu/ Comments URL: https://news.ycombinator.com/item?id=49662214 Points: 115 # Comments: 58",
-      "date": "2026-09-11T17:36:11.000Z"
-    },
-    {
       "source": "AI 前线",
       "tag": "ai",
       "title": "“数据比模型重要”成了共识，接下来拼什么？",
       "link": "https://www.infoq.cn/article/sT7izVmjw1YVxh3FQyK8?utm_source=rss&utm_medium=article",
       "summary": "点击查看原文>",
       "date": "2026-09-11T17:29:19.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Mind-altering drugs played key role in rise of Andean civilization",
-      "link": "https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization",
-      "summary": "Article URL: https://www.science.org/content/article/mind-altering-drugs-played-key-role-rise-andean-civilization Comments URL: https://news.ycombinator.com/ite",
-      "date": "2026-09-11T17:25:23.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
-      "link": "https://www.getzep.com/careers/",
-      "summary": "Article URL: https://www.getzep.com/careers/ Comments URL: https://news.ycombinator.com/item?id=49661645 Points: 0 # Comments: 0",
-      "date": "2026-09-11T17:00:17.000Z"
     },
     {
       "source": "AI 前线",
@@ -242,28 +330,12 @@
       "date": "2026-09-11T16:10:31.000Z"
     },
     {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
-      "link": "https://github.com/godot-pty/gpty",
-      "summary": "I wanted to share my side-project: gPTY. Started off as an idea to combine Godot and Rust in a project (two stacks I wanted to use more to learn more). The base",
-      "date": "2026-09-11T16:03:05.000Z"
-    },
-    {
       "source": "Solidot",
       "tag": "tech",
       "title": "尼泊尔用大疆无人机运送遗体和食物",
       "link": "https://www.solidot.org/story?sid=85356",
       "summary": "在毁灭性的泥石流之后，尼泊尔正利用大疆无人机运送遇难者遗体，向幸存者运送食物。尼泊尔军方正使用中国捐赠的四架大疆 FlyCart 100 无人机，每天执行 10-16 次物资运送任务。FlyCart 100 配备了约 30 米长的绳索和绞盘系统，可用于吊装和投放重物。根据电池配置的不同，无人机载重能力在 85-100 ",
       "date": "2026-09-11T15:38:18.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Rune is now open source",
-      "link": "https://rune.build/blog/rune-is-now-open-source",
-      "summary": "Article URL: https://rune.build/blog/rune-is-now-open-source Comments URL: https://news.ycombinator.com/item?id=49660149 Points: 148 # Comments: 55",
-      "date": "2026-09-11T15:31:47.000Z"
     },
     {
       "source": "Solidot",
@@ -296,6 +368,14 @@
       "link": "https://www.solidot.org/story?sid=85353",
       "summary": "中国各地分布着逾 12,000 座废弃煤矿，这些煤矿拥有巨大的地下空间和完善的基础设施，具备改造利用的潜力。太原理工大学、山西省煤基资源绿色高效开发工程中心等机构的研究人员在《中国矿业》期刊上发表论文，提议利用废弃煤矿展开农业试验。废弃煤矿的一个显而易见的缺陷是缺乏农作物所必须的阳光和降雨，但优点是地下环境能精确调控，",
       "date": "2026-09-11T14:37:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
+      "link": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
+      "summary": "https://web.archive.org/web/20260911105205/https://www.wired... https://archive.ph/1xTJ3 Comments URL: https://news.ycombinator.com/item?id=49658672 Points: 105",
+      "date": "2026-09-11T14:07:08.000Z"
     },
     {
       "source": "AI 前线",
@@ -338,38 +418,6 @@
       "date": "2026-09-11T12:46:03.000Z"
     },
     {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "一句话就能下单，商业入口要变了！蚂蚁 CEO 韩歆毅：未来竞争的不只是流量",
-      "link": "https://www.infoq.cn/article/EKC1INXeMjIo00JWMQdV?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-09-11T12:41:31.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "AMD 发布锐龙AI Max PRO 400 系列，端侧智能体走向多模型协同",
-      "link": "https://www.infoq.cn/article/NizuOkFpcOPgbeClC4uL?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-09-11T12:30:38.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "Azure API Management Standard v2 支持区域冗余",
-      "link": "https://www.infoq.cn/article/7c7c4W0KxxjMMMgS5RAC?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-09-11T11:17:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "RTK reports token savings, but our cost benchmarks disagree",
-      "link": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
-      "summary": "Article URL: https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/ Comments URL: https://news.ycombinator.com/item?id=49656471 Points: 148 # Comments: 75",
-      "date": "2026-09-11T11:15:13.000Z"
-    },
-    {
       "source": "Solidot",
       "tag": "tech",
       "title": "Rust 语言成为微软的一级支持语言",
@@ -392,22 +440,6 @@
       "link": "https://www.ifanr.com/1679765?utm_source=rss&utm_medium=rss&utm_campaign=",
       "summary": "如何把让硬件+AI，变成用户能够长期使用的健康服务 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "date": "2026-09-11T10:01:53.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "端侧优先，云端兜底：端云协同调度在B端应用的工程实践｜QCon上海",
-      "link": "https://www.infoq.cn/article/hLyrZkaWJ9DkIUr7UvKQ?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-09-11T10:00:00.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "从「构建 AI」到「驾驭 AI」，如何搞定 AI 深水区的 6 个工程问题？",
-      "link": "https://www.infoq.cn/article/PyUlLla6MWSSoRLiDKbu?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-09-11T10:00:00.000Z"
     },
     {
       "source": "Solidot",
@@ -658,14 +690,6 @@
       "date": "2026-09-09T10:37:37.000Z"
     },
     {
-      "source": "少数派",
-      "tag": "tech",
-      "title": "我一定会回来……吗？小手用户与 iPhone 17 Pro Max 的一年",
-      "link": "https://sspai.com/post/114366",
-      "summary": "为啥那么多人喜欢大手机呢？既然上了 70 mm 我都握不住，要不买个 Pro Max 试试？查看全文",
-      "date": "2026-09-09T09:30:00.000Z"
-    },
-    {
       "source": "爱范儿",
       "tag": "tech",
       "title": "首个走进联合国的中国教育 Agent，正在打开下一个 Token 入口",
@@ -704,30 +728,6 @@
       "link": "https://www.ifanr.com/1678959?utm_source=rss&utm_medium=rss&utm_campaign=",
       "summary": "· DeepSeek 内测 V4.1 Flash · 两部门要求车企定期报告供应商账期，重点企业每年接受评估 · 曝微信 PC 版接入 AI 助手「小微」，可操作聊天与小程序 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "date": "2026-09-09T00:19:18.000Z"
-    },
-    {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "16.57mm？新 iPhone 药丸开孔变短了，背后是哪些关键技术？| 硬哲学",
-      "link": "https://www.ifanr.com/1679814?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "summary": "「软硬件遮丑术」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-09-08T23:21:09.000Z"
-    },
-    {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "实测全球上线的 vivago R1，我用它打造了一部赛博西游记短片",
-      "link": "https://www.ifanr.com/1678636?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "summary": "真正属于普通人的 AI 视频时代，才刚刚开始 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-09-08T13:40:34.000Z"
-    },
-    {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "GPT-6 让 48 个网页验证码失效了，最聪明的 AI 和最笨的人类相遇了",
-      "link": "https://www.ifanr.com/1679204?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "summary": "人类的验证码已经拦不住 AI #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-09-08T11:38:04.000Z"
     },
     {
       "source": "阮一峰的网络日志",
