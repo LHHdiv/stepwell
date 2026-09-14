@@ -1,6 +1,46 @@
 {
-  "generatedAt": "2026-09-13T02:17:55.005Z",
+  "generatedAt": "2026-09-14T02:35:34.158Z",
   "items": [
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "Java 近期新闻：TornadoVM 6、JReleaser、LangChain4j、Java Operator SDK、JHipster、Yupiik Fusion",
+      "link": "https://www.infoq.cn/article/VIjBCuNElpg2H4bLywVc?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-09-14T09:00:00.000Z"
+    },
+    {
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "怎样让不戴眼镜的人，愿意每天戴一副AI眼镜？|专访应用材料公司副总裁 Paul Meissner",
+      "link": "https://www.ifanr.com/1679952?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "最近，爱范儿在上海见到了应用材料公司副总裁兼光子平台事业部总经理Paul Meissner，并体验了现场展示的多款智能眼镜技术样品 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "date": "2026-09-14T01:53:41.000Z"
+    },
+    {
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "早报｜iPhone 18 Pro首批售罄，发货延至10月/OpenAI放弃今年上市/罗永浩评价野人先生冰淇淋「难吃」",
+      "link": "https://www.ifanr.com/1679930?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "· 集邦咨询预计 iPhone Duo 今年出货 500 万台，占折叠屏市场近四分之一 · Kimi K2.8 Preview 全量上线，所有会员开放 100 万上下文 · Grok 4.7 延期，马斯克称模型会在难题上过早放弃 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上",
+      "date": "2026-09-14T00:09:32.000Z"
+    },
+    {
+      "source": "少数派",
+      "tag": "tech",
+      "title": "派早报：美国 AI 高管呼吁放缓研发，特朗普反对",
+      "link": "https://sspai.com/post/114539",
+      "summary": "美国 AI 高管呼吁放缓研发，特朗普反对 苹果解释 Apple Watch 不会持续录音 LG 否认智能电视监控用户 暴雪公布《魔兽世界》怀旧服 儿童贴身使用笔记本电脑导致皮肤灼伤 Android 开始支持密码管理器迁移 看看就行的简讯 少数派的近期动态 你可能错过的好文章 查看全文",
+      "date": "2026-09-13T22:55:34.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "‌FreeCORE：TrueNAS 衍生分支，在 FreeBSD 系统上维护与之深度整合的虚拟化、Jails 容器与 OpenZFS 文件系统‌",
+      "link": "https://www.infoq.cn/article/TDav5ojS854dZKyfJmhI?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-09-13T16:00:00.000Z"
+    },
     {
       "source": "AI 前线",
       "tag": "ai",
@@ -16,6 +56,22 @@
       "link": "https://www.infoq.cn/article/0kYhxXxhOXhxGATe64ec?utm_source=rss&utm_medium=article",
       "summary": "点击查看原文>",
       "date": "2026-09-13T10:00:00.000Z"
+    },
+    {
+      "source": "少数派",
+      "tag": "tech",
+      "title": "搭建自己的 HomeLab（一）：聊聊我的硬件清单",
+      "link": "https://sspai.com/post/113880",
+      "summary": "作为系列的第一篇，这里想把三件事讲清楚：什么是 HomeLab、我为什么愿意折腾它、以及这套东西需要哪些硬件、它们大概又要花多少钱。系列其他文章的目录放在文末。查看全文",
+      "date": "2026-09-13T07:51:55.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "暴雪宣布 FPS 版《星际争霸》",
+      "link": "https://www.solidot.org/story?sid=85362",
+      "summary": "暴雪宣布了 FPS 版《星际争霸》，游戏仍然处于早期开发阶段，目标发售时间是在 2030 年。暴雪称，新作是一款开放世界、剧情驱动的科幻射击游戏，故事背景设定在《星际争霸 II》事件发生后数十年，是《星际争霸》宇宙中的一款全新作品。RTS 版《星际争霸》于 1998 年发布，2015 年发布了《星际争霸II》三部曲中的",
+      "date": "2026-09-13T03:10:07.000Z"
     },
     {
       "source": "Hacker News",
@@ -114,6 +170,14 @@
       "date": "2026-09-12T17:05:31.000Z"
     },
     {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "墨西哥毒贩涉足加密货币挖矿",
+      "link": "https://www.solidot.org/story?sid=85361",
+      "summary": "墨西哥贩毒集团涉足了加密货币挖矿业务。墨西哥警方在 Puebla 州的 Sierra Norte 地区发现了一个用电量远超周边村庄的矿场，查获了 300 个 GPU、80 个中压终端设备以及 8 个卫星天线。虽然就国际商业规模而言，该矿场的规模相当有限，但这已是自去年年初以来该地区发现的第四个加密货币矿场。根据区块链分",
+      "date": "2026-09-12T16:49:02.000Z"
+    },
+    {
       "source": "Hacker News",
       "tag": "ai",
       "title": "Make your first edit to OpenStreetMap",
@@ -130,12 +194,28 @@
       "date": "2026-09-12T16:06:00.000Z"
     },
     {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "Waymo 举报了两名携带幽灵枪的青少年乘客",
+      "link": "https://www.solidot.org/story?sid=85360",
+      "summary": "Waymo 举报了两名携带幽灵枪的年轻乘客。事件发生在 9 月 3 日凌晨 4 点前，地点是旧金山的 Richmond 区。Waymo 发言人称，它在检测到乘客携带枪支之后，停下了无人出租车，通知了执法部门。旧金山警方拘留了两名未成年青少年，一名男孩和一名女孩，搜查汽车后发现了一支已上膛的 AR 风格突击步枪。两名乘客",
+      "date": "2026-09-12T15:53:36.000Z"
+    },
+    {
       "source": "Hacker News",
       "tag": "ai",
       "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
       "link": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
       "summary": "Article URL: https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html Comments URL: https://news.ycombinator.com/item?id=49673580 Points: 9",
       "date": "2026-09-12T15:49:52.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "克雷数学研究所就 Navier-Stokes 问题发表公开声明",
+      "link": "https://www.solidot.org/story?sid=85359",
+      "summary": "OpenAI 本周早些时候宣布通过动用约 1 万个 AI 智能体进行长达 88 小时的攻坚，于 9 月 5 日发现了一个 Navier-Stokes 方程失效的特例。Navier-Stokes 问题是克雷数学研究所列出的七大千禧年数学问题之一，它为每道题的解决提供了一百万美元奖金。目前七大问题只有庞加莱猜想确认解决，但",
+      "date": "2026-09-12T15:31:13.000Z"
     },
     {
       "source": "Hacker News",
@@ -168,6 +248,14 @@
       "link": "https://transformer-circuits.pub/2021/framework/index.html",
       "summary": "Article URL: https://transformer-circuits.pub/2021/framework/index.html Comments URL: https://news.ycombinator.com/item?id=49672365 Points: 86 # Comments: 17",
       "date": "2026-09-12T13:56:58.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "25 名菲尔茨奖得主发表公开信批评 AI 公司",
+      "link": "https://www.solidot.org/story?sid=85358",
+      "summary": "包括陶哲轩、新晋得主邓煜在内的 25 名菲尔茨奖得主发表公开信《A Severe Misalignment of AI in Mathematics》，批评 AI 公司最近的所作所为。公开信称，“过去几个月 LLM 的数学能力有飞跃式提升，甚至达到了能解决数学领域重大悬而未决问题的地步。但各大 AI 公司仅仅将解决数学",
+      "date": "2026-09-12T12:17:51.000Z"
     },
     {
       "source": "Hacker News",
@@ -386,28 +474,12 @@
       "date": "2026-09-11T13:36:27.000Z"
     },
     {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "vlt 1.0 发布：无缝替代 npm，新增分阶段安装、图谱查询与恶意包防护",
-      "link": "https://www.infoq.cn/article/TWR5dBbabM48ZzP7zEwm?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-09-11T13:05:00.000Z"
-    },
-    {
       "source": "爱范儿",
       "tag": "tech",
       "title": "制糖工厂发布「硬糖小魔头 Max60」：60W AVS 动态快充，15 分钟让 iPhone 18 Pro 充至 50%",
       "link": "https://www.ifanr.com/1679798?utm_source=rss&utm_medium=rss&utm_campaign=",
       "summary": "制糖工厂 CANDYSIGN 宣布推出—— 60W 动态电源「硬糖小魔头 Max60」，支持 iPhone 18 Pro AVS 动态快充15 分钟可充至 50%。随着 iPhone 18 Pro / Pro Max 正式支持 AVS，这项技术开始走向更多用户，Max60 小魔头也为这一新一代快充体验而来。 #欢迎关注",
       "date": "2026-09-11T13:02:01.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "刘震云对话马毅：人写不出来、想不到的作品，AI 模仿不了｜附完整对话",
-      "link": "https://www.infoq.cn/article/Z5ddgQ63RixMXCVzqgq7?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-09-11T13:00:35.000Z"
     },
     {
       "source": "Solidot",
@@ -538,14 +610,6 @@
       "date": "2026-09-11T06:11:10.000Z"
     },
     {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "强降雨加剧微塑料向河流的输送",
-      "link": "https://www.solidot.org/story?sid=85342",
-      "summary": "根据发表在《科学》期刊上的一项研究，河流向海洋输送的微塑料污染量可能远超此前的认知，且全球几乎所有的微塑料排放均来自发展中国家。这项全球性分析还发现，强降雨会导致河流中微塑料含量激增——这是一种易受气候影响的污染威胁，并可能会随着极端天气的日益常见而加剧。微塑料已成为一种无处不在且持久的污染物，它对生态系统、水质及人类",
-      "date": "2026-09-11T06:07:01.000Z"
-    },
-    {
       "source": "少数派",
       "tag": "tech",
       "title": "新 iPhone 配件精选：多种组合一次配齐",
@@ -578,30 +642,6 @@
       "date": "2026-09-10T22:58:54.000Z"
     },
     {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "LG 强烈否认其监视电视用户",
-      "link": "https://www.solidot.org/story?sid=85341",
-      "summary": "本周早期时候，YouTube 主播 Gamers Nexus 与独立安全研究人员合作，发现 LG 的智能电视机即便在离线或待机模式下也会持续记录并上传用户数据。LG 电视还会扫描 Wi-Fi 网络、记录音频日志，采样音视频输入内容以识别用户正在观看的节目。LG 在一则声明中称视频内容不实，“LG 电视仅在用户按住遥控器",
-      "date": "2026-09-10T16:33:09.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "育碧准备在 Steam 上取消安装 Ubisoft Connect 客户端的要求",
-      "link": "https://www.solidot.org/story?sid=85340",
-      "summary": "在 Steam 上购买和运行育碧的游戏需要安装其客户端 Ubisoft Connect，启动游戏时需要同时启动育碧和 Steam 两个启动程序，这种做法长期受到 Steam 玩家的诟病。现在育碧宣布将逐步取消这一要求，“从《Prince of Persia: The Lost Crown》起，我们将测试一项名为‘Ubi",
-      "date": "2026-09-10T16:08:56.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "OpenAI 声称解决了 Navier-Stokes 问题，但引发了利用未发布成果的争议",
-      "link": "https://www.solidot.org/story?sid=85339",
-      "summary": "约 200 年前，法国物理学家克劳德-路易·纳维和爱尔兰物理学家乔治·斯托克斯提出了一组至今仍然广泛使用的、描述液体、空气等流体运动的偏微分方程。Navier-Stokes 方程并不保证适用于所有可能的情况。几十年来，数学家一直致力于寻求证明方程的普适性或导致方程失效的特例。2000 年克雷数学研究所将 Navier-",
-      "date": "2026-09-10T15:51:55.000Z"
-    },
-    {
       "source": "爱范儿",
       "tag": "tech",
       "title": "20.99 万元起！全新智己 LS6 预售，全线控底盘全系标配",
@@ -624,14 +664,6 @@
       "link": "https://www.ifanr.com/1679651?utm_source=rss&utm_medium=rss&utm_campaign=",
       "summary": "更贵了，也更强了 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "date": "2026-09-10T13:11:37.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "微软九月例行更新修复近千个 Bug",
-      "link": "https://www.solidot.org/story?sid=85338",
-      "summary": "在 AI 辅助发现 bug 的时代，主要操作系统每个月修复的 bug 数都在飙升。微软周二释出了九月例行安全更新，总共修复了 974 个 bug，数量为史上最多，今年的安全补丁数已超过 2600。最新补丁包括了 2 个正被利用的提权 0day 漏洞 CVE-2026-81963 和 CVE-2026-85880，113",
-      "date": "2026-09-10T11:42:20.000Z"
     },
     {
       "source": "少数派",
@@ -666,22 +698,6 @@
       "date": "2026-09-09T22:38:42.000Z"
     },
     {
-      "source": "少数派",
-      "tag": "tech",
-      "title": "一图流 | 一张图带你看完 2026 Apple 秋季发布会",
-      "link": "https://sspai.com/post/114393",
-      "summary": "9 月 10 日凌晨，Apple 召开新品发布会。推出了新一代的 iPhone 18 Pro 系列、Apple Watch Series 12、Apple Watch Ultra 4 以及 AirPods 5 系列。查看全文",
-      "date": "2026-09-09T21:30:34.000Z"
-    },
-    {
-      "source": "少数派",
-      "tag": "tech",
-      "title": "可以「折」的 iPhone 正式亮相：Apple 发布会看点回顾",
-      "link": "https://sspai.com/post/114392",
-      "summary": "9 月 10 日凌晨，Apple 召开新品发布会。推出了新一代的 iPhone 18 Pro 系列、Apple Watch Series 12、Apple Watch Ultra 4 以及 AirPods 5 系列。查看全文",
-      "date": "2026-09-09T21:21:18.000Z"
-    },
-    {
       "source": "爱范儿",
       "tag": "tech",
       "title": "GPT Images 2.5 突发上线！网友的「灵魂画作」一个比一个离谱",
@@ -712,22 +728,6 @@
       "link": "https://www.ifanr.com/1679152?utm_source=rss&utm_medium=rss&utm_campaign=",
       "summary": "谁能成为真正的「国民级AI 办公助理」 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "date": "2026-09-09T04:00:01.000Z"
-    },
-    {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "OpenAI 宣布攻克千禧年难题，清华姚班传奇陈立杰：不可思议的时代",
-      "link": "https://www.ifanr.com/1679218?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "summary": "1 万个 AI Agent，挑战百年数学难题 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-09-09T02:14:52.000Z"
-    },
-    {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "早报｜库克看到华为三星后，推动苹果加速研发折叠屏iPhone/小米中折叠「卖爆了」，首销增长310%​/《旅行青蛙・中国之旅》12月8日停运",
-      "link": "https://www.ifanr.com/1678959?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "summary": "· DeepSeek 内测 V4.1 Flash · 两部门要求车企定期报告供应商账期，重点企业每年接受评估 · 曝微信 PC 版接入 AI 助手「小微」，可操作聊天与小程序 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-09-09T00:19:18.000Z"
     },
     {
       "source": "阮一峰的网络日志",
