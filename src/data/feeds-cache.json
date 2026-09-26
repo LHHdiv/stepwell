@@ -1,6 +1,214 @@
 {
-  "generatedAt": "2026-09-25T02:41:12.280Z",
+  "generatedAt": "2026-09-26T02:44:00.539Z",
   "items": [
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "AI 时代，技术人靠什么赢？｜QCon上海",
+      "link": "https://www.infoq.cn/article/C1Vuzh9fUmUL9i5wmDZf?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-09-26T10:00:00.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "DoorDash 借助多 Agent LLM 系统清理 6 万个 Feature Flag",
+      "link": "https://www.infoq.cn/article/gk4rWsQg09PWTFTZlJE3?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-09-26T09:20:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
+      "link": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
+      "summary": "Article URL: https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/ Comments URL: https://news.ycombinator.com/item?id=49852302 Point",
+      "date": "2026-09-26T01:36:50.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
+      "link": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+      "summary": "Article URL: https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide Comments URL: https",
+      "date": "2026-09-26T00:59:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "TiddlyInstall: A universal, reusable, install system",
+      "link": "https://robertsdotpm.github.io/_static/tiddlyinstall.html",
+      "summary": "Article URL: https://robertsdotpm.github.io/_static/tiddlyinstall.html Comments URL: https://news.ycombinator.com/item?id=49851879 Points: 3 # Comments: 1",
+      "date": "2026-09-26T00:29:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Show HN: A game about fake news and memes",
+      "link": "https://unspin.app/",
+      "summary": "I made this game to help me with media literacy. View it like Wordle but for fake news. I would appreciate your honest feedback since I'm serious about making i",
+      "date": "2026-09-26T00:11:33.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin",
+      "link": "https://spectrum.ieee.org/serotonin-stress-smart-contact-lens",
+      "summary": "Article URL: https://spectrum.ieee.org/serotonin-stress-smart-contact-lens Comments URL: https://news.ycombinator.com/item?id=49850781 Points: 11 # Comments: 0",
+      "date": "2026-09-25T22:28:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "What even is an OS now?",
+      "link": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/ Comments URL: https://news.ycombinator.com/item?id=49850305 Points: 88 # Comments: 1",
+      "date": "2026-09-25T21:36:56.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
+      "link": "https://www.gptbeyond.com/try?home=1",
+      "summary": "Hi everyone, I am KD - Back in my college days, I dabbled with coding, learned the basics, HTML, CSS etc. but somehow I ended up in Finance which consumed the n",
+      "date": "2026-09-25T21:09:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "link": "https://swarmtraces.org/",
+      "summary": "Article URL: https://swarmtraces.org/ Comments URL: https://news.ycombinator.com/item?id=49849985 Points: 236 # Comments: 149",
+      "date": "2026-09-25T21:09:27.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Excel now supports multiple values in a single cell",
+      "link": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
+      "summary": "Related: https://techcommunity.microsoft.com/blog/excelblog/excel-now... Comments URL: https://news.ycombinator.com/item?id=49849832 Points: 109 # Comments: 82",
+      "date": "2026-09-25T20:55:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "How we learned to stop worrying and love campus surveillance",
+      "link": "https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/",
+      "summary": "Article URL: https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/ Comments URL: https://news.ycombinator.com/item?id=49849141 Point",
+      "date": "2026-09-25T19:56:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
+      "link": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
+      "summary": "The following explanation is taken from https://news.ycombinator.com/item?id=49622607: Alan Kay performs an improvisational avant garde layered audio feedback l",
+      "date": "2026-09-25T18:37:05.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+      "link": "https://ollaya.dev/",
+      "summary": "Article URL: https://ollaya.dev/ Comments URL: https://news.ycombinator.com/item?id=49848269 Points: 349 # Comments: 101",
+      "date": "2026-09-25T18:33:50.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Gravity seems holographic. What does that mean for reality?",
+      "link": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
+      "summary": "Article URL: https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/ Comments URL: https://news.ycombinator.com/item?",
+      "date": "2026-09-25T15:31:02.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+      "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+      "summary": "Article URL: https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html Comments URL: https://news.ycombinator.com/item?id=49845977 Points: 3",
+      "date": "2026-09-25T15:29:25.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "大象使用药用植物治疗自己",
+      "link": "https://www.solidot.org/story?sid=85477",
+      "summary": "非洲象会利用数十种药用植物治疗自身和家族成员的疾病。科学家和 Mount Elgon 基金会合作展开了这项研究，他们采访了在肯尼亚 Mount Elgon 地区与大象共同生活和工作的居民、野生动物巡护员和社区长者。根据采访者的描述，大象在身体不适时会选择特定的植物，而母象还会给幼象喂食药用植物。研究人员得出结论，大象会",
+      "date": "2026-09-25T14:28:43.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Show HN: Jev Plays Pokémon Red",
+      "link": "https://jev-pokemon.vercel.app/",
+      "summary": "Hey HN! Wanted to share a fun project I've been hacking on. Given Jev can make decisions really fast (but not fast enough to play Doom yet sadly), I wanted to t",
+      "date": "2026-09-25T14:28:07.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "htmx 4.0 发布：改用 Fetch API 重写，内置 DOM Morphing Swap，并明确属性继承规则",
+      "link": "https://www.infoq.cn/article/kJ4EkjPLVTh9iT5yyXkM?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-09-25T14:18:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+      "summary": "https://archive.ph/XJG5V Comments URL: https://news.ycombinator.com/item?id=49844896 Points: 85 # Comments: 78",
+      "date": "2026-09-25T14:07:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "First Principles Thinking",
+      "link": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+      "summary": "Article URL: https://sunilsadasivan.com/writing/first-principles-thinking/ Comments URL: https://news.ycombinator.com/item?id=49844736 Points: 225 # Comments: 9",
+      "date": "2026-09-25T13:55:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "What happens when you analyze your favorite college football team like the CIA?",
+      "link": "https://www.cultivatelabs.com/posts/what-happens-when-you-analyze-college-football-like-the-cia",
+      "summary": "Article URL: https://www.cultivatelabs.com/posts/what-happens-when-you-analyze-college-football-like-the-cia Comments URL: https://news.ycombinator.com/item?id=",
+      "date": "2026-09-25T13:47:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Show HN: Hacker Atlas - A map of what Hacker News talks about",
+      "link": "https://hackeratlas.com/",
+      "summary": "I built a tool to explore HN topics and how they change over time. Currently covers 2024 to today. Is it useful? What's missing? Comments URL: https://news.ycom",
+      "date": "2026-09-25T13:37:54.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "全球平均气温每上升 1C 德国夏天气温上升 2.62C",
+      "link": "https://www.solidot.org/story?sid=85476",
+      "summary": "全球平均气温正走在比工业化前水平高出 1.5°C 的轨道上。很多人可能会觉得升温幅度不大，可以接受或忍受。但地球绝大部分表面是海洋，海洋的升温幅度要缓慢得多，而陆地则显著得多，居民体会到的升温幅度要高得多。德国研究人员在《Environmental Research Letters》期刊上发表研究报告，指出全球平均气温",
+      "date": "2026-09-25T13:36:46.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Platform-independent SIMD in Go",
+      "link": "https://go.dev/blog/simd-experiment",
+      "summary": "Article URL: https://go.dev/blog/simd-experiment Comments URL: https://news.ycombinator.com/item?id=49843269 Points: 364 # Comments: 134",
+      "date": "2026-09-25T11:47:06.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "中国各地推动 AI 视频产业化",
+      "link": "https://www.solidot.org/story?sid=85475",
+      "summary": "两年前 Zhu Zhili 选择了深圳作为其 AI 电影工作室的办公地点，今年他接到了来自中国各地政府和产业园官员的电话，内容基本相同，即希望将 AI 电影业务带到当地。中国各地正在推动 AI 视频的产业化，类似太阳能、电动汽车和机器人。AI 电影制作人表示，低廉的制作成本是吸引他们投身 AI 创作的主要原因。CCTV",
+      "date": "2026-09-25T11:11:10.000Z"
+    },
     {
       "source": "AI 前线",
       "tag": "ai",
@@ -18,12 +226,20 @@
       "date": "2026-09-25T10:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Jev and System One Models: Calibration Beats Accuracy",
-      "link": "https://www.kartikpansuriya.com/blog/jev-system-one-model-calibrated-decisions",
-      "summary": "Article URL: https://www.kartikpansuriya.com/blog/jev-system-one-model-calibrated-decisions Comments URL: https://news.ycombinator.com/item?id=49839510 Points: ",
-      "date": "2026-09-25T02:24:21.000Z"
+      "source": "少数派",
+      "tag": "tech",
+      "title": "本周看什么 | 最近值得一看的 6 部作品",
+      "link": "https://sspai.com/post/114957",
+      "summary": "📅本周新预告《侦战》定档预告9月21日，电影《侦战》发布定档预告，宣布10月1日上映。影片由孔令政编剧、导演，古天乐、此沙、任达华、谢君豪领衔主演，袁富华、卢慧敏、杨伟伦主演，讲述一名嫌疑人从警署羁押 ...查看全文",
+      "date": "2026-09-25T09:30:00.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "F-Droid 2.0 发布",
+      "link": "https://www.solidot.org/story?sid=85474",
+      "summary": "Android 自由软件应用商店 F-Droid 宣布发布 2.0 版本。F-Droid 2.0 对 UI 进行了重新设计，旨在更容易的发现，安装和管理应用。主要界面简化为了三个核心区域：发现，搜索和“我的应用”。类别现在整合进了发现，使其更容易浏览和探索，而“我的应用”提供了一个一站式管理已安装应用、更新和潜在问题的",
+      "date": "2026-09-25T06:13:00.000Z"
     },
     {
       "source": "爱范儿",
@@ -34,68 +250,12 @@
       "date": "2026-09-25T00:24:44.000Z"
     },
     {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Back and shoulder surgery is often worse than useless",
-      "link": "https://www.economist.com/leaders/2026/09/24/back-and-shoulder-surgery-is-often-worse-than-useless",
-      "summary": "https://archive.ph/j6oeD Comments URL: https://news.ycombinator.com/item?id=49837473 Points: 88 # Comments: 81",
-      "date": "2026-09-24T22:15:58.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Show HN: Koi.rest – watch some fish and regain your balance",
-      "link": "https://koi.rest",
-      "summary": "Hi there. My name is Paul. I’m a developer, an explorer and I’ve got ADHD. As of the beginning of August, I’m also unemployed. This last part, along with everyt",
-      "date": "2026-09-24T21:33:03.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "The Board Game of the Alpha Nerds (2014)",
-      "link": "https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/",
-      "summary": "Article URL: https://grantland.com/features/diplomacy-the-board-game-of-the-alpha-nerds/ Comments URL: https://news.ycombinator.com/item?id=49836590 Points: 57 ",
-      "date": "2026-09-24T20:53:39.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "California is chasing wealth that has feet",
-      "link": "https://blog.landeconomics.org/p/california-is-chasing-wealth-that",
-      "summary": "Article URL: https://blog.landeconomics.org/p/california-is-chasing-wealth-that Comments URL: https://news.ycombinator.com/item?id=49836419 Points: 150 # Commen",
-      "date": "2026-09-24T20:34:32.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Sourcehut account takeover via build logs (XSS in ansi2html)",
-      "link": "https://blog.arusekk.pl/posts/srht-account-takeover/",
-      "summary": "Article URL: https://blog.arusekk.pl/posts/srht-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=49835996 Points: 79 # Comments: 12",
-      "date": "2026-09-24T19:54:21.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Using LLMs to trace alchemical knowledge and decode 17th century letters",
-      "link": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-      "summary": "Article URL: https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical Comments URL: https://news.ycombinator.com/item?id=49835531 Points: 83 #",
-      "date": "2026-09-24T19:14:27.000Z"
-    },
-    {
       "source": "AI 前线",
       "tag": "ai",
       "title": "云栖之后，10+阿里AI实战派将亮相QCon上海站",
       "link": "https://www.infoq.cn/article/lh6Z5E9Zkr33bOeHQGky?utm_source=rss&utm_medium=article",
       "summary": "点击查看原文>",
       "date": "2026-09-24T18:38:59.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Stable (YC W20) Is Hiring Product Engineers",
-      "link": "https://www.usestable.com/careers/product-engineer",
-      "summary": "Article URL: https://www.usestable.com/careers/product-engineer Comments URL: https://news.ycombinator.com/item?id=49834893 Points: 0 # Comments: 0",
-      "date": "2026-09-24T18:29:18.000Z"
     },
     {
       "source": "AI 前线",
@@ -114,28 +274,12 @@
       "date": "2026-09-24T17:25:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-      "link": "https://github.com/devdotfast/whiteboard",
-      "summary": "Hello! We’re Sid, Alex, Ketan, and Milan. We’re building Whiteboard (https://whiteboard.dev.fast/), an open-source desktop app where humans and agents can archi",
-      "date": "2026-09-24T17:21:36.000Z"
-    },
-    {
       "source": "AI 前线",
       "tag": "ai",
       "title": "数据、模型、算力越来越难分开，Data+AI 基础设施怎么进化？",
       "link": "https://www.infoq.cn/article/amffXXMpr23rX3eoJDhv?utm_source=rss&utm_medium=article",
       "summary": "点击查看原文>",
       "date": "2026-09-24T16:34:30.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Why is the liver so weirdly regenerative?",
-      "link": "https://dynomight.substack.com/p/liver",
-      "summary": "Article URL: https://dynomight.substack.com/p/liver Comments URL: https://news.ycombinator.com/item?id=49832938 Points: 278 # Comments: 160",
-      "date": "2026-09-24T16:23:00.000Z"
     },
     {
       "source": "AI 前线",
@@ -162,36 +306,12 @@
       "date": "2026-09-24T15:30:10.000Z"
     },
     {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "F-Droid 2.0",
-      "link": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "summary": "Article URL: https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html Comments URL: https://news.ycombinator.com/item?id=49831968 Point",
-      "date": "2026-09-24T15:26:12.000Z"
-    },
-    {
       "source": "AI 前线",
       "tag": "ai",
       "title": "GPU负责算，CPU负责干活：英特尔开始重新出牌",
       "link": "https://www.infoq.cn/article/Zh6Xo7f31MJdQtbUTUk5?utm_source=rss&utm_medium=article",
       "summary": "点击查看原文>",
       "date": "2026-09-24T14:52:42.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Forging 1024-bit RSA signatures in nearly SNFS time [pdf]",
-      "link": "https://eprint.iacr.org/2026/2131.pdf",
-      "summary": "https://arstechnica.com/security/2026/09/theres-a-new-way-to... Comments URL: https://news.ycombinator.com/item?id=49831098 Points: 52 # Comments: 9",
-      "date": "2026-09-24T14:26:32.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Google’s Project Suncatcher to put ML infrastructure in space",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
-      "summary": "https://www.nytimes.com/2026/09/24/technology/google-suncatc... (https://archive.ph/BGFnP) Comments URL: https://news.ycombinator.com/item?id=49830606 Points: 1",
-      "date": "2026-09-24T13:53:29.000Z"
     },
     {
       "source": "AI 前线",
@@ -266,14 +386,6 @@
       "date": "2026-09-24T10:47:28.000Z"
     },
     {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Two-tier encryption in the UK",
-      "link": "https://macanorak.com/two-tier-encryption-in-the-uk/",
-      "summary": "Article URL: https://macanorak.com/two-tier-encryption-in-the-uk/ Comments URL: https://news.ycombinator.com/item?id=49828731 Points: 392 # Comments: 376",
-      "date": "2026-09-24T10:39:19.000Z"
-    },
-    {
       "source": "Solidot",
       "tag": "tech",
       "title": "阿根廷生育率十年内下降五成",
@@ -346,14 +458,6 @@
       "date": "2026-09-24T08:08:16.000Z"
     },
     {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
-      "link": "https://cms-sfx-demo.apeleg.com/",
-      "summary": "Air-gapped file encryption packed into a single, self-decrypting HTML page. Repo: https://github.com/ApelegHQ/ts-cms-ep-sfx I was inspired by self-extracting ar",
-      "date": "2026-09-24T07:22:17.000Z"
-    },
-    {
       "source": "Solidot",
       "tag": "tech",
       "title": "arXiv 项目获得 1720 万美元的捐赠承诺",
@@ -384,14 +488,6 @@
       "link": "https://www.solidot.org/story?sid=85468",
       "summary": "台积电最新永续报告书显示，2025 年台厂区及采钰公司员工共迎来 2,331 名新生儿，占全台新生儿 2.2%。台积电员工的生育率约为全台的 2 倍。台积电的高生育率被认为与该公司薪资更高相关。台积电员工薪资中位数为 300 万台币，平均数为 400 万台币，四倍多余全台的薪资。研究显示收入与生育率呈现 U 型曲线，从",
       "date": "2026-09-24T05:34:06.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-      "link": "https://transluce.org/agent-activity",
-      "summary": "Article URL: https://transluce.org/agent-activity Comments URL: https://news.ycombinator.com/item?id=49826565 Points: 247 # Comments: 246",
-      "date": "2026-09-24T05:21:10.000Z"
     },
     {
       "source": "少数派",
@@ -434,14 +530,6 @@
       "date": "2026-09-24T00:17:26.000Z"
     },
     {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Show HN: Make cursed fonts like Times New Bastard",
-      "link": "https://bastardica.mitpit.com",
-      "summary": "A joke tool that abuses OpenType's ligature feature to mix fonts. It works pretty fast on client-side by loading Python in WASM. Comments URL: https://news.ycom",
-      "date": "2026-09-23T22:53:28.000Z"
-    },
-    {
       "source": "AI 前线",
       "tag": "ai",
       "title": "从“单目感知”到“多视角立体对齐”：PrismAlign 重新定义文档结构化提取的精度上限",
@@ -456,54 +544,6 @@
       "link": "https://www.infoq.cn/article/jG9ksSRvpkfP20Qif8Ov?utm_source=rss&utm_medium=article",
       "summary": "点击查看原文>",
       "date": "2026-09-23T22:41:27.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Toyota is taking the Corolla electric",
-      "link": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
-      "summary": "Article URL: https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/ Comments URL: https://news.ycombinator.com/item?id=49823568 Points: 239 # Comm",
-      "date": "2026-09-23T22:37:28.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "人人都在造世界模型，HappyWorld‑Bench 试着给出一张统一考卷",
-      "link": "https://www.infoq.cn/article/3rXojuNPmJANFv8iWqI8?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-09-23T22:09:09.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "4096 张卡如何成为“一台计算机”？读懂华为的超节点布局",
-      "link": "https://www.infoq.cn/article/uG1Um83JFgz2BVxWRYC9?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-09-23T21:57:13.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "The Bayeux Tapestry: Woven by the Victors",
-      "link": "https://www.historytoday.com/archive/out-margins/bayeux-tapestry-woven-victors",
-      "summary": "Article URL: https://www.historytoday.com/archive/out-margins/bayeux-tapestry-woven-victors Comments URL: https://news.ycombinator.com/item?id=49823113 Points: ",
-      "date": "2026-09-23T21:54:35.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Geothermal heat map of US hot springs",
-      "link": "https://www.soakingsprings.com/hot-springs/geothermal-map",
-      "summary": "Article URL: https://www.soakingsprings.com/hot-springs/geothermal-map Comments URL: https://news.ycombinator.com/item?id=49821835 Points: 91 # Comments: 36",
-      "date": "2026-09-23T20:12:10.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "2026 年的云栖，阿里给 AI 行业递了一把新尺子",
-      "link": "https://www.infoq.cn/article/zSPQbRwmS0AGpeTAhu9r?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-09-23T19:51:33.000Z"
     },
     {
       "source": "Solidot",
@@ -666,22 +706,6 @@
       "date": "2026-09-23T00:05:46.000Z"
     },
     {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "新 Halo 游戏将由动视开发",
-      "link": "https://www.solidot.org/story?sid=85456",
-      "summary": "微软 Xbox 游戏业务宣布旗下第一方工作室 Halo Studios 等裁员 268 人，动视将负责下一代 Halo 游戏的开发，而原来负责开发 Halo 的 Halo Studios 则转变成辅助工作室角色。Obsidian 工作室将成为 Bethesda 的一部分，将继续开发 Grounded 以及新 Fallo",
-      "date": "2026-09-22T16:52:31.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "美国酒精消费自疫情以来首次下降",
-      "link": "https://www.solidot.org/story?sid=85455",
-      "summary": "盖洛普 8 月民调显示，仅有 54% 的美国人饮酒，而 2010 年这一数字是 67%。千禧一代和 Z 世代推动了减少饮酒的趋势，而 50-64 岁的中老年人的酒精消费则在上升。发表在《Annals of Internal Medicine》期刊上的一项研究分析了逾 11.4 万名美国成年人的调查数据，受访者在 201",
-      "date": "2026-09-22T16:36:41.000Z"
-    },
-    {
       "source": "少数派",
       "tag": "tech",
       "title": "可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验",
@@ -696,30 +720,6 @@
       "link": "https://www.ifanr.com/1681515?utm_source=rss&utm_medium=rss&utm_campaign=",
       "summary": "「沙发厂」上新。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "date": "2026-09-22T13:48:33.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "天文学家发现已知最年轻行星",
-      "link": "https://www.solidot.org/story?sid=85454",
-      "summary": "天文学家发现了已知最年轻的行星——Elias 2-24 b。这颗不到 100 万年的木星大小行星仍被其形成时的气体和尘埃包围。其令人惊讶的形成速度挑战了关于巨行星如何形成的主流理论。现有的行星形成理论认为，一颗大质量行星不可能形成地如此迅速，尤其是在距离恒星如此遥远的地方。当前模型表明，在太阳系中木星的位置形成一颗木星",
-      "date": "2026-09-22T11:19:58.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "为躲避亿万富翁税 Larry Page 等人迁出加州",
-      "link": "https://www.solidot.org/story?sid=85453",
-      "summary": "对加州亿万富翁征收一次性 5% 税的提案 Initiative Number 25-0024 将在 11 月 3 日进行公投。胡佛研究所的研究显示，面临征税的亿万富翁们已有近三成迁出加州。Larry Page 在迈阿密 Coconut Grove 购买了两栋临水豪宅，总价 1.73 亿美元，同时将家族办公室 Koop ",
-      "date": "2026-09-22T10:08:01.000Z"
-    },
-    {
-      "source": "少数派",
-      "tag": "tech",
-      "title": "怀旧手记｜25 年前的笔记本，如何兼顾轻薄、时尚与性能？",
-      "link": "https://sspai.com/post/114551",
-      "summary": "黄金时代「时尚与科技结合」的浪漫。查看全文",
-      "date": "2026-09-22T08:11:03.000Z"
     },
     {
       "source": "阮一峰的网络日志",
