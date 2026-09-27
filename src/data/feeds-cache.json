@@ -1,6 +1,150 @@
 {
-  "generatedAt": "2026-09-26T02:44:00.539Z",
+  "generatedAt": "2026-09-27T02:44:23.256Z",
   "items": [
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "谷歌 Kotlin 版 ADK 实现与 Python 版功能对齐，支持端侧 AI",
+      "link": "https://www.infoq.cn/article/sQV4EomjPP0J3hM3lyF9?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-09-27T10:00:00.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "可控、可测、可进化——B2B跨境支付的 AI 驾驭实践｜QCon上海",
+      "link": "https://www.infoq.cn/article/UC6jk6tu7fWE5bDO8oQw?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-09-27T10:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Sousveillance",
+      "link": "https://en.wikipedia.org/wiki/Sousveillance",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Sousveillance Comments URL: https://news.ycombinator.com/item?id=49861992 Points: 16 # Comments: 3",
+      "date": "2026-09-27T00:25:41.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Welcome to the Medical Clinic at the Interplanetary Relay Station",
+      "link": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
+      "summary": "Article URL: https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/ Comments URL: https://news.ycombinato",
+      "date": "2026-09-26T20:08:50.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
+      "link": "https://tml.stanford.edu/homebody/",
+      "summary": "Article URL: https://tml.stanford.edu/homebody/ Comments URL: https://news.ycombinator.com/item?id=49859299 Points: 17 # Comments: 2",
+      "date": "2026-09-26T18:42:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "link": "https://arxiv.org/abs/2609.22978",
+      "summary": "Article URL: https://arxiv.org/abs/2609.22978 Comments URL: https://news.ycombinator.com/item?id=49859112 Points: 166 # Comments: 52",
+      "date": "2026-09-26T18:22:41.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+      "link": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
+      "summary": "Article URL: https://www.righto.com/2026/09/8087-tangent-cordic.html Comments URL: https://news.ycombinator.com/item?id=49858676 Points: 30 # Comments: 6",
+      "date": "2026-09-26T17:26:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+      "link": "https://github.com/reladraw/reladraw",
+      "summary": "I love making diagrams to help understand, plan, etc. However, the options are (A) auto-placement languages like Mermaid or Graphviz (which don't let me decide ",
+      "date": "2026-09-26T17:10:40.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "The Evolution of Vending Machines",
+      "link": "https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/",
+      "summary": "Article URL: https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/ Comments URL: https://news.ycombinat",
+      "date": "2026-09-26T17:01:45.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "阿里巴巴开源 AI 辅助代码评审工具 OpenCodeReview",
+      "link": "https://www.infoq.cn/article/jJIXCaLHUvPgswTOZ1uQ?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-09-26T17:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "link": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "summary": "Article URL: https://tangled.org/yanndegat.tngl.sh/drawgent Comments URL: https://news.ycombinator.com/item?id=49857729 Points: 112 # Comments: 32",
+      "date": "2026-09-26T15:56:34.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+      "link": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "summary": "We found an approach to get Jev-like properties from standard LLMs like GLM-5.3-Flash. The core idea is to craft the input prompt so that the first output token",
+      "date": "2026-09-26T15:49:04.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "Excel 的单元格将支持输入多个值",
+      "link": "https://www.solidot.org/story?sid=85482",
+      "summary": "微软宣布其电子表格软件 Excel 的单元格将支持输入多个值，而不是以前的只能一个值。Excel 将通过“列表”（Lists）、“单元格内数组”（arrays in cells）和“嵌套数组”（nested arrays）三个功能实现在单元格内输入多个值。微软称，某个项目可能会将“Carlos，Henrietta，Ja",
+      "date": "2026-09-26T15:06:41.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "荷兰政府测试本土发行版 NixOS",
+      "link": "https://www.solidot.org/story?sid=85481",
+      "summary": "2025 年美国政府制裁了位于荷兰海牙的国际刑事法庭，导致了依赖微软软件的法庭工作陷入瘫痪，此事促使欧洲各国政府推动数字主权，减少对美国科技公司的依赖。其中荷兰政府正在本土 Linux 发行版 NixOS 基础上上构建数字工作环境 Digitaal Autonome Werkomgeving Overheid (DAW",
+      "date": "2026-09-26T14:44:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Go Concurrency Distilled",
+      "link": "https://antonz.org/go-concurrency-distilled/",
+      "summary": "Article URL: https://antonz.org/go-concurrency-distilled/ Comments URL: https://news.ycombinator.com/item?id=49856988 Points: 48 # Comments: 9",
+      "date": "2026-09-26T14:34:49.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "YouTube、TikTok 和 Meta 都拒绝投放马斯克纪录片的商业广告",
+      "link": "https://www.solidot.org/story?sid=85480",
+      "summary": "负责发行 Alex Gibney 拍摄的马斯克（Elon Musk）纪录片《Musk》的公司 Bleecker Street 发现，主流社交平台 YouTube、TikTok 和旗下包括 Instagram 和 Facebook 的 Meta 公司，以及马斯克旗下的 X 平台都拒绝投放该纪录片的商业广告。这是一部批评马",
+      "date": "2026-09-26T10:59:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Breaking Up with Google Play: Why Conversations Is Now Free",
+      "link": "https://gultsch.de/posts/breaking-up-with-google-play/",
+      "summary": "Article URL: https://gultsch.de/posts/breaking-up-with-google-play/ Comments URL: https://news.ycombinator.com/item?id=49855315 Points: 643 # Comments: 256",
+      "date": "2026-09-26T10:55:56.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Reading’s Bayeux Tapestry",
+      "link": "https://diamondgeezer.blogspot.com/2026/09/readings-bayeux-tapestry.html",
+      "summary": "Article URL: https://diamondgeezer.blogspot.com/2026/09/readings-bayeux-tapestry.html Comments URL: https://news.ycombinator.com/item?id=49855276 Points: 15 # C",
+      "date": "2026-09-26T10:48:40.000Z"
+    },
     {
       "source": "AI 前线",
       "tag": "ai",
@@ -8,6 +152,14 @@
       "link": "https://www.infoq.cn/article/C1Vuzh9fUmUL9i5wmDZf?utm_source=rss&utm_medium=article",
       "summary": "点击查看原文>",
       "date": "2026-09-26T10:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "link": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "summary": "Article URL: https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705 Comments URL: https://news.ycombinator.com/item?id=498548",
+      "date": "2026-09-26T09:41:58.000Z"
     },
     {
       "source": "AI 前线",
@@ -20,114 +172,66 @@
     {
       "source": "Hacker News",
       "tag": "ai",
-      "title": "Jury finds Facebook liable for deceiving users in Cambridge Analytica case",
-      "link": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
-      "summary": "Article URL: https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/ Comments URL: https://news.ycombinator.com/item?id=49852302 Point",
-      "date": "2026-09-26T01:36:50.000Z"
+      "title": "Fifteen years later, the Apple Cards origin story",
+      "link": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "summary": "Article URL: https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story Comments URL: https://news.ycombinator.com/item?id=49854693 Points: 348 # Co",
+      "date": "2026-09-26T09:13:41.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "Velum：方便部署的CosyVoice推理程序",
+      "link": "https://www.solidot.org/story?sid=85479",
+      "summary": "Nala Ginrut 写道： HardenedLinux 最近发布了可用于推理CosyVoice的Velum，它用modern C++开发，编译成一个单一的可执行文件，方便部署。",
+      "date": "2026-09-26T06:06:56.000Z"
+    },
+    {
+      "source": "少数派",
+      "tag": "tech",
+      "title": "宜家 Matter 智能家居终于要来了？在中国市场它将如何破局",
+      "link": "https://sspai.com/post/114958",
+      "summary": "距离宜家首批Matter智能家居产品在海外上市已有大半年的时间，而中国市场则是许久未有消息。直到今年年中，多款宜家智能新品陆续出现在国家CCC认证数据库中，我们才得知：这批主打高性价比、支持新一代智能 ...查看全文",
+      "date": "2026-09-26T06:00:00.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "黑手党可能阻止了芬太尼流入意大利",
+      "link": "https://www.solidot.org/story?sid=85478",
+      "summary": "在电影《教父》中，维托柯里昂（Don Vito Corleone）拒绝参与海洛因交易，称毒品生意太脏。现实中的黑手党并非如此，但对于选择芬太尼还是海洛因等其它毒品，意大利黑手党看起来选择了拒绝芬太尼。这或许可以解释意大利芬太尼过量致死率异常低。2024 年比吗啡强效百倍的合成阿片类药物在意大利仅检测出两例致死事件。相比",
+      "date": "2026-09-26T03:42:34.000Z"
     },
     {
       "source": "Hacker News",
       "tag": "ai",
-      "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
-      "link": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
-      "summary": "Article URL: https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide Comments URL: https",
-      "date": "2026-09-26T00:59:02.000Z"
+      "title": "Promising discoveries about the potential for life on one of Saturn’s icy moons",
+      "link": "https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html",
+      "summary": "Article URL: https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html Comments URL: https://n",
+      "date": "2026-09-26T03:23:31.000Z"
     },
     {
       "source": "Hacker News",
       "tag": "ai",
-      "title": "TiddlyInstall: A universal, reusable, install system",
-      "link": "https://robertsdotpm.github.io/_static/tiddlyinstall.html",
-      "summary": "Article URL: https://robertsdotpm.github.io/_static/tiddlyinstall.html Comments URL: https://news.ycombinator.com/item?id=49851879 Points: 3 # Comments: 1",
-      "date": "2026-09-26T00:29:48.000Z"
+      "title": "How one Twitch chat message became code execution on a streamer’s PC",
+      "link": "https://blog.scrt.ch/2026/09/22/how-one-twitch-chat-message-became-code-execution-on-a-streamers-pc/",
+      "summary": "Article URL: https://blog.scrt.ch/2026/09/22/how-one-twitch-chat-message-became-code-execution-on-a-streamers-pc/ Comments URL: https://news.ycombinator.com/ite",
+      "date": "2026-09-26T01:13:38.000Z"
     },
     {
       "source": "Hacker News",
       "tag": "ai",
-      "title": "Show HN: A game about fake news and memes",
-      "link": "https://unspin.app/",
-      "summary": "I made this game to help me with media literacy. View it like Wordle but for fake news. I would appreciate your honest feedback since I'm serious about making i",
-      "date": "2026-09-26T00:11:33.000Z"
+      "title": "Generate fonts where every LLM token is the same width",
+      "link": "https://ampdot.mesh.host/token-space-fonts.html",
+      "summary": "Article URL: https://ampdot.mesh.host/token-space-fonts.html Comments URL: https://news.ycombinator.com/item?id=49851883 Points: 29 # Comments: 7",
+      "date": "2026-09-26T00:30:03.000Z"
     },
     {
       "source": "Hacker News",
       "tag": "ai",
-      "title": "Lab on a Contact Lens Can Measure Stress Through Serotonin",
-      "link": "https://spectrum.ieee.org/serotonin-stress-smart-contact-lens",
-      "summary": "Article URL: https://spectrum.ieee.org/serotonin-stress-smart-contact-lens Comments URL: https://news.ycombinator.com/item?id=49850781 Points: 11 # Comments: 0",
-      "date": "2026-09-25T22:28:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "What even is an OS now?",
-      "link": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
-      "summary": "Article URL: https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/ Comments URL: https://news.ycombinator.com/item?id=49850305 Points: 88 # Comments: 1",
-      "date": "2026-09-25T21:36:56.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
-      "link": "https://www.gptbeyond.com/try?home=1",
-      "summary": "Hi everyone, I am KD - Back in my college days, I dabbled with coding, learned the basics, HTML, CSS etc. but somehow I ended up in Finance which consumed the n",
-      "date": "2026-09-25T21:09:28.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "link": "https://swarmtraces.org/",
-      "summary": "Article URL: https://swarmtraces.org/ Comments URL: https://news.ycombinator.com/item?id=49849985 Points: 236 # Comments: 149",
-      "date": "2026-09-25T21:09:27.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Excel now supports multiple values in a single cell",
-      "link": "https://techcommunity.microsoft.com/blog/microsoft365insiderblog/put-multiple-values-in-one-cell-with-lists-and-arrays-in-excel/4559395",
-      "summary": "Related: https://techcommunity.microsoft.com/blog/excelblog/excel-now... Comments URL: https://news.ycombinator.com/item?id=49849832 Points: 109 # Comments: 82",
-      "date": "2026-09-25T20:55:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "How we learned to stop worrying and love campus surveillance",
-      "link": "https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/",
-      "summary": "Article URL: https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/ Comments URL: https://news.ycombinator.com/item?id=49849141 Point",
-      "date": "2026-09-25T19:56:57.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
-      "link": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
-      "summary": "The following explanation is taken from https://news.ycombinator.com/item?id=49622607: Alan Kay performs an improvisational avant garde layered audio feedback l",
-      "date": "2026-09-25T18:37:05.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Ollaya – Ollama for open-source, Jev-style decision models",
-      "link": "https://ollaya.dev/",
-      "summary": "Article URL: https://ollaya.dev/ Comments URL: https://news.ycombinator.com/item?id=49848269 Points: 349 # Comments: 101",
-      "date": "2026-09-25T18:33:50.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Gravity seems holographic. What does that mean for reality?",
-      "link": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
-      "summary": "Article URL: https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/ Comments URL: https://news.ycombinator.com/item?",
-      "date": "2026-09-25T15:31:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-      "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-      "summary": "Article URL: https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html Comments URL: https://news.ycombinator.com/item?id=49845977 Points: 3",
-      "date": "2026-09-25T15:29:25.000Z"
+      "title": "Snap Wants to be a State Actor??–Kansas v. Snap",
+      "link": "https://blog.ericgoldman.org/archives/2026/09/snap-wants-to-be-a-state-actor-kansas-v-snap.htm",
+      "summary": "Article URL: https://blog.ericgoldman.org/archives/2026/09/snap-wants-to-be-a-state-actor-kansas-v-snap.htm Comments URL: https://news.ycombinator.com/item?id=4",
+      "date": "2026-09-25T17:12:04.000Z"
     },
     {
       "source": "Solidot",
@@ -136,14 +240,6 @@
       "link": "https://www.solidot.org/story?sid=85477",
       "summary": "非洲象会利用数十种药用植物治疗自身和家族成员的疾病。科学家和 Mount Elgon 基金会合作展开了这项研究，他们采访了在肯尼亚 Mount Elgon 地区与大象共同生活和工作的居民、野生动物巡护员和社区长者。根据采访者的描述，大象在身体不适时会选择特定的植物，而母象还会给幼象喂食药用植物。研究人员得出结论，大象会",
       "date": "2026-09-25T14:28:43.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Show HN: Jev Plays Pokémon Red",
-      "link": "https://jev-pokemon.vercel.app/",
-      "summary": "Hey HN! Wanted to share a fun project I've been hacking on. Given Jev can make decisions really fast (but not fast enough to play Doom yet sadly), I wanted to t",
-      "date": "2026-09-25T14:28:07.000Z"
     },
     {
       "source": "AI 前线",
@@ -156,34 +252,18 @@
     {
       "source": "Hacker News",
       "tag": "ai",
-      "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-      "summary": "https://archive.ph/XJG5V Comments URL: https://news.ycombinator.com/item?id=49844896 Points: 85 # Comments: 78",
-      "date": "2026-09-25T14:07:08.000Z"
+      "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+      "link": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+      "summary": "Article URL: https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand Commen",
+      "date": "2026-09-25T13:49:06.000Z"
     },
     {
       "source": "Hacker News",
       "tag": "ai",
-      "title": "First Principles Thinking",
-      "link": "https://sunilsadasivan.com/writing/first-principles-thinking/",
-      "summary": "Article URL: https://sunilsadasivan.com/writing/first-principles-thinking/ Comments URL: https://news.ycombinator.com/item?id=49844736 Points: 225 # Comments: 9",
-      "date": "2026-09-25T13:55:37.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "What happens when you analyze your favorite college football team like the CIA?",
-      "link": "https://www.cultivatelabs.com/posts/what-happens-when-you-analyze-college-football-like-the-cia",
-      "summary": "Article URL: https://www.cultivatelabs.com/posts/what-happens-when-you-analyze-college-football-like-the-cia Comments URL: https://news.ycombinator.com/item?id=",
-      "date": "2026-09-25T13:47:21.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Show HN: Hacker Atlas - A map of what Hacker News talks about",
-      "link": "https://hackeratlas.com/",
-      "summary": "I built a tool to explore HN topics and how they change over time. Currently covers 2024 to today. Is it useful? What's missing? Comments URL: https://news.ycom",
-      "date": "2026-09-25T13:37:54.000Z"
+      "title": "Does Georgism work? Five years later",
+      "link": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "summary": "Article URL: https://www.astralcodexten.com/p/does-georgism-work-five-years-later Comments URL: https://news.ycombinator.com/item?id=49844657 Points: 154 # Comm",
+      "date": "2026-09-25T13:48:38.000Z"
     },
     {
       "source": "Solidot",
@@ -192,14 +272,6 @@
       "link": "https://www.solidot.org/story?sid=85476",
       "summary": "全球平均气温正走在比工业化前水平高出 1.5°C 的轨道上。很多人可能会觉得升温幅度不大，可以接受或忍受。但地球绝大部分表面是海洋，海洋的升温幅度要缓慢得多，而陆地则显著得多，居民体会到的升温幅度要高得多。德国研究人员在《Environmental Research Letters》期刊上发表研究报告，指出全球平均气温",
       "date": "2026-09-25T13:36:46.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Platform-independent SIMD in Go",
-      "link": "https://go.dev/blog/simd-experiment",
-      "summary": "Article URL: https://go.dev/blog/simd-experiment Comments URL: https://news.ycombinator.com/item?id=49843269 Points: 364 # Comments: 134",
-      "date": "2026-09-25T11:47:06.000Z"
     },
     {
       "source": "Solidot",
@@ -426,14 +498,6 @@
       "date": "2026-09-24T09:29:18.000Z"
     },
     {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "利用 AI 搭建内部开发者平台",
-      "link": "https://www.infoq.cn/article/su9aJV7kiibMfxwzLpOJ?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-09-24T09:05:00.000Z"
-    },
-    {
       "source": "爱范儿",
       "tag": "tech",
       "title": "5999 起！无需多言｜小米 18 Pro 系列发布会",
@@ -530,76 +594,12 @@
       "date": "2026-09-24T00:17:26.000Z"
     },
     {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "从“单目感知”到“多视角立体对齐”：PrismAlign 重新定义文档结构化提取的精度上限",
-      "link": "https://www.infoq.cn/article/ytHwXAq6vHzUm23RNYhk?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-09-23T22:51:41.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "Claude Opus 5.5 发布：一天内迁移 68 万行代码，单任务成本比 GPT-6 Astra 便宜 80%",
-      "link": "https://www.infoq.cn/article/jG9ksSRvpkfP20Qif8Ov?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-09-23T22:41:27.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "年检显示高里程电动车比汽油车更可靠",
-      "link": "https://www.solidot.org/story?sid=85467",
-      "summary": "对 4740 万英国机动车年检（MOT test）数据的分析发现，当汽车行驶里程达到 9-12 万英里时，电动汽车的年检不合格率为汽油车同类车型的 75%（16.5% 对 22.1%）。行驶里程超过 12 万英里后，电动汽车的不合格率为 16%，而汽油车为 23.5%。研究发现，较低行驶里程两种动力类型的汽车之间的不合",
-      "date": "2026-09-23T15:52:30.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "不要被 AI 炒作愚弄",
-      "link": "https://www.solidot.org/story?sid=85466",
-      "summary": "Anthropic 声称其模型 Claude Mythos 在发现软件漏洞上胜过大多数安全专家。随后发生了 OpenAI–Hugging Face 安全事件，此后 Anthropic（自豪）和 Meta（不情愿）也披露了各自模型的类似事件。紧接着 Anthropic 宣称其模型取得了数学领域的突破；OpenAI 也声称",
-      "date": "2026-09-23T15:29:02.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "英国准备施压 Google 向 Android 和 Chrome 用户展示 AI 助手选择屏",
-      "link": "https://www.solidot.org/story?sid=85465",
-      "summary": "英国竞争监管机构 CMA 想要让 Android 和 Chrome 用户对 AI 助手和搜索引擎有更大的选择权和控制权。CMA 公布了一份提案，要求 Google 在用户首次设置 Android 手机或打开 Chrome 浏览器时，向其展示多种搜索引擎供选择，并且每年提示用户选择一个默认搜索引擎；符合技术与安全标准的 ",
-      "date": "2026-09-23T14:56:12.000Z"
-    },
-    {
       "source": "爱范儿",
       "tag": "tech",
       "title": "小米 18 Pro Max 首发评测：最好的小米手机，也是最好玩的小米手机",
       "link": "https://www.ifanr.com/1681778?utm_source=rss&utm_medium=rss&utm_campaign=",
       "summary": "从诞生之刻就立意撕下「1999」的印象，与小米手机与生俱来的标签诀别 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "date": "2026-09-23T13:03:20.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "全球陆地热浪更早到来、发展得更快",
-      "link": "https://www.solidot.org/story?sid=85464",
-      "summary": "中科院研究人员的一项研究发现，自 1979 年以来，全球陆地热浪开始时间显著提前、结束时间显著推迟，热浪季节明显延长；进入21世纪以来，发生快速起始型首次热浪的陆地面积占当年热浪影响区面积的比例显著增加。研究团队基于1979-2023年全球气候数据，系统分析了全球陆地热浪开始时间、结束时间、热浪季节长度及每年首次热浪起",
-      "date": "2026-09-23T10:47:35.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "美国准备再次制裁 ICC",
-      "link": "https://www.solidot.org/story?sid=85463",
-      "summary": "荷兰正在为位于海牙的国际刑事法院（ICC）面临美国新一轮制裁做准备。荷兰正研究如何协助法院维持运作，包括支付员工薪酬、保护证人以及维护拘留设施。美国已制裁了十多名现任和前任 ICC 工作人员，国务卿国卢比奥（Marco Rubio）表示，这是一场彻底瓦解 ICC 所构成威胁的全面行动。ICC 有 125 个成员国，美国",
-      "date": "2026-09-23T10:25:44.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "八种常用食品防腐剂与高血压相关",
-      "link": "https://www.solidot.org/story?sid=85462",
-      "summary": "对法国 112,395 人七、八年间健康状况与饮食习惯的研究显示，八种常用食品防腐剂与高血压风险升高相关。摄入防腐剂最多的人群患高血压的风险高 24%。摄入非抗氧化类防腐剂最多的人群患心血管疾病的相对风险高 16%。非抗氧化类防腐剂通过抑制细菌或真菌生长而非防止氧化防止食品变质。这八种添加剂包括： 山梨酸钾（E202）",
-      "date": "2026-09-23T09:27:56.000Z"
     },
     {
       "source": "爱范儿",
@@ -626,14 +626,6 @@
       "date": "2026-09-23T09:02:00.000Z"
     },
     {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "丰田命令员工训练人形机器人，否认会替代人类员工",
-      "link": "https://www.solidot.org/story?sid=85461",
-      "summary": "丰田的员工正在帮助训练人形机器人，它计划未来几年部署 40 万台工厂机器人，人形机器人是其中的一部分，但高管否认它们会替代人类员工。丰田在装配线上部署了 ELEY 人形机器人，而员工则通过佩戴基于机器人手指的装置去训练这些通过轮子移动的机器人执行需要精细手部动作的任务。丰田是全球最大的汽车公司之一，在全世界有 60 座",
-      "date": "2026-09-23T08:32:12.000Z"
-    },
-    {
       "source": "少数派",
       "tag": "tech",
       "title": "具透 | 新「环境」、新变化，visionOS 27 值得关注的新特性",
@@ -642,36 +634,12 @@
       "date": "2026-09-23T07:30:57.000Z"
     },
     {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "地热变形虫能在 63 摄氏度下生存",
-      "link": "https://www.solidot.org/story?sid=85460",
-      "summary": "研究人员从加利福尼亚拉森火山国家公园温泉中分离出的“喀斯喀特火变形虫（Incendiamoeba cascadensis）”，可在 63℃ 完成有丝分裂，并在 70℃ 形成保护外层、降温后恢复，打破此前真核生物约 60℃ 的生长上限。研究团队于 2023—2025 年在喀斯喀特山脉拉森火山国家公园采集地热溪流样本，水温",
-      "date": "2026-09-23T07:23:00.000Z"
-    },
-    {
       "source": "爱范儿",
       "tag": "tech",
       "title": "制糖工厂发布小电拼 Core：四口全 AVS，开启超快补能，小巧随行",
       "link": "https://www.ifanr.com/1681696?utm_source=rss&utm_medium=rss&utm_campaign=",
       "summary": "制糖工厂 CANDYSIGN 推出全新 小电拼 Core。 160 W · AVS × 4 · 自由流® · 4C1A 五口满配。 一颗掌心大小的充电器，装下五个接口；其中四个 C 口，个个支持 AVS。再叠加自由流®动态功率复用，让多设备同时充电不只是「接口更多」，而是让功率能够更快流向真正需要它的设备。 这一次，小",
       "date": "2026-09-23T06:37:49.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "Adobe 推出 Android 版免费视频编辑工具 Premiere",
-      "link": "https://www.solidot.org/story?sid=85459",
-      "summary": "Adobe 终于推出了功能完整的 Android 版视频编辑工具 Premiere，除了 AI 视频生成功能外其它功能都是免费的，用户无需订阅或注册 Creative Cloud 账户。Android 版 Premiere 支持导入任意数量的视频轨道，进行剪辑、分割、添加特效，导出最高 4K 分辨率的视频。它支持从视频",
-      "date": "2026-09-23T06:26:21.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "黑客声称入侵了 FBI 窃取雇员信息",
-      "link": "https://www.solidot.org/story?sid=85457",
-      "summary": "勒索组织 ShinyHunters 声称入侵了 FBI 窃取了逾 2TB 雇员数据。该组织的一名发言人称，这次行动不是出于经济动机，而是要求 FBI 更正或撤回此前发表的声明，其中包含大量不实的指控。ShinyHunters 称它利用了 FBI 招聘网页的一个 Oracle PeopleSoft 的 0day 漏洞，该",
-      "date": "2026-09-23T03:45:09.000Z"
     },
     {
       "source": "爱范儿",
@@ -704,14 +672,6 @@
       "link": "https://www.ifanr.com/1681566?utm_source=rss&utm_medium=rss&utm_campaign=",
       "summary": "· 第六代骁龙 8 双旗舰发布，iQOO 16、红魔 12 Pro+ 首批搭载 · Qwen Intelligence 亮相，荣耀 Magic9 系列、Robot Phone 首批搭载 · 前小米 XLA 负责人陈龙创业，研发「自进化」具身大模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内",
       "date": "2026-09-23T00:05:46.000Z"
-    },
-    {
-      "source": "少数派",
-      "tag": "tech",
-      "title": "可定制、更出彩，头戴式耳机新选择：Beats 360 首发体验",
-      "link": "https://sspai.com/post/114878",
-      "summary": "在BeatsStudioPro发布3年之后，Beats终于想起来要更新一下自家头戴式耳机的旗舰款了，推出了全新的Beats360。值得一提的是，Beats不久前刚刚度过了成立后的20周年生日，Beat ...查看全文",
-      "date": "2026-09-22T14:00:00.000Z"
     },
     {
       "source": "爱范儿",
