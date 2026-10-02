@@ -1,6 +1,222 @@
 {
-  "generatedAt": "2026-10-01T03:18:20.668Z",
+  "generatedAt": "2026-10-02T03:18:50.284Z",
   "items": [
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "Graphify：整合代码库上下文，优化基于代理的软件工程",
+      "link": "https://www.infoq.cn/article/8XuP4iZKKr3ex2VTDxpl?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-10-02T10:00:00.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "别再给 Agent 一个“毛坯房”了：构建 Agent 拎包入住的开发环境实践｜QCon上海",
+      "link": "https://www.infoq.cn/article/DEyrayxufObhpoeZgOKT?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-10-02T10:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "How Singapore's government-run dating service works",
+      "link": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+      "summary": "Article URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works Comments URL: https://news.ycombinator.com/item?i",
+      "date": "2026-10-02T01:56:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Butterflies use optical illusions to dodge predators",
+      "link": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
+      "summary": "Article URL: https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators Comments URL: https://news.ycombinator.com/item?id=499",
+      "date": "2026-10-01T23:15:24.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "link": "https://lwn.net/Articles/1097401/",
+      "summary": "Article URL: https://lwn.net/Articles/1097401/ Comments URL: https://news.ycombinator.com/item?id=49928121 Points: 138 # Comments: 77",
+      "date": "2026-10-01T23:10:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "2026 International Utility Locate Rodeo",
+      "link": "https://locaterodeo.net/",
+      "summary": "Article URL: https://locaterodeo.net/ Comments URL: https://news.ycombinator.com/item?id=49927844 Points: 17 # Comments: 3",
+      "date": "2026-10-01T22:33:23.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Frog and Toad and the Increasingly Capable Machines",
+      "link": "https://www.frogandtoad.ai/",
+      "summary": "Article URL: https://www.frogandtoad.ai/ Comments URL: https://news.ycombinator.com/item?id=49927760 Points: 38 # Comments: 5",
+      "date": "2026-10-01T22:23:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Aweb – Communication for AI Agents",
+      "link": "https://aweb.ai",
+      "summary": "Article URL: https://aweb.ai Comments URL: https://news.ycombinator.com/item?id=49927587 Points: 27 # Comments: 17",
+      "date": "2026-10-01T22:02:31.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+      "link": "https://www.cssbed.com",
+      "summary": "Article URL: https://www.cssbed.com Comments URL: https://news.ycombinator.com/item?id=49927212 Points: 64 # Comments: 13",
+      "date": "2026-10-01T21:21:32.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
+      "link": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
+      "summary": "Article URL: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness Comments URL: https://news.ycombinator.com/item?id=49926917 Points: 86",
+      "date": "2026-10-01T20:48:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+      "link": "https://github.com/Vibra-Ingenn/Janus",
+      "summary": "Article URL: https://github.com/Vibra-Ingenn/Janus Comments URL: https://news.ycombinator.com/item?id=49926773 Points: 54 # Comments: 8",
+      "date": "2026-10-01T20:36:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+      "link": "https://automatictransmission.khoury.northeastern.edu/index.html",
+      "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html Comments URL: https://news.ycombinator.com/item?id=49926628 Points: 144 # Comments",
+      "date": "2026-10-01T20:23:27.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "SvelteKit 3",
+      "link": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "summary": "Article URL: https://svelte.dev/blog/sveltekit-3-is-here Comments URL: https://news.ycombinator.com/item?id=49926536 Points: 142 # Comments: 56",
+      "date": "2026-10-01T20:14:23.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "ArXiv's Updated Rate Limit Policy",
+      "link": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
+      "summary": "Article URL: https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/ Comments URL: https://news.ycombinator.com/item?id=49926512 Points: 79 # Comments: 35",
+      "date": "2026-10-01T20:12:15.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Pi 1.0",
+      "link": "https://earendil.com/posts/pi-1-0/",
+      "summary": "Related: Pi Durable - https://news.ycombinator.com/item?id=49925969 Comments URL: https://news.ycombinator.com/item?id=49926069 Points: 827 # Comments: 287",
+      "date": "2026-10-01T19:33:05.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Pi Durable",
+      "link": "https://earendil.com/posts/pi-durable/",
+      "summary": "Related: Pi 1.0 - https://news.ycombinator.com/item?id=49926069 - Oct 2026 (184 comments) Comments URL: https://news.ycombinator.com/item?id=49925969 Points: 25",
+      "date": "2026-10-01T19:24:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Oxygen-deprived underwater zones may not be “dead zones” but clue to early life",
+      "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
+      "summary": "Article URL: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570 Comments URL: https://news.ycombinator.com/item?id=49925742 Points: 87 # Comments:",
+      "date": "2026-10-01T19:03:42.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Bez: Generating a browser engine from specs and tests",
+      "link": "https://tangled.org/burrito.space/bez",
+      "summary": "Article URL: https://tangled.org/burrito.space/bez Comments URL: https://news.ycombinator.com/item?id=49925036 Points: 90 # Comments: 40",
+      "date": "2026-10-01T18:08:03.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Vote on which of Hacker News' challenges for AI have been met",
+      "link": "https://stoppels.ch/goalposts/",
+      "summary": "Article URL: https://stoppels.ch/goalposts/ Comments URL: https://news.ycombinator.com/item?id=49924618 Points: 102 # Comments: 112",
+      "date": "2026-10-01T17:32:43.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+      "link": "https://blog.gitbutler.com/git-3-sha-256",
+      "summary": "Article URL: https://blog.gitbutler.com/git-3-sha-256 Comments URL: https://news.ycombinator.com/item?id=49924179 Points: 238 # Comments: 244",
+      "date": "2026-10-01T16:57:03.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "link": "https://blog.cloudflare.com/clef-decision-models/",
+      "summary": "Article URL: https://blog.cloudflare.com/clef-decision-models/ Comments URL: https://news.ycombinator.com/item?id=49923692 Points: 448 # Comments: 164",
+      "date": "2026-10-01T16:18:57.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "PS5 模拟器的开发取得突破",
+      "link": "https://www.solidot.org/story?sid=85524",
+      "summary": "当前一代游戏机的模拟器通常需要较长时间才能成熟，但 PS5 的模拟器仅仅几个月时间就让许多 PS5 游戏能在 PC 平台上可玩。SharpEmu 从 5 月的极早 Alpha 阶段到现在具备加载真实游戏 eboot.bin 文件、执行原生 CPU 指令以及部分处理 GPU 相关功能的能力。已有 10 款游戏被标记为可玩",
+      "date": "2026-10-01T16:11:32.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "RIP, vector database",
+      "link": "https://turbopuffer.com/blog/rip-vector-database",
+      "summary": "Article URL: https://turbopuffer.com/blog/rip-vector-database Comments URL: https://news.ycombinator.com/item?id=49923466 Points: 286 # Comments: 78",
+      "date": "2026-10-01T16:01:56.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "二手 CPU 导致玩家被 Riot 封禁",
+      "link": "https://www.solidot.org/story?sid=85523",
+      "summary": "一名玩家购买了一个二手 CPU Ryzen 7 5800X3D，结果发现无法启动 Riot 工作室旗下的多款游戏，每次启动游戏就被踢出，在联络了 Riot 的客服之后才知道该 CPU 被列入了封禁黑名单，因为其前任主人有作弊行为。Riot 工作室旗下的所有游戏都受到影响，其中包括了 Valorant、League of",
+      "date": "2026-10-01T15:27:31.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "新加坡推出面向公务员的约会软件 FirstDate",
+      "link": "https://www.solidot.org/story?sid=85522",
+      "summary": "为了提高生育率，新加坡试点推出了为公务员牵线搭桥的约会应用 FirstDate。新加坡的总和生育率已降至每名女性生育 0.87 个孩子，而十年前这一数字为 1.24。政府最近成立了一个专门研究生育率下降问题的工作组，预计该作组将在 2027 年初发表研究结果。FirstDate 面向 21-35 岁的单身人士，目前仅向",
+      "date": "2026-10-01T15:11:12.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "猫与幸福感正相关",
+      "link": "https://www.solidot.org/story?sid=85521",
+      "summary": "根据发表在 PLOS One 期刊上的一项研究，猫的数量与幸福感正相关，一个国家的猫越多，其幸福感通常越高。但主要通过猫传播的弓形虫感染率与幸福感负相关，弓形虫感染率较高的国家的幸福指数通常较低。两个关系似乎矛盾，但也可能与卫生、经济条件相关联。研究分析了 93 个国家和地区的数据，幸福指数平均值为 5.72，每万人拥",
+      "date": "2026-10-01T14:52:06.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "在 Cloudflare Worker 上实现多租户 SaaS 规模的模块化边缘计算",
+      "link": "https://www.infoq.cn/article/P5yCYKFiJfKAICrf8bfs?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-10-01T14:00:00.000Z"
+    },
     {
       "source": "AI 前线",
       "tag": "ai",
@@ -26,44 +242,12 @@
       "date": "2026-10-01T10:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "California bans child marriage, a practice still legal in 32 US states",
-      "link": "https://www.bbc.com/news/articles/c6rm9mnn0w3eo",
-      "summary": "Article URL: https://www.bbc.com/news/articles/c6rm9mnn0w3eo Comments URL: https://news.ycombinator.com/item?id=49917089 Points: 7 # Comments: 1",
-      "date": "2026-10-01T02:43:03.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
-      "link": "https://github.com/TantrixAuto/yantra",
-      "summary": "Yantra is a C++ parser generator: lexer, parser, and AST walker all generated from one tool. It builds the whole AST first, then walks it. Most LALR parser gene",
-      "date": "2026-10-01T02:30:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Cities Are Forced to Funnel License Plate Data to a Federal Surveillance Program",
-      "link": "https://www.404media.co/how-cities-are-forced-to-funnel-license-plate-data-to-a-massive-federal-surveillance-program-hidta/",
-      "summary": "Article URL: https://www.404media.co/how-cities-are-forced-to-funnel-license-plate-data-to-a-massive-federal-surveillance-program-hidta/ Comments URL: https://n",
-      "date": "2026-10-01T02:26:17.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Jevotron: Multiple Jev integrations from the command line",
-      "link": "https://cmungall.github.io/jevotron/",
-      "summary": "Article URL: https://cmungall.github.io/jevotron/ Comments URL: https://news.ycombinator.com/item?id=49916865 Points: 3 # Comments: 0",
-      "date": "2026-10-01T02:12:38.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "10-year Treasury yield climbs above 5.3% to a level not seen in 24 years",
-      "link": "https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f",
-      "summary": "Article URL: https://www.wsj.com/finance/investing/surging-yields-bring-the-bond-market-back-to-the-turn-of-the-century-2b74773f Comments URL: https://news.ycom",
-      "date": "2026-10-01T01:40:50.000Z"
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "华为 Mate 90 系列发布：最强 Mate来了，5999 起即日开售",
+      "link": "https://www.ifanr.com/1682801?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "华为 Mate 90 系列自己就形成了一片机海 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "date": "2026-10-01T06:17:57.000Z"
     },
     {
       "source": "爱范儿",
@@ -82,30 +266,6 @@
       "date": "2026-10-01T00:31:33.000Z"
     },
     {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "56k.rip – the 1996 dial-up internet experience",
-      "link": "https://56k.rip/",
-      "summary": "Article URL: https://56k.rip/ Comments URL: https://news.ycombinator.com/item?id=49915126 Points: 79 # Comments: 49",
-      "date": "2026-09-30T22:08:50.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Automating Wi-Fi setup testing on the ESP32",
-      "link": "https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/",
-      "summary": "Article URL: https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/ Comments URL: https://news.ycombinator.com/item?id=49915119 Points: 14 # Com",
-      "date": "2026-09-30T22:07:51.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
-      "link": "https://www.thespacereview.com/article/4951/1",
-      "summary": "Article URL: https://www.thespacereview.com/article/4951/1 Comments URL: https://news.ycombinator.com/item?id=49915082 Points: 146 # Comments: 59",
-      "date": "2026-09-30T22:03:04.000Z"
-    },
-    {
       "source": "AI 前线",
       "tag": "ai",
       "title": "谷歌开源面向自主 AI 代理的 Kubernetes 风格编排器 AX",
@@ -120,30 +280,6 @@
       "link": "https://www.infoq.cn/article/cA9rSEGKphbJHIiTQKMv?utm_source=rss&utm_medium=article",
       "summary": "点击查看原文>",
       "date": "2026-09-30T20:37:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Functional Ultrasound Imaging (fUSI) from scratch",
-      "link": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
-      "summary": "Article URL: https://www.neuroai.science/p/functional-ultrasound-imaging-from Comments URL: https://news.ycombinator.com/item?id=49913604 Points: 29 # Comments:",
-      "date": "2026-09-30T20:06:39.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Gemini 4 Argon",
-      "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
-      "summary": "See also: Gemini 4 Argon (High): Intelligence, Performance and Price Analysis - https://news.ycombinator.com/item?id=49914236 Comments URL: https://news.ycombin",
-      "date": "2026-09-30T20:04:37.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Halfspace experimental IDE for solid modeling with distance fields",
-      "link": "https://www.mattkeeter.com/projects/halfspace/",
-      "summary": "Article URL: https://www.mattkeeter.com/projects/halfspace/ Comments URL: https://news.ycombinator.com/item?id=49913350 Points: 83 # Comments: 7",
-      "date": "2026-09-30T19:44:37.000Z"
     },
     {
       "source": "AI 前线",
@@ -162,54 +298,6 @@
       "date": "2026-09-30T19:39:04.000Z"
     },
     {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "EDG C++ front-end goes public",
-      "link": "https://edgcpp.org/#transition",
-      "summary": "https://github.com/edgcpp/compiler Comments URL: https://news.ycombinator.com/item?id=49913192 Points: 161 # Comments: 77",
-      "date": "2026-09-30T19:26:37.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Surprisingly complex waves reveal the brain's inner workings",
-      "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-      "summary": "Article URL: https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/ Comments URL: https://news.ycombinator.com/ite",
-      "date": "2026-09-30T19:04:50.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Before pixels: Modular industrial dashboards",
-      "link": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
-      "summary": "Article URL: https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/ Comments URL: https://news.ycombinator.com/item?id=49912792 Points: 58 # C",
-      "date": "2026-09-30T18:49:06.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-      "link": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
-      "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/ Comments URL: https://news.ycombinator.com/item?id=49912444 Points: 123 # Comment",
-      "date": "2026-09-30T18:17:45.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
-      "link": "https://www.chompiclub.com/opensource",
-      "summary": "Article URL: https://www.chompiclub.com/opensource Comments URL: https://news.ycombinator.com/item?id=49912048 Points: 48 # Comments: 10",
-      "date": "2026-09-30T17:42:13.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-      "link": "https://github.com/magnitudedev/magnitude",
-      "summary": "Hey HN, Anders and Tom here. We're building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It work",
-      "date": "2026-09-30T17:37:40.000Z"
-    },
-    {
       "source": "AI 前线",
       "tag": "ai",
       "title": "机房堆满算力卡，业务却还在排队？这份评估报告拆开了“算力荒假象”的破局账本",
@@ -224,22 +312,6 @@
       "link": "https://www.solidot.org/story?sid=85520",
       "summary": "由于索尼频繁更新 PS5 的固件，而大部分 PS5 越狱方法只针对特定固件版本的漏洞，因而这些越狱方法实用性相当有限。但情况在本周二发生了变化，名为 Relapse 的漏洞利用方法适用于最高固件版本 v13.6 的 PS5 游戏机，而 v13.6 是在今年 7 月释出的，意味着 PS5 只要不更新最新固件，就能成功越狱",
       "date": "2026-09-30T17:01:06.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Great Dirhombicosidodecahedron (\"Miller's Monster\")",
-      "link": "https://www.software3d.com/MillersMonster.php",
-      "summary": "Article URL: https://www.software3d.com/MillersMonster.php Comments URL: https://news.ycombinator.com/item?id=49911534 Points: 43 # Comments: 3",
-      "date": "2026-09-30T17:00:44.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
-      "link": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
-      "summary": "Article URL: https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer Comments URL: https://news.ycombinator.com/item?id=49911531 Po",
-      "date": "2026-09-30T17:00:20.000Z"
     },
     {
       "source": "AI 前线",
@@ -288,14 +360,6 @@
       "link": "https://www.solidot.org/story?sid=85518",
       "summary": "新奥集团发表新闻稿，称其“玄龙-50U”装置实现氢硼聚变反应。新闻稿称：氢硼聚变具有无中子、燃料丰富易得、低成本等商业化优势，产物是氦（α粒子），但相对于氘氚聚变，反应温度及三乘积要求更高，反应条件更苛刻。本次新奥聚变团队通过高能中性束注入与射频波的协同，大幅提高了氢硼反应第一共振峰的非热平衡快质子份额，实现了大于 1",
       "date": "2026-09-30T15:01:13.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Coltrane's Tone Circle",
-      "link": "https://jtomschroeder.com/blog/tone-circle/",
-      "summary": "Article URL: https://jtomschroeder.com/blog/tone-circle/ Comments URL: https://news.ycombinator.com/item?id=49909908 Points: 35 # Comments: 12",
-      "date": "2026-09-30T14:59:42.000Z"
     },
     {
       "source": "Solidot",
@@ -498,30 +562,6 @@
       "date": "2026-09-29T18:41:00.000Z"
     },
     {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "Agent 不只烧 Token：为什么 Agent Sandbox 正在变得重要？",
-      "link": "https://www.infoq.cn/article/he0zFgEyStxF9kOh70AP?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-09-29T18:36:43.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "Agent 编程能力从 10% 飙到 70%，Anthropic 新模型却遭遇灵魂拷问：我什么时候才会用它？",
-      "link": "https://www.infoq.cn/article/PSvHjyoJTC9bSLWYxpfF?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-09-29T18:07:09.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "上下文优势：AI 增长战略缺失的关键拼图 ｜ 技术趋势",
-      "link": "https://www.infoq.cn/article/ftFzzJ6jgxha7grHHLjf?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-09-29T18:00:00.000Z"
-    },
-    {
       "source": "Solidot",
       "tag": "tech",
       "title": "中国 AI 智能体也会撒谎和欺骗",
@@ -562,36 +602,12 @@
       "date": "2026-09-29T13:08:34.000Z"
     },
     {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "Firefox 157 释出",
-      "link": "https://www.solidot.org/story?sid=85504",
-      "summary": "Mozilla 释出了 Firefox 157。主要变化包括：新的 Nova UI，现代化浏览器界面边框、侧边栏及菜单外观；在兼容设备上支持 WebRTC 视频通话 AV1 硬件解码，此前它一直依赖于软件解码；修复 HDR 视频问题；改进了更改视频播放速度时的音画同步；移除内置搜索引擎 Amazon；等等。",
-      "date": "2026-09-29T12:10:42.000Z"
-    },
-    {
       "source": "爱范儿",
       "tag": "tech",
       "title": "9.99 万元起！现代艾尼氪 V 上市，十万级最先锋的设计来了",
       "link": "https://www.ifanr.com/1682479?utm_source=rss&utm_medium=rss&utm_campaign=",
       "summary": "最锋利的外观和最家用的配置。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "date": "2026-09-29T10:23:29.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "微软告诉非营利组织他们被删除的数据无法恢复",
-      "link": "https://www.solidot.org/story?sid=85503",
-      "summary": "微软曾从 2013 年起向全世界的小型非营利组织免费提供 Microsoft 365 Business Premium，但在 2025 年 5 月它宣布将从 2025 年 7 月起停止提供免费授权，转为提供折扣价付费订阅。今年早些时候没有转为付费的账号内相关数据都被删除了。根据一封发送给受影响客户的邮件，微软承认“由于",
-      "date": "2026-09-29T10:10:51.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "不易变黑的香蕉准备上市",
-      "link": "https://www.solidot.org/story?sid=85502",
-      "summary": "切开的香蕉片会在短时间内变成棕褐色。一种利用基因编辑技术修改过的新香蕉品种将能大幅延长香蕉保持新鲜的时间。英国农业生物技术公司 Tropi CEO Gilad Gershon 表示，新香蕉能延缓一到两天变黑，如果冷藏保存则保鲜期还会更长。Tropic 利用 CRISPR-Cas9 基因编辑技术，对香蕉的一个特定基因的所",
-      "date": "2026-09-29T09:44:27.000Z"
     },
     {
       "source": "爱范儿",
@@ -616,14 +632,6 @@
       "link": "https://sspai.com/post/115153",
       "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。临近国庆长假 ...查看全文",
       "date": "2026-09-29T09:03:00.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "AMD 以 82 亿美元收购李飞飞的 World Labs",
-      "link": "https://www.solidot.org/story?sid=85501",
-      "summary": "AMD 宣布收购李飞飞联合创办的 AI 初创公司 World Labs，交易总额约 82 亿美元，采用全股票形式支付。 World Labs 成立于 2024 年，由李飞飞与 Justin Johnson、Christoph Lassner 和 Ben Mildenhall 等人联合创办，专注于开发世界模型，但目前还没",
-      "date": "2026-09-29T08:19:15.000Z"
     },
     {
       "source": "爱范儿",
@@ -712,14 +720,6 @@
       "link": "https://sspai.com/prime/story/dev-env-on-android-with-termux",
       "summary": "不 root、不刷机，在随身设备上跑通 AI Agent 与微型 Linux 环境。查看全文 本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
       "date": "2026-09-28T09:33:03.000Z"
-    },
-    {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "豆包输入法大更新，AI 最自然的入口回到了键盘",
-      "link": "https://www.ifanr.com/1682232?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "summary": "AI 改变输入法，从少折腾开始 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-09-28T09:02:42.000Z"
     },
     {
       "source": "阮一峰的网络日志",
