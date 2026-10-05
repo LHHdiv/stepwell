@@ -1,6 +1,150 @@
 {
-  "generatedAt": "2026-10-04T03:34:07.840Z",
+  "generatedAt": "2026-10-05T03:13:54.760Z",
   "items": [
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "Cloudflare 将 1.1.1.1 DNS 缓存的内存占用削减了 100TB",
+      "link": "https://www.infoq.cn/article/XWJ8G6GaFmNL74xpSgjU?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-10-05T10:00:00.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "DataAgent - 快手大数据生产与分析的智能化探索之路｜QCon上海",
+      "link": "https://www.infoq.cn/article/yVWAQGCZCzI838JESA1b?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-10-05T10:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague",
+      "link": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
+      "summary": "Article URL: https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857 Comments URL: https:",
+      "date": "2026-10-05T02:31:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+      "link": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+      "summary": "Article URL: https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/ Comments U",
+      "date": "2026-10-05T01:54:08.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "A tribute to one of the best games on the Atari 2600",
+      "link": "https://plicerin.github.io/riverraid-rom-port/",
+      "summary": "Article URL: https://plicerin.github.io/riverraid-rom-port/ Comments URL: https://news.ycombinator.com/item?id=49959865 Points: 7 # Comments: 1",
+      "date": "2026-10-05T01:54:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Self-hosted HTTP tunnels with SSH and Nginx",
+      "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
+      "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh Comments URL: https://news.ycombinator.com/item?id=49958569 Points: 82 # Comments: 19",
+      "date": "2026-10-04T22:25:10.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "In the wake of closure, a digital archive of animated materials appears online",
+      "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+      "summary": "Article URL: https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/ Comments URL: htt",
+      "date": "2026-10-04T21:01:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Homa: The end of TCP for AI clusters [video]",
+      "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "summary": "Paper: https://www.usenix.org/system/files/atc21-ousterhout.pdf Related: https://lwn.net/Articles/1003059/, https://www.theregister.com/networks/2026/10/01/stan",
+      "date": "2026-10-04T19:42:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "link": "https://github.com/omlahore/RemoveMacAI",
+      "summary": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 404 # Comments: 266",
+      "date": "2026-10-04T19:42:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Improper redaction reveals Google Data Center water and electricity usage",
+      "link": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+      "summary": "Article URL: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/ Comments URL: https://new",
+      "date": "2026-10-04T19:37:05.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "A browser-native classic Visual Basic VB6 IDE",
+      "link": "https://wieslawsoltes.github.io/VB6/",
+      "summary": "Article URL: https://wieslawsoltes.github.io/VB6/ Comments URL: https://news.ycombinator.com/item?id=49956681 Points: 103 # Comments: 43",
+      "date": "2026-10-04T18:49:17.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "Java新闻汇总：新的OpenJDK JEP、CDI 5.0、Spring、Open Liberty、RefactorFirst和ADK for Kotlin",
+      "link": "https://www.infoq.cn/article/KXmob0H9RXKmJxIlcAaA?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-10-04T18:39:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Incentives in Academic Research",
+      "link": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
+      "summary": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/ Comments URL: https://news.ycombinator.com/item?id=49956035 Points: 42 # Comments: 3",
+      "date": "2026-10-04T17:42:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Xray-core concealed a certificate verification bypass vulnerability",
+      "link": "https://github.com/net4people/bbs/issues/672",
+      "summary": "Article URL: https://github.com/net4people/bbs/issues/672 Comments URL: https://news.ycombinator.com/item?id=49956003 Points: 61 # Comments: 2",
+      "date": "2026-10-04T17:38:54.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "Java新闻汇总：GraalVM、Jakarta Data、JNoSQL、Azul Payara、WildFly、Quarkus和Atmosphere",
+      "link": "https://www.infoq.cn/article/TeFTUfEJdS3CqbpUQ97k?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-10-04T17:33:11.000Z"
+    },
+    {
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "十年前的「外挂相机」，如何在华为 Mate 90 上复活？｜硬哲学",
+      "link": "https://www.ifanr.com/1682933?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "那个曾经太早出现的想法，这一次，可能终于等到了属于它的时代 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "date": "2026-10-04T14:49:07.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "link": "https://github.com/Niko1221/Strata",
+      "summary": "Article URL: https://github.com/Niko1221/Strata Comments URL: https://news.ycombinator.com/item?id=49953495 Points: 637 # Comments: 298",
+      "date": "2026-10-04T12:51:53.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Bill Draper has died",
+      "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
+      "summary": "https://archive.ph/YRgDY Comments URL: https://news.ycombinator.com/item?id=49953288 Points: 87 # Comments: 20",
+      "date": "2026-10-04T12:21:35.000Z"
+    },
     {
       "source": "AI 前线",
       "tag": "ai",
@@ -12,15 +156,47 @@
     {
       "source": "Hacker News",
       "tag": "ai",
-      "title": "Inside Anthropic's Quest to Instill Morality into Its A.I. Models",
-      "link": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "summary": "Article URL: https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html Comments URL: https://news.ycombinator.com/item?id=49950052 Points: 4 # Comme",
-      "date": "2026-10-04T02:34:22.000Z"
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "link": "https://github.com/allenv0/SCM",
+      "summary": "Article URL: https://github.com/allenv0/SCM Comments URL: https://news.ycombinator.com/item?id=49952111 Points: 142 # Comments: 66",
+      "date": "2026-10-04T09:24:52.000Z"
     },
     {
       "source": "Hacker News",
       "tag": "ai",
-      "title": "Bob Cringely Has Died",
+      "title": "How to scale intent, quality, and artistry with AI [video]",
+      "link": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+      "summary": "Article URL: https://www.youtube.com/watch?v=GLvFTMtw4Jk Comments URL: https://news.ycombinator.com/item?id=49951891 Points: 56 # Comments: 16",
+      "date": "2026-10-04T08:41:58.000Z"
+    },
+    {
+      "source": "少数派",
+      "tag": "tech",
+      "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
+      "link": "https://sspai.com/post/115308",
+      "summary": "iPhone 18 Pro 也许不会让你感觉焕然一新，却在许多地方都变得更加完整了。查看全文",
+      "date": "2026-10-04T07:58:39.000Z"
+    },
+    {
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "OpenAI元老的一封离职信，揭开了奥特曼最不想承认的真相",
+      "link": "https://www.ifanr.com/1682922?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "教会 AI 善待人类前，先学会善待人 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "date": "2026-10-04T07:08:18.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Why don't more developers “use the platform”?",
+      "link": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+      "summary": "Article URL: https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/ Comments URL: https://news.ycombinator.com/item?id=49950554 Points: 2",
+      "date": "2026-10-04T04:10:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Tell HN: Bob Cringely has died",
       "link": "https://news.ycombinator.com/item?id=49949438",
       "summary": "I heard from a friend of the family that Bob passed away in his sleep early Saturday. Very sad news. Bob, who's real name was Mark Stevens, was an early employe",
       "date": "2026-10-04T00:50:52.000Z"
@@ -28,122 +204,26 @@
     {
       "source": "Hacker News",
       "tag": "ai",
-      "title": "We're going to need default hard budget caps on pretty much everything",
-      "link": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-      "summary": "Article URL: https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/ Comments URL: https://news.ycombinator.com/item?id=49949235 Points: 252 # Comments: ",
-      "date": "2026-10-04T00:20:16.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-      "link": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken Comments URL: https://news.ycom",
-      "date": "2026-10-03T22:18:13.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Federal judge calls Flock 'indiscriminate mass surveillance'",
-      "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
-      "summary": "Article URL: https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/ Comments URL: https://news.ycombinator.com/item?id=49",
-      "date": "2026-10-03T22:07:13.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Reasons I didn't become an EMT, ranked",
-      "link": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
-      "summary": "Article URL: https://ben.stolovitz.com/posts/reasons-not-emt-ranked/ Comments URL: https://news.ycombinator.com/item?id=49947631 Points: 114 # Comments: 56",
-      "date": "2026-10-03T20:49:15.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
       "title": "Surely you have ultra-wideband radios on your bins too?",
       "link": "https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/",
-      "summary": "Article URL: https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/ Comments URL: https://news.ycombinator.com/item?id=49947472 Points: 49 # Commen",
+      "summary": "Article URL: https://sjg.io/writing/binrange-have-you-actually-put-the-bins-out/ Comments URL: https://news.ycombinator.com/item?id=49947472 Points: 140 # Comme",
       "date": "2026-10-03T20:27:44.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "We want you to build the next Git platform on Cloudflare",
-      "link": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
-      "summary": "Article URL: https://blog.cloudflare.com/next-git-platform-on-cloudflare/ Comments URL: https://news.ycombinator.com/item?id=49947051 Points: 107 # Comments: 96",
-      "date": "2026-10-03T19:33:16.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux",
-      "link": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-      "summary": "Article URL: https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU Comments URL: https://news.ycombinator.com/item?id=49946895 Points: 170 # Comments: 21",
-      "date": "2026-10-03T19:14:48.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "RSS Feed Best Practices (2022)",
-      "link": "https://kevincox.ca/2022/05/06/rss-feed-best-practices/",
-      "summary": "Article URL: https://kevincox.ca/2022/05/06/rss-feed-best-practices/ Comments URL: https://news.ycombinator.com/item?id=49946845 Points: 41 # Comments: 8",
-      "date": "2026-10-03T19:09:25.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Getting the most out of Opus 5.5 in Claude and Claude Code",
-      "link": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
-      "summary": "Article URL: https://claude.dev/blog/getting-the-most-out-of-opus-5-5/ Comments URL: https://news.ycombinator.com/item?id=49946567 Points: 179 # Comments: 127",
-      "date": "2026-10-03T18:29:30.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Hole Punch: Sling your spaceship around gravitational fields",
-      "link": "https://notoriousbfg.com/hole-punch/",
-      "summary": "Article URL: https://notoriousbfg.com/hole-punch/ Comments URL: https://news.ycombinator.com/item?id=49946393 Points: 248 # Comments: 62",
-      "date": "2026-10-03T18:06:45.000Z"
     },
     {
       "source": "Hacker News",
       "tag": "ai",
       "title": "Treachery in the Rodin Museum 3D scan verdict",
       "link": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
-      "summary": "Article URL: https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict Comments URL: https://news.ycombinator.com/item?id=49946355 Points: 106 # Comments:",
+      "summary": "Article URL: https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict Comments URL: https://news.ycombinator.com/item?id=49946355 Points: 317 # Comments:",
       "date": "2026-10-03T18:01:27.000Z"
     },
     {
       "source": "Hacker News",
       "tag": "ai",
-      "title": "Agents don't need memory, they need documentation",
-      "link": "https://liao.gg/blog/agents-dont-need-memory",
-      "summary": "Article URL: https://liao.gg/blog/agents-dont-need-memory Comments URL: https://news.ycombinator.com/item?id=49945933 Points: 74 # Comments: 55",
-      "date": "2026-10-03T17:03:37.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "RetailReady (YC W24) Is Hiring",
-      "link": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
-      "summary": "Article URL: https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations Comments URL: https://news.ycombinator.com/item?id=49945904 Points: ",
-      "date": "2026-10-03T17:00:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Docker has always used microVMs (well since 2016)",
-      "link": "https://dave.recoil.org/docker-has-always-used-microvms/",
-      "summary": "Article URL: https://dave.recoil.org/docker-has-always-used-microvms/ Comments URL: https://news.ycombinator.com/item?id=49945352 Points: 26 # Comments: 18",
-      "date": "2026-10-03T15:55:31.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "FTL: A new operating system for clouds",
-      "link": "https://ftl-os.org/",
-      "summary": "https://github.com/nuta/ftl Comments URL: https://news.ycombinator.com/item?id=49944912 Points: 154 # Comments: 61",
-      "date": "2026-10-03T15:02:36.000Z"
+      "title": "Infidel goes wild",
+      "link": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
+      "summary": "Article URL: https://blog.zarfhome.com/2026/10/infidel-goes-wild Comments URL: https://news.ycombinator.com/item?id=49943637 Points: 86 # Comments: 13",
+      "date": "2026-10-03T12:19:40.000Z"
     },
     {
       "source": "AI 前线",
@@ -152,30 +232,6 @@
       "link": "https://www.infoq.cn/article/bLB8RQ6sd3ZGQts0D4tP?utm_source=rss&utm_medium=article",
       "summary": "点击查看原文>",
       "date": "2026-10-03T10:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Kolibri: A Sovereign Open-Weight Model",
-      "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-      "summary": "tech report: https://aleph-alpha.com/downloads/tech-report.pdf additional paper: https://tej.as/blog/aleph-alpha-kolibri Comments URL: https://news.ycombinator.",
-      "date": "2026-10-03T09:36:04.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Former SR-71 engineer talks NASA's Blackbird revival program",
-      "link": "https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program",
-      "summary": "Article URL: https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program Comments URL: https://news.ycombinator.com/item?id=49942130 Poi",
-      "date": "2026-10-03T07:32:47.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
-      "link": "https://thoreaubasic.com/",
-      "summary": "Thoreau BASIC started as a joke. I wanted a BASIC where I could type something ridiculous like: DIM A%(12000000000) Version 3.2 has become considerably more amb",
-      "date": "2026-10-03T07:28:54.000Z"
     },
     {
       "source": "爱范儿",
@@ -248,30 +304,6 @@
       "link": "https://www.solidot.org/story?sid=85524",
       "summary": "当前一代游戏机的模拟器通常需要较长时间才能成熟，但 PS5 的模拟器仅仅几个月时间就让许多 PS5 游戏能在 PC 平台上可玩。SharpEmu 从 5 月的极早 Alpha 阶段到现在具备加载真实游戏 eboot.bin 文件、执行原生 CPU 指令以及部分处理 GPU 相关功能的能力。已有 10 款游戏被标记为可玩",
       "date": "2026-10-01T16:11:32.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "二手 CPU 导致玩家被 Riot 封禁",
-      "link": "https://www.solidot.org/story?sid=85523",
-      "summary": "一名玩家购买了一个二手 CPU Ryzen 7 5800X3D，结果发现无法启动 Riot 工作室旗下的多款游戏，每次启动游戏就被踢出，在联络了 Riot 的客服之后才知道该 CPU 被列入了封禁黑名单，因为其前任主人有作弊行为。Riot 工作室旗下的所有游戏都受到影响，其中包括了 Valorant、League of",
-      "date": "2026-10-01T15:27:31.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "新加坡推出面向公务员的约会软件 FirstDate",
-      "link": "https://www.solidot.org/story?sid=85522",
-      "summary": "为了提高生育率，新加坡试点推出了为公务员牵线搭桥的约会应用 FirstDate。新加坡的总和生育率已降至每名女性生育 0.87 个孩子，而十年前这一数字为 1.24。政府最近成立了一个专门研究生育率下降问题的工作组，预计该作组将在 2027 年初发表研究结果。FirstDate 面向 21-35 岁的单身人士，目前仅向",
-      "date": "2026-10-01T15:11:12.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "猫与幸福感正相关",
-      "link": "https://www.solidot.org/story?sid=85521",
-      "summary": "根据发表在 PLOS One 期刊上的一项研究，猫的数量与幸福感正相关，一个国家的猫越多，其幸福感通常越高。但主要通过猫传播的弓形虫感染率与幸福感负相关，弓形虫感染率较高的国家的幸福指数通常较低。两个关系似乎矛盾，但也可能与卫生、经济条件相关联。研究分析了 93 个国家和地区的数据，幸福指数平均值为 5.72，每万人拥",
-      "date": "2026-10-01T14:52:06.000Z"
     },
     {
       "source": "AI 前线",
@@ -370,14 +402,6 @@
       "date": "2026-09-30T17:37:10.000Z"
     },
     {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "PS5 越狱取得突破",
-      "link": "https://www.solidot.org/story?sid=85520",
-      "summary": "由于索尼频繁更新 PS5 的固件，而大部分 PS5 越狱方法只针对特定固件版本的漏洞，因而这些越狱方法实用性相当有限。但情况在本周二发生了变化，名为 Relapse 的漏洞利用方法适用于最高固件版本 v13.6 的 PS5 游戏机，而 v13.6 是在今年 7 月释出的，意味着 PS5 只要不更新最新固件，就能成功越狱",
-      "date": "2026-09-30T17:01:06.000Z"
-    },
-    {
       "source": "AI 前线",
       "tag": "ai",
       "title": "意图驱动治理：分钟级实现敏感数据规模化保护｜ 技术实践",
@@ -394,14 +418,6 @@
       "date": "2026-09-30T15:25:27.000Z"
     },
     {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "从 AI 试点到营收增长：Snowflake 销售与营销团队如何跨越落地鸿沟 ｜ 技术实践",
-      "link": "https://www.infoq.cn/article/hw3PpM2ZlCmCArsNo1y7?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-09-30T15:12:35.000Z"
-    },
-    {
       "source": "爱范儿",
       "tag": "tech",
       "title": "突发！苹果全新产品线曝光，Siri AI 进家门",
@@ -416,30 +432,6 @@
       "link": "https://sspai.com/post/115070",
       "summary": "Bungie 究竟是在和时间赛跑，还是在和自己赛跑？查看全文",
       "date": "2026-09-30T14:32:58.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "一个忘关的开关，与企业Agent的全栈技术账单",
-      "link": "https://www.infoq.cn/article/z9VP6ZQ3vCxTrk1VdU5D?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-09-30T12:10:15.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "首发！openJiuwen workSwarm全双工多模态 ，像聊天一样与Agent交互，昇腾算力原生亲和",
-      "link": "https://www.infoq.cn/article/fOuaRtwuySyZsS0iGg7N?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-09-30T11:52:00.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "Java 近期新闻：JDK 27、Open J Proxy、A2A Jakarta、Azul Payara、BoxLang、Netflix ja",
-      "link": "https://www.infoq.cn/article/Rgb6X5RSD1P8HQzRc0K7?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-09-30T10:45:00.000Z"
     },
     {
       "source": "爱范儿",
@@ -570,36 +562,12 @@
       "date": "2026-09-29T07:44:46.000Z"
     },
     {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "对话一目科技：机器人还缺失的「手感」，我们用「光」来搞定丨多样性公司",
-      "link": "https://www.ifanr.com/1682314?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "summary": "相信「光」的力量和精度。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-09-29T04:00:10.000Z"
-    },
-    {
       "source": "少数派",
       "tag": "tech",
       "title": "可塑的白昼：ColorOS17 深度评测",
       "link": "https://sspai.com/post/114728",
       "summary": "时间倾斜，触碰我，发出清澈的金属般的声响。我的感官在战栗，我觉我能——我能抓住这可塑的白昼。——里尔克《时辰祈祷》AppleEvent'26上，主动智能赋能的SiriAI终于正式发布。Craig一句「 ...查看全文",
       "date": "2026-09-29T03:28:25.000Z"
-    },
-    {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "可灵4.0首发实测，国产AI视频再次掀桌？",
-      "link": "https://www.ifanr.com/1682361?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "summary": "能文能武 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-09-29T03:24:11.000Z"
-    },
-    {
-      "source": "少数派",
-      "tag": "tech",
-      "title": "派早报：荣耀发布荣耀 Magic9 系列，鸿蒙智行发布智界 RX 等",
-      "link": "https://sspai.com/post/115134",
-      "summary": "少数派的近期动态给电话加上「辅助驾驶」？我们想听听你的意见。我们将从提交的问卷中挑选40份用心回答，每份送出50元面值京东卡。参与调研泡泡骚LowPro碳纹黑少数派独家款上架，把握持与支撑收进2.6m ...查看全文",
-      "date": "2026-09-29T00:09:05.000Z"
     },
     {
       "source": "阮一峰的网络日志",
