@@ -1,6 +1,310 @@
 {
-  "generatedAt": "2026-10-21T02:39:58.586Z",
+  "generatedAt": "2026-10-22T02:42:44.546Z",
   "items": [
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "从固定规格到按需分配：Snowflake 自适应计算的底层逻辑 ｜ 技术趋势",
+      "link": "https://www.infoq.cn/article/OX9rfbmh7V7thvWrkULb?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-10-22T10:00:00.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "豆包工作上线 IGA Pages 插件，一句话让网页变得可分享、可共创",
+      "link": "https://www.infoq.cn/article/w065UmVL9EsVI6IVbBd7?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-10-22T10:00:00.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "AWS Lambda推动无服务器向长时间运行的工作负载发展",
+      "link": "https://www.infoq.cn/article/0vwVMhufb66SBofWsvRz?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-10-22T09:11:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "LLM Agents Play Pokemon Showdown",
+      "link": "https://olivergrabner.com/research/pokemon/",
+      "summary": "Article URL: https://olivergrabner.com/research/pokemon/ Comments URL: https://news.ycombinator.com/item?id=50190334 Points: 8 # Comments: 1",
+      "date": "2026-10-22T02:13:48.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
+      "link": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
+      "summary": "Article URL: https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552 Comments URL: https://news.ycombinator.com/item?id=50190168 P",
+      "date": "2026-10-22T01:52:03.000Z"
+    },
+    {
+      "source": "少数派",
+      "tag": "tech",
+      "title": "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等",
+      "link": "https://sspai.com/post/116953",
+      "summary": "OpenBSD 8.0 正式发布、腾讯宣布元宝搜索对外开放等。查看全文",
+      "date": "2026-10-22T00:29:05.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "When Do We Become the Person We Ought to Be?",
+      "link": "https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought",
+      "summary": "Article URL: https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought Comments URL: https://news.ycombinator.com/item?id=50189278 Points: 17 ",
+      "date": "2026-10-21T23:57:41.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "mitmproxy adds --emudhra option",
+      "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "summary": "Article URL: https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b Comments URL: https://news.ycombinator.com/item?id=50189232 ",
+      "date": "2026-10-21T23:51:37.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Κ = 0.003 for integer multiplication crossed",
+      "link": "https://github.com/CrocSwap/integer-mult-bounds/pull/4441",
+      "summary": "Article URL: https://github.com/CrocSwap/integer-mult-bounds/pull/4441 Comments URL: https://news.ycombinator.com/item?id=50189023 Points: 29 # Comments: 18",
+      "date": "2026-10-21T23:22:21.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "link": "https://eliastaylor.com/noexploit/",
+      "summary": "Article URL: https://eliastaylor.com/noexploit/ Comments URL: https://news.ycombinator.com/item?id=50188948 Points: 190 # Comments: 89",
+      "date": "2026-10-21T23:13:27.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Security Disclosure",
+      "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "summary": "Article URL: https://blog.railway.com/p/security-disclosure-wednesday-october-21st Comments URL: https://news.ycombinator.com/item?id=50188228 Points: 328 # Com",
+      "date": "2026-10-21T21:58:03.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "对话亚马逊CTO：仍在招聘初级工程师，关注中国开放模型",
+      "link": "https://www.infoq.cn/article/XxOpQpEMZpdCCYhXxgaE?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-10-21T21:18:40.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Claude Duet",
+      "link": "https://claude.com/product/claude-duet",
+      "summary": "Article URL: https://claude.com/product/claude-duet Comments URL: https://news.ycombinator.com/item?id=50186037 Points: 322 # Comments: 280",
+      "date": "2026-10-21T19:14:01.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Rust Style Guide",
+      "link": "https://google.github.io/styleguide/rustguide.html",
+      "summary": "Article URL: https://google.github.io/styleguide/rustguide.html Comments URL: https://news.ycombinator.com/item?id=50186010 Points: 220 # Comments: 121",
+      "date": "2026-10-21T19:11:57.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "GitLab Critical Patch Release",
+      "link": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "summary": "Article URL: https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/ Comments URL: https://news.ycombinator.com/item?id=50185869 Points: ",
+      "date": "2026-10-21T19:01:12.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "从试点到规模化落地：制造业领导者如何推动 AI 应用并赢得高管层支持 ｜ 技术趋势",
+      "link": "https://www.infoq.cn/article/Ms3bMt5OcUyYMHwfaXgM?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-10-21T18:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+      "link": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+      "summary": "https://nmdoj.gov/press-release/the-new-mexico-department-of... Comments URL: https://news.ycombinator.com/item?id=50184820 Points: 396 # Comments: 253",
+      "date": "2026-10-21T17:45:13.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "EA is shutting down BioWare",
+      "link": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+      "summary": "Article URL: https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware Comments URL: https://news.ycombinator.com/item?id=50184586 Points: 546 # Commen",
+      "date": "2026-10-21T17:29:33.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "对象存储正在“吃掉”Kafka？Cloudflare 用 R2 重做事件流",
+      "link": "https://www.infoq.cn/article/hEHy8XHKyfwKuyIhpyFe?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-10-21T17:12:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
+      "link": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
+      "summary": "Article URL: https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs Comments URL: https://news.ycomb",
+      "date": "2026-10-21T16:20:37.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "金融智能分析本体：四大核心要素与五条建设路线",
+      "link": "https://www.infoq.cn/article/Be94YQbRtbWj3pzZ9rSh?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-10-21T16:13:17.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "欧洲专家：追求 100% 技术主权，是一种天真的想法",
+      "link": "https://www.infoq.cn/article/6L1Bqr8iNdVT6Cgq22QH?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-10-21T16:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Today's PHP security release, and how we're strengthening security",
+      "link": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "summary": "Related ongoing thread: PHP 8.2.35 - https://news.ycombinator.com/item?id=50180873 (links to more at https://news.ycombinator.com/item?id=50184935) Comments URL",
+      "date": "2026-10-21T15:48:56.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+      "link": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+      "summary": "Article URL: https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488 Comments URL: https://news.ycombinator.com/item?id=",
+      "date": "2026-10-21T15:20:04.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "推动 AI 规模化落地的三大经验：来自公共部门领导者的实践洞察 ｜ 技术趋势",
+      "link": "https://www.infoq.cn/article/GVcxHscrQqv9HXGRowJh?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-10-21T15:19:41.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "代码迁移准确率从 5.4% 飙至 97.9%！OpenAI 挑战 COBOL，几十年的老系统真能交给 AI 了？",
+      "link": "https://www.infoq.cn/article/LZsVYHAH1jyOtLg6Yiwk?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-10-21T15:00:29.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "PingCAP 遭大规模数据泄露！黑客声称窃取 10.6TB 数据，涉及 18 万条组织记录",
+      "link": "https://www.infoq.cn/article/2KQlziFu7oBa9Q2ZEZyr?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-10-21T14:52:56.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "17岁Kimi前研究员陈广宇被曝投奔Jeff Dean创业团队，新公司正寻求500亿美元估值",
+      "link": "https://www.infoq.cn/article/yH0DHL8Nil26ES43TeF1?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-10-21T14:39:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+      "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+      "summary": "https://patchtheplanet.org/ Comments URL: https://news.ycombinator.com/item?id=50181175 Points: 237 # Comments: 162",
+      "date": "2026-10-21T14:03:43.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+      "link": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+      "summary": "Article URL: https://duckdb.org/2026/10/21/announcing-duckdb-200 Comments URL: https://news.ycombinator.com/item?id=50181136 Points: 372 # Comments: 48",
+      "date": "2026-10-21T14:01:22.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "link": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "summary": "Article URL: https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/ Comments URL: https://news.ycombinator.com/item?id=50181114 Points: 445 # C",
+      "date": "2026-10-21T14:00:26.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "Cloudflare 开源面向 AI 智能体的决策模型 Clef",
+      "link": "https://www.infoq.cn/article/iqCrZLLizNkRTpfo2Jrb?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-10-21T13:47:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "PHP 8.2.35",
+      "link": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+      "summary": "Related ongoing thread: Today's PHP security release, and how we're strengthening security - https://news.ycombinator.com/item?id=50182987 Comments URL: https:/",
+      "date": "2026-10-21T13:45:33.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "link": "https://openai.com/index/scaling-ai-research-for-complex-biological-data/",
+      "summary": "Article URL: https://openai.com/index/scaling-ai-research-for-complex-biological-data/ Comments URL: https://news.ycombinator.com/item?id=50180752 Points: 136 #",
+      "date": "2026-10-21T13:37:00.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "Agent 删库频频发生，几十年前就有的数据库防呆机制不管用了？",
+      "link": "https://www.infoq.cn/article/2Z056Q54wWa6vAIQKsqJ?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-10-21T12:10:15.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "DeepSeek开源最新推理框架：单集群日吞吐155万亿Token，KVCache可保存7天",
+      "link": "https://www.infoq.cn/article/NBXP966Bz3eqr6Qidvaf?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-10-21T12:06:48.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "Anthropic几乎停招初级员工！占比一年半骤降33%：Agent工时已是员工6倍",
+      "link": "https://www.infoq.cn/article/bTVDaYaUJy2OvNlyuHgz?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-10-21T12:01:59.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "AI 能否取代渗透测试？Cloudflare 的答案是：必须套上测试框架",
+      "link": "https://www.infoq.cn/article/R2z2kCkRHhXwGqDZeMKN?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-10-21T11:00:00.000Z"
+    },
     {
       "source": "AI 前线",
       "tag": "ai",
@@ -26,52 +330,28 @@
       "date": "2026-10-21T09:21:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "In Hilbert space, all things are quantumly possible",
-      "link": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
-      "summary": "Article URL: https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/ Comments URL: https://news.ycombinator.com/item?id=5017",
-      "date": "2026-10-21T02:04:15.000Z"
+      "source": "少数派",
+      "tag": "tech",
+      "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备",
+      "link": "https://sspai.com/post/116820",
+      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
+      "date": "2026-10-21T09:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "T3 Code now synced between GitHub and GitCafe",
-      "link": "https://git.cafe/pingdotgg/t3code",
-      "summary": "Article URL: https://git.cafe/pingdotgg/t3code Comments URL: https://news.ycombinator.com/item?id=50175075 Points: 6 # Comments: 15",
-      "date": "2026-10-21T01:48:22.000Z"
+      "source": "少数派",
+      "tag": "tech",
+      "title": "Vitals：什么在拖慢你的 Mac？它比「活动监视器」更直观易用",
+      "link": "https://sspai.com/post/116445",
+      "summary": "如果你希望更直观地分析 App 资源消耗、追踪历史变化，或者经常在 Mac 上进行开发和本地 AI 推理，Vitals 提供的整合式监控与 AI 协作能力更值得尝试。查看全文",
+      "date": "2026-10-21T07:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "The Future of CSS",
-      "link": "https://www.joshwcomeau.com/css/interop-2027/",
-      "summary": "Article URL: https://www.joshwcomeau.com/css/interop-2027/ Comments URL: https://news.ycombinator.com/item?id=50175070 Points: 4 # Comments: 0",
-      "date": "2026-10-21T01:47:28.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "GitHub package firewall",
-      "link": "https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview/",
-      "summary": "Article URL: https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview/ Comments URL: https://news.ycombinator.com/item?id=50175063 Poi",
-      "date": "2026-10-21T01:45:29.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Good type against all odds",
-      "link": "https://unsung.aresluna.org/good-type-against-all-odds/",
-      "summary": "Article URL: https://unsung.aresluna.org/good-type-against-all-odds/ Comments URL: https://news.ycombinator.com/item?id=50175059 Points: 19 # Comments: 4",
-      "date": "2026-10-21T01:45:07.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Learning to live with Waymos",
-      "link": "https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird",
-      "summary": "Article URL: https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird Comments URL: https://news.ycombinator.com/item?id=",
-      "date": "2026-10-21T01:44:34.000Z"
+      "source": "少数派",
+      "tag": "tech",
+      "title": "怀旧手记｜世界首台 UMPC：三星 Q1，和当下平板有什么关系？",
+      "link": "https://sspai.com/post/115107",
+      "summary": "电脑与平板之间的界限，早在 20 年前的三星 Q1 上就已经可以随意切换了。查看全文",
+      "date": "2026-10-21T02:23:21.000Z"
     },
     {
       "source": "爱范儿",
@@ -80,22 +360,6 @@
       "link": "https://www.ifanr.com/1685107?utm_source=rss&utm_medium=rss&utm_campaign=",
       "summary": "奇瑞想做一家创新技术企业。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "date": "2026-10-21T01:31:11.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "北大博士、零一万物联创黄文灏加入字节 Seed 两年后离职，下一步或创业",
-      "link": "https://www.infoq.cn/article/Xkjg7bLE3o6l9qCidVX0?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-10-21T00:35:12.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "比 Opus 5.5 便宜 88 倍！MiniMax M3.1 Flash “杀“回王座，顺手拿了个  Agent 国模第一",
-      "link": "https://www.infoq.cn/article/7Twa7KBWIzi8JGOdVwCK?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-10-21T00:26:48.000Z"
     },
     {
       "source": "爱范儿",
@@ -114,116 +378,12 @@
       "date": "2026-10-21T00:07:07.000Z"
     },
     {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "The Other Epidemic: Trying to get off benzodiazepines",
-      "link": "https://www.thebeliever.net/the-other-epidemic/",
-      "summary": "https://web.archive.org/web/20261020230542/https://www.thebe... https://archive.ph/Tb1SZ Comments URL: https://news.ycombinator.com/item?id=50173891 Points: 74 ",
-      "date": "2026-10-20T23:04:09.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
-      "link": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
-      "summary": "Article URL: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/ Comments URL: https://news.ycombinator.com/item",
-      "date": "2026-10-20T22:21:05.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Upcoming Critical PHP Security Release",
-      "link": "https://news-web.php.net/php.announce/509",
-      "summary": "Article URL: https://news-web.php.net/php.announce/509 Comments URL: https://news.ycombinator.com/item?id=50172041 Points: 77 # Comments: 11",
-      "date": "2026-10-20T20:15:50.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
-      "link": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
-      "summary": "Article URL: https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/ Comments URL: http",
-      "date": "2026-10-20T18:51:40.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "主题征文 ｜ 让鸿蒙应用，玩出新可能！",
-      "link": "https://www.infoq.cn/article/D8uCYSG2Sf29ybwp4i2g?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-10-20T18:36:03.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Show HN: SimCity, but with Permits",
-      "link": "https://permit.petercai.com/",
-      "summary": "Article URL: https://permit.petercai.com/ Comments URL: https://news.ycombinator.com/item?id=50170593 Points: 590 # Comments: 296",
-      "date": "2026-10-20T18:29:09.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "What shall I teach my son?",
-      "link": "https://stevekrouse.com/ends",
-      "summary": "Article URL: https://stevekrouse.com/ends Comments URL: https://news.ycombinator.com/item?id=50169707 Points: 277 # Comments: 342",
-      "date": "2026-10-20T17:25:07.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-      "link": "https://research.poh.org/bot-benchmarking-2026/",
-      "summary": "Article URL: https://research.poh.org/bot-benchmarking-2026/ Comments URL: https://news.ycombinator.com/item?id=50169506 Points: 29 # Comments: 0",
-      "date": "2026-10-20T17:10:31.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "处理了 4000 万条消息后，我们总结了 Kafka 有序处理的几个关键设计",
-      "link": "https://www.infoq.cn/article/HoUf1pHD3WcZCK3YMe7m?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-10-20T17:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-      "link": "https://github.com/google-pytorch/torch_tpu",
-      "summary": "Article URL: https://github.com/google-pytorch/torch_tpu Comments URL: https://news.ycombinator.com/item?id=50169053 Points: 269 # Comments: 64",
-      "date": "2026-10-20T16:40:24.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Voxtral 3",
-      "link": "https://mistral.ai/news/voxtral-3/",
-      "summary": "Article URL: https://mistral.ai/news/voxtral-3/ Comments URL: https://news.ycombinator.com/item?id=50168396 Points: 538 # Comments: 143",
-      "date": "2026-10-20T16:02:07.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Sixteen Years After Deepwater Horizon, Deep Sea Life Shows Few Signs of Recovery",
-      "link": "https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery",
-      "summary": "Article URL: https://e360.yale.edu/digest/deepwater-horizon-deep-sea-recovery Comments URL: https://news.ycombinator.com/item?id=50168357 Points: 206 # Comments",
-      "date": "2026-10-20T15:59:06.000Z"
-    },
-    {
       "source": "Solidot",
       "tag": "tech",
       "title": "字节阿里腾讯订购了逾 350 亿美元的 RTX PRO 5500 显卡",
       "link": "https://www.solidot.org/story?sid=85668",
       "summary": "字节跳动、阿里巴巴和腾讯已订购超过 300 万个、总值超过 350 亿美元的英伟达 RTX PRO 5500 工作站显卡。英伟达已通知客户和合作伙伴，由于中国科技企业的需求远超所计划的产量，英伟达无法保证能够满足所有订单。英伟达告诉合作伙伴，他们实际能拿到的产品数量，可能仅为所提出数量的 5% 到 10%。英伟达 20",
       "date": "2026-10-20T15:55:15.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "IKEA – 3D Guide",
-      "link": "https://sael.net/flatpack/",
-      "summary": "Article URL: https://sael.net/flatpack/ Comments URL: https://news.ycombinator.com/item?id=50168096 Points: 147 # Comments: 53",
-      "date": "2026-10-20T15:42:45.000Z"
     },
     {
       "source": "Solidot",
@@ -242,30 +402,6 @@
       "date": "2026-10-20T15:22:58.000Z"
     },
     {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "Spanner Omni 正式可用：采用软件方案替代谷歌原子钟与文件系统",
-      "link": "https://www.infoq.cn/article/tTpKSzciXEpXuZduywdg?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-10-20T15:22:00.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "突破长文本推理瓶颈 九章云极Alaya-DFlash2助GLM-5.3解码提速3.41倍",
-      "link": "https://www.infoq.cn/article/mJ5udryLFwjov1pk4Dsq?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-10-20T15:07:31.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "AI生成的代码看不懂就扔掉重来：一位首席架构师的 5 条 Agent 编程反常识原则",
-      "link": "https://www.infoq.cn/article/tgqMEJsqXfX6YzAcOiAR?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-10-20T15:05:27.000Z"
-    },
-    {
       "source": "Solidot",
       "tag": "tech",
       "title": "OpenBSD 8.0 释出",
@@ -274,68 +410,12 @@
       "date": "2026-10-20T14:58:59.000Z"
     },
     {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "AI Agent 越用越贵？如何借助可观测性平衡性能、质量与成本 ｜ 技术趋势",
-      "link": "https://www.infoq.cn/article/4FreCLUUQb4W4AXUhXo5?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-10-20T14:55:22.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Ofcom concedes defeat in 4chan case",
-      "link": "https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/",
-      "summary": "Article URL: https://prestonbyrne.com/2026/10/20/ofcom-concedes-defeat/ Comments URL: https://news.ycombinator.com/item?id=50167028 Points: 337 # Comments: 253",
-      "date": "2026-10-20T14:30:31.000Z"
-    },
-    {
       "source": "爱范儿",
       "tag": "tech",
       "title": "从一句话到一个能玩的世界，VAST 把整条链路开源了",
       "link": "https://www.ifanr.com/1685059?utm_source=rss&utm_medium=rss&utm_campaign=",
       "summary": "规则归交互系统，画面归模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "date": "2026-10-20T14:13:34.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "EMudhra Intermediate CA Compromise",
-      "link": "https://emudhra.we-have-a-problem.com/",
-      "summary": "Article URL: https://emudhra.we-have-a-problem.com/ Comments URL: https://news.ycombinator.com/item?id=50166579 Points: 667 # Comments: 340",
-      "date": "2026-10-20T13:58:33.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "Linux 异步多进程基础已稳固，但仍需进一步测试",
-      "link": "https://www.infoq.cn/article/cioICj3URrN6Txq2hNjq?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-10-20T13:47:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "How I got over 300 Tor exit nodes removed",
-      "link": "https://kaba.cx/posts/20261020_Tor/",
-      "summary": "Article URL: https://kaba.cx/posts/20261020_Tor/ Comments URL: https://news.ycombinator.com/item?id=50166257 Points: 326 # Comments: 78",
-      "date": "2026-10-20T13:39:24.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "调查发现：AI 生成代码会提升调试难度与故障发生率，并造成代码理解鸿沟",
-      "link": "https://www.infoq.cn/article/ywvgVDVLsSU7r47Jk6lq?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-10-20T11:00:00.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "RISC-V 加速进入 AI 与高性能计算：玄铁车规 IP、服务器芯片等新进展亮相",
-      "link": "https://www.infoq.cn/article/J1Z3RYgH3Vyd9LFEfmlF?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-10-20T10:51:46.000Z"
     },
     {
       "source": "Solidot",
@@ -354,28 +434,12 @@
       "date": "2026-10-20T10:01:54.000Z"
     },
     {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "失败一次，受益多次：测试 Agent 从记忆到持续学习的工程实践｜QCon上海",
-      "link": "https://www.infoq.cn/article/ZyjObqGawfurPFLBQONd?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-10-20T10:00:00.000Z"
-    },
-    {
       "source": "少数派",
       "tag": "tech",
       "title": "TDS REVIEW｜vivo Buds Clip 耳夹式无线耳机体验",
       "link": "https://sspai.com/post/115475",
       "summary": "在 TWS 5 系列获得我们不错评价之后，Buds Clip 能否延续他们「来得晚但完成度更高」的特点呢？查看全文",
       "date": "2026-10-20T09:30:00.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "Lyft将流式计算集群迁移到Apache Flink Kubernetes Operator",
-      "link": "https://www.infoq.cn/article/pvgeXQQbbt4TsPKeMMEL?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-10-20T09:06:00.000Z"
     },
     {
       "source": "Solidot",
@@ -474,52 +538,12 @@
       "date": "2026-10-20T01:00:07.000Z"
     },
     {
-      "source": "少数派",
-      "tag": "tech",
-      "title": "派早报：MiniMax 发布 M3.1 Flash 模型等",
-      "link": "https://sspai.com/post/116758",
-      "summary": "索尼发布三款高端 Walkman 播放器，掌阅推出 Ocean 6 Pro 电纸书等。查看全文",
-      "date": "2026-10-20T00:39:33.000Z"
-    },
-    {
       "source": "爱范儿",
       "tag": "tech",
       "title": "早报｜苹果定档下周发布新品，触屏MacBook Pro或将亮相/华为苹果拿下中国手机四成份额/杨立昆锐评特斯拉飞车，马斯克：放屁",
       "link": "https://www.ifanr.com/1684957?utm_source=rss&utm_medium=rss&utm_campaign=",
       "summary": "· OpenAI 为 OpenCode 受攻击用户退还被消耗的 API 额度 · 王腾宣布今日宜休将于 10 月 29 日举办首场发布会 · 引望与宁德时代签署换电合作协议，覆盖电池与换电网络 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "date": "2026-10-20T00:07:06.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "大批API账户被刷爆！OpenCode遭黑客围攻48小时，官方甩锅“蒸馏攻击”被质疑",
-      "link": "https://www.infoq.cn/article/K5J7yb60djWKM6vUZqwq?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-10-19T21:48:11.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "Jev迎来中国挑战者：StartLux登顶决策模型榜单，还学会了“拿不准再想”",
-      "link": "https://www.infoq.cn/article/bROfcYFpijQQVBz4NqDi?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-10-19T20:33:34.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "谷歌开源Harness，支持 OpenCode 和 Codex：国内开发者接入Jev实测“真行”",
-      "link": "https://www.infoq.cn/article/AD1M3mJ2SH1dJrTA1r5q?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-10-19T18:22:05.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "Kubernetes多集群项目Karmada完成CNCF毕业",
-      "link": "https://www.infoq.cn/article/4t84hFyjYP6gq9KNWE60?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-10-19T17:23:00.000Z"
     },
     {
       "source": "Solidot",
@@ -586,14 +610,6 @@
       "date": "2026-10-19T09:21:16.000Z"
     },
     {
-      "source": "少数派",
-      "tag": "tech",
-      "title": "与 Tim Cook 走进「蓝盒子」，了解 Mac 如何助力中国企业成长",
-      "link": "https://sspai.com/post/116585",
-      "summary": "离开了北京之后，TimCook上周四来到了位于上海市闵行区的「蓝盒子」办公室，开启了此次访华行程的上海之行。蓝盒子是一家成立于2019年的床垫及家居品牌，旗下产品以简洁并具有辨识度的设计，以及「一百天 ...查看全文",
-      "date": "2026-10-19T08:35:40.000Z"
-    },
-    {
       "source": "Solidot",
       "tag": "tech",
       "title": "歌词随着时间日益减少情感表达",
@@ -608,14 +624,6 @@
       "link": "https://www.ifanr.com/1684608?utm_source=rss&utm_medium=rss&utm_campaign=",
       "summary": "平台与伙伴并肩作战、克服困难，其中辛酸故事不为人知 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "date": "2026-10-19T08:05:24.000Z"
-    },
-    {
-      "source": "少数派",
-      "tag": "tech",
-      "title": "9 月音乐精选：用这 8 张新专辑，激发人生新可能",
-      "link": "https://sspai.com/post/116699",
-      "summary": "编者注：2026年我们将重启少数派音乐推荐栏目FM3.14，特邀资深音乐从业者及爱好者为大家推荐优质的华语独立、流行音乐，今年我们也很荣幸邀请到老朋友飞傲，为本栏目冠名。飞傲目前拥有品牌以音乐发烧友为 ...查看全文",
-      "date": "2026-10-19T08:00:19.000Z"
     },
     {
       "source": "爱范儿",
@@ -648,14 +656,6 @@
       "link": "https://www.ifanr.com/1684840?utm_source=rss&utm_medium=rss&utm_campaign=",
       "summary": "你下班了，Arti 还能继续工作 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "date": "2026-10-19T02:53:15.000Z"
-    },
-    {
-      "source": "少数派",
-      "tag": "tech",
-      "title": "开源掌机的文化线索",
-      "link": "https://sspai.com/post/115125",
-      "summary": "在开源掌机这个特定的产品类型背后，都有哪些故事值得讲？查看全文",
-      "date": "2026-10-19T02:49:51.000Z"
     },
     {
       "source": "爱范儿",
