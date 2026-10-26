@@ -1,6 +1,206 @@
 {
-  "generatedAt": "2026-10-25T02:28:44.714Z",
+  "generatedAt": "2026-10-26T02:28:17.167Z",
   "items": [
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "CircleCI 正式发布 Machine Runner Orchestrator",
+      "link": "https://www.infoq.cn/article/y7YQmP1p42Uj69H1C6uf?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-10-26T09:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "iPhone Duo Teardown",
+      "link": "https://www.ifixit.com/News/119895/iphone-duo-teardown",
+      "summary": "Article URL: https://www.ifixit.com/News/119895/iphone-duo-teardown Comments URL: https://news.ycombinator.com/item?id=50237896 Points: 15 # Comments: 0",
+      "date": "2026-10-26T01:23:24.000Z"
+    },
+    {
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "早报｜iPhone Duo破发/企业微信回应色情引流信息/曝触屏MacBook Pro周四登场",
+      "link": "https://www.ifanr.com/1685755?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "· OpenAI 给 AI 建「离线世界」，隔离模型仍用 CPU 缓存传话 · Reddit 开源社区禁止 AI 项目，连 AI 翻译发帖也被排除 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "date": "2026-10-26T00:16:16.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Attention Is Not What You Need (2025)",
+      "link": "https://arxiv.org/abs/2512.19428",
+      "summary": "Article URL: https://arxiv.org/abs/2512.19428 Comments URL: https://news.ycombinator.com/item?id=50237224 Points: 28 # Comments: 9",
+      "date": "2026-10-25T23:52:05.000Z"
+    },
+    {
+      "source": "少数派",
+      "tag": "tech",
+      "title": "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患",
+      "link": "https://sspai.com/post/117460",
+      "summary": "派早报：iFixit 拆解 iPhone Duo，肯定可维修性但指出内屏隐患 Spotify 将要求家庭组成员定期扫码验证 Arc 浏览器宣布下线 央广总台澄清「国补停止」说法 谷歌建设虚拟电厂，付费激励电网用户省电留给 AI iTunes Store 重受歌手青睐 看看就行的简讯 少数派的近期动态 你可能错过的好文章",
+      "date": "2026-10-25T23:36:36.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "F-Zero X on Nintendo 3DS",
+      "link": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "summary": "Article URL: https://hypnotize.works/gdx-3ds/postmortem/index.html Comments URL: https://news.ycombinator.com/item?id=50237078 Points: 48 # Comments: 29",
+      "date": "2026-10-25T23:27:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Proton Flock Camera Map",
+      "link": "https://proton.me/flock-camera-map",
+      "summary": "Article URL: https://proton.me/flock-camera-map Comments URL: https://news.ycombinator.com/item?id=50236748 Points: 66 # Comments: 8",
+      "date": "2026-10-25T22:39:42.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "link": "https://minimaxir.com/2026/10/cheap-llms/",
+      "summary": "Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 161 # Comments: 189",
+      "date": "2026-10-25T21:11:31.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "The State of Context Engineering",
+      "link": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+      "summary": "Article URL: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html Comments URL: https://news.ycombinator.com/item?id=50235780 Points: 85 # ",
+      "date": "2026-10-25T20:32:31.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "What goes into making an animated film?",
+      "link": "https://www.disneyanimation.com/process/",
+      "summary": "Article URL: https://www.disneyanimation.com/process/ Comments URL: https://news.ycombinator.com/item?id=50235738 Points: 97 # Comments: 35",
+      "date": "2026-10-25T20:27:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Focused Company Operating Principles",
+      "link": "https://focused.io/operating-principles",
+      "summary": "Article URL: https://focused.io/operating-principles Comments URL: https://news.ycombinator.com/item?id=50235639 Points: 21 # Comments: 7",
+      "date": "2026-10-25T20:16:51.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Eunice is almost here",
+      "link": "https://armincat.com/articles/eunice-is-almost-here",
+      "summary": "Article URL: https://armincat.com/articles/eunice-is-almost-here Comments URL: https://news.ycombinator.com/item?id=50235316 Points: 64 # Comments: 58",
+      "date": "2026-10-25T19:40:27.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Why I Am a Programmer",
+      "link": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "summary": "Article URL: https://www.alfie.wtf/programming/why-i-am-a-programmer.html Comments URL: https://news.ycombinator.com/item?id=50235017 Points: 143 # Comments: 52",
+      "date": "2026-10-25T19:11:31.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Where the Romans Fought (interactive map)",
+      "link": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+      "summary": "Article URL: https://iosiflazaridis.github.io/battles-of-the-romans/ Comments URL: https://news.ycombinator.com/item?id=50234879 Points: 53 # Comments: 20",
+      "date": "2026-10-25T18:58:14.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Dolly Parton's Imagination Library",
+      "link": "https://imaginationlibrary.com/",
+      "summary": "With today's news, I thought I'd share this great program: “When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there",
+      "date": "2026-10-25T18:23:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "link": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+      "summary": "Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/ Comments URL: https://news.ycombinator.com/item?id=50234232 P",
+      "date": "2026-10-25T18:04:11.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "link": "https://talkweb.eu/openweb/4558/",
+      "summary": "Article URL: https://talkweb.eu/openweb/4558/ Comments URL: https://news.ycombinator.com/item?id=50233929 Points: 397 # Comments: 200",
+      "date": "2026-10-25T17:30:55.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "link": "https://lynchlab.net/llm-skin-cancer",
+      "summary": "Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 449 # Comments: 214",
+      "date": "2026-10-25T17:15:38.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "UTS #39: Unicode Security Mechanisms",
+      "link": "https://unicode.org/reports/tr39/",
+      "summary": "Article URL: https://unicode.org/reports/tr39/ Comments URL: https://news.ycombinator.com/item?id=50233438 Points: 34 # Comments: 19",
+      "date": "2026-10-25T16:40:37.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "在 Google 砍伐了上千英亩树后野狼来到芬兰的村庄",
+      "link": "https://www.solidot.org/story?sid=85706",
+      "summary": "为建造数据中心，Google 在芬兰农村砍伐了 25 万棵树木，清理了多达 1300 英亩的森林，它甚至还铲除了表层土壤。芬兰监管机构以未完成必要环评为由下令工程暂时停工，Google 芬兰高管已为此道歉。Google 砍伐森林的一个后果是由于猎物减少，狼群进入了附近的村庄寻找食物。 当地居民表示，由于森林里的野生动物",
+      "date": "2026-10-25T16:16:11.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "深水地平线漏油事件 16 年后海洋仍未恢复",
+      "link": "https://www.solidot.org/story?sid=85705",
+      "summary": "2010 年英国石油公司的深水地平线（Deepwater Horizon）深海钻油平台发生井喷并爆炸，引发了史上规模最大的石油泄漏事故。在封堵油井的 87 天内，有约 1.34 亿加仑原油和 77 亿标准立方英尺的天然气泄漏到墨西哥湾。16 年后，墨西哥湾的深海生态系统仍未从灾难中恢复。研究人员在 2011 年，201",
+      "date": "2026-10-25T15:22:33.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "Cloudflare 的 OHTTP 网关拒绝解密通过 Cloudflare 传入的请求",
+      "link": "https://www.infoq.cn/article/4647jBOxmf3Ut0i1aVbx?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-10-25T14:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Active incident at Dreamhost forcing password reset",
+      "link": "https://www.dreamhoststatus.com/",
+      "summary": "Article URL: https://www.dreamhoststatus.com/ Comments URL: https://news.ycombinator.com/item?id=50231166 Points: 125 # Comments: 51",
+      "date": "2026-10-25T13:09:16.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "撸狗有助于抵抗下一次压力",
+      "link": "https://www.solidot.org/story?sid=85703",
+      "summary": "自古以来，人类就从抚摸狗中获得慰藉。大量研究承认养宠物对福祉的益处，但驱动这些益处的机制仍不清楚。在一项研究中，研究人员邀请了 64 名狗主人及其宠物来到实验室，研究抚摸狗是否能帮助人们更好地应对压力，以及身体接触是否是这种对大脑和身体产生影响的关键。研究人员设计了实验，以分离触摸狗如何影响人在压力期间和之后的大脑、心",
+      "date": "2026-10-25T11:07:50.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "四分之一PR是“AI垃圾”！Linux基金会发布新报告：AI写代码快了52%，开源维护者却更累了",
+      "link": "https://www.infoq.cn/article/9TSuUDxrUSGS26XTA2yB?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-10-25T10:30:00.000Z"
+    },
     {
       "source": "AI 前线",
       "tag": "ai",
@@ -10,140 +210,44 @@
       "date": "2026-10-25T09:06:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "FindMyWeb: Apple Find My, reverse enginiered",
-      "link": "https://codeberg.org/Misom/FindMyWeb",
-      "summary": "Article URL: https://codeberg.org/Misom/FindMyWeb Comments URL: https://news.ycombinator.com/item?id=50226646 Points: 16 # Comments: 4",
-      "date": "2026-10-24T23:42:52.000Z"
+      "source": "少数派",
+      "tag": "tech",
+      "title": "60 元打造你的 vibe coding 神器：小米蓝牙遥控器 2 pro",
+      "link": "https://sspai.com/post/114741",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+      "date": "2026-10-25T06:30:31.000Z"
+    },
+    {
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "iPhone Duo 2 提前曝光：FaceID、操作按钮和长焦都要回来了？",
+      "link": "https://www.ifanr.com/1685622?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "还没捂热呢 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "date": "2026-10-25T04:10:44.000Z"
     },
     {
       "source": "Hacker News",
       "tag": "ai",
-      "title": "Why Gopher in 2026?",
-      "link": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
-      "summary": "Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt Comments URL: https://news.ycombinator.com/item?id=50226577 Points: 27 # Comment",
-      "date": "2026-10-24T23:33:19.000Z"
+      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+      "link": "https://huggingface.co/destined/hurston-1",
+      "summary": "Hey HN, I’m open sourcing my Hurston-1 narrowband TTS model (Apache-2.0). It is very good with American English and does especially well with Southern American ",
+      "date": "2026-10-25T01:30:13.000Z"
     },
     {
       "source": "Hacker News",
       "tag": "ai",
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "summary": "Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 179 # Comments",
-      "date": "2026-10-24T23:11:54.000Z"
+      "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
+      "link": "https://adrs.systems",
+      "summary": "Why is this worth your time? Essentially, this solves two problems of AI-assisted programming: (a) the first problem is how to do oversight and what do oversigh",
+      "date": "2026-10-25T00:43:47.000Z"
     },
     {
       "source": "Hacker News",
       "tag": "ai",
       "title": "We should be more ambitious with the software we build",
       "link": "https://danluu.com/ambitious/",
-      "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 188 # Comments: 144",
+      "summary": "Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 748 # Comments: 695",
       "date": "2026-10-24T21:47:31.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Small Programs and Languages",
-      "link": "https://ratfactor.com/cards/pl-small",
-      "summary": "Article URL: https://ratfactor.com/cards/pl-small Comments URL: https://news.ycombinator.com/item?id=50225674 Points: 46 # Comments: 1",
-      "date": "2026-10-24T21:44:23.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "The Importance of Limitations for Creativity and Learning (2023)",
-      "link": "https://ratfactor.com/cards/limitations",
-      "summary": "Article URL: https://ratfactor.com/cards/limitations Comments URL: https://news.ycombinator.com/item?id=50225663 Points: 32 # Comments: 7",
-      "date": "2026-10-24T21:42:47.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Show HN: Steal My Bitcoin",
-      "link": "https://stealmybitcoin.com/",
-      "summary": "Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent the last few days panicking over. Have fun! Comments",
-      "date": "2026-10-24T20:30:31.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "No signs of AI payoff outside the tech sector",
-      "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinat",
-      "date": "2026-10-24T19:47:19.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-      "link": "https://missileer.watch",
-      "summary": "Article URL: https://missileer.watch Comments URL: https://news.ycombinator.com/item?id=50224422 Points: 122 # Comments: 80",
-      "date": "2026-10-24T19:43:27.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "SpeedCrunch 1.1",
-      "link": "https://www.speedcrunch.org/",
-      "summary": "Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 79 # Comments: 10",
-      "date": "2026-10-24T19:19:43.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "The Goose Programming Language",
-      "link": "https://aardappel.github.io/goose/",
-      "summary": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 248 # Comments: 171",
-      "date": "2026-10-24T19:06:55.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Bbtree: Fastest Ordered Map",
-      "link": "https://bbtree.xiangpeng.systems/post/",
-      "summary": "Article URL: https://bbtree.xiangpeng.systems/post/ Comments URL: https://news.ycombinator.com/item?id=50223777 Points: 57 # Comments: 6",
-      "date": "2026-10-24T18:22:14.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-      "link": "https://de.numista.com/9866",
-      "summary": "Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 96 # Comments: 32",
-      "date": "2026-10-24T16:41:55.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Roku developer repositories moved from GitHub to GitLab",
-      "link": "https://blog.roku.com/developer/gitlab-move",
-      "summary": "Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 268 # Comments: 179",
-      "date": "2026-10-24T16:06:26.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Neural chip decodes interactions between brain regions",
-      "link": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-      "summary": "Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 9",
-      "date": "2026-10-24T15:57:17.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-      "link": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
-      "summary": "Article URL: https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/ Comments URL: https://news.ycombina",
-      "date": "2026-10-24T15:35:17.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "FreeDNS",
-      "link": "https://freedns.afraid.org/",
-      "summary": "Article URL: https://freedns.afraid.org/ Comments URL: https://news.ycombinator.com/item?id=50222133 Points: 256 # Comments: 65",
-      "date": "2026-10-24T15:20:01.000Z"
     },
     {
       "source": "爱范儿",
@@ -218,36 +322,12 @@
       "date": "2026-10-24T10:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-      "link": "https://github.com/Zagitta/gpu-unlock",
-      "summary": "Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 194 # Comments: 61",
-      "date": "2026-10-24T09:58:27.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "I don't understand quantum physics (2018)",
-      "link": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
-      "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 288 # Comments: ",
-      "date": "2026-10-24T09:53:26.000Z"
-    },
-    {
       "source": "少数派",
       "tag": "tech",
       "title": "在硅谷，遇见个人计算机历史",
       "link": "https://sspai.com/post/116128",
       "summary": "从硅谷计算机历史博物馆出发，让书里的故事变得更加具体。查看全文",
       "date": "2026-10-24T08:26:02.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
-      "link": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
-      "summary": "Article URL: https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497 Comments URL: https://news.ycombinator.com/item?id=5021917",
-      "date": "2026-10-24T08:06:39.000Z"
     },
     {
       "source": "爱范儿",
@@ -394,14 +474,6 @@
       "date": "2026-10-23T11:39:27.000Z"
     },
     {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "Foresight AI 正式可用，Gremlin 将智能体引入可靠性工程",
-      "link": "https://www.infoq.cn/article/2bKQkdiAcGEycHJLYPv5?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-10-23T11:15:00.000Z"
-    },
-    {
       "source": "Solidot",
       "tag": "tech",
       "title": "希腊通过法案禁止 15 岁以下儿童使用社媒",
@@ -442,28 +514,12 @@
       "date": "2026-10-23T09:32:18.000Z"
     },
     {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "上下文语言模型：通过自主管理上下文提升性能、降低计算成本",
-      "link": "https://www.infoq.cn/article/Pwu4FNskSB2cbKV9BZKq?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-10-23T09:05:00.000Z"
-    },
-    {
       "source": "Solidot",
       "tag": "tech",
       "title": "mRNA 癌症疫苗将死亡复发风险减少 42%",
       "link": "https://www.solidot.org/story?sid=85693",
       "summary": "制药公司 Merck 和 Moderna 宣布，在 III 期黑色素瘤临床试验中，基于 mRNA 技术的个性化癌症疫苗相比标准治疗，将死亡或复发风险减少 42%。黑色素瘤是最致命的皮肤癌。两家公司正与监管机构接洽争取该疫苗早日获批。有 1,137 名患者参加了 III 期临床试验，他们此前均患有 IIB-IV 期黑色素",
       "date": "2026-10-23T08:48:00.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "DeepSeek千亿融资逼近收官：结盟完美世界、中芯聚源等产业资本，募资翻倍押注具身智能",
-      "link": "https://www.infoq.cn/article/ViOyxiOSP2ihxuUyg1rD?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-10-23T08:46:30.000Z"
     },
     {
       "source": "Solidot",
@@ -528,30 +584,6 @@
       "link": "https://www.solidot.org/story?sid=85686",
       "summary": "根据 ABC News/Washington Post/Ipsos 的调查，57%的美国人认为 AI 对社会有害，42%的人认为它对社会有益。仅有 2% 的人认为它对社会极其有益，17% 的人认为它对社会极其有害。与年长者相比，年轻的美国人更有可能认为 AI 对社会有害：在 30 岁以下的美国人中，65% 的人持此观点",
       "date": "2026-10-23T03:28:59.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "研究识别出第一位企业心理病态者",
-      "link": "https://www.solidot.org/story?sid=85685",
-      "summary": "一项新研究指出，有毒企业领导人身上所见的性格特征可追溯到一位 400 年前的荷兰东印度公司的企业官员。该公司的商户部经理 Jeronimus Cornelisz 可能是最早有文献记录的企业心理病态者。研究发现，他表现出了与企业心理病态者相关的全部 10 项核心特征。这些特征包括：利用个人魅力博取信任；在身边聚集忠诚的追",
-      "date": "2026-10-23T03:26:49.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "毅力号行使距离超机遇号刷新历史记录",
-      "link": "https://www.solidot.org/story?sid=85684",
-      "summary": "毅力号火星车创下新的世界纪录——它在地外天体表面的行驶里程，超过了此前所有探测器。10月11日，它的里程表读数达到28.10英里（45.22公里），超越了此前由机遇号保持的28.06英里（45.16公里）纪录。机遇号于2004至2018年间在火星开展探测。机遇号耗费近15年才跑完该里程，而毅力号仅用时5年半。这一里程碑",
-      "date": "2026-10-23T03:25:21.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "因加州考虑征收亿万富翁税扎克伯格有意离开",
-      "link": "https://www.solidot.org/story?sid=85683",
-      "summary": "Meta 周三警告，如果加州通过亿万富翁税，公司 CEO 扎克伯格（Mark Zuckerberg）可能会离开加州迁往他处。扎克伯格已向公司特别委员会告知了这一可能性。据 Meta 在监管文件中披露的计划，为了让扎克伯格未来八年继续留在加州领导公司，公司将设立一类新股票，允许他出售在 Meta 中最多一半的经济权益，同",
-      "date": "2026-10-23T03:23:55.000Z"
     },
     {
       "source": "少数派",
@@ -642,14 +674,6 @@
       "date": "2026-10-22T00:45:50.000Z"
     },
     {
-      "source": "少数派",
-      "tag": "tech",
-      "title": "派早报：荣耀发布 WIN2 系列新品、Google 开源 TorchTPU 等",
-      "link": "https://sspai.com/post/116953",
-      "summary": "OpenBSD 8.0 正式发布、腾讯宣布元宝搜索对外开放等。查看全文",
-      "date": "2026-10-22T00:29:05.000Z"
-    },
-    {
       "source": "爱范儿",
       "tag": "tech",
       "title": "早报｜iPhone Duo限购两台/雷军：汽车没有安全其他都是0/宝马员工争相离职挤崩系统",
@@ -682,14 +706,6 @@
       "date": "2026-10-21T12:08:10.000Z"
     },
     {
-      "source": "少数派",
-      "tag": "tech",
-      "title": "社区速递 162 | MUJI 靠垫、中兴路由器与派友们的长假吃灰装备",
-      "link": "https://sspai.com/post/116820",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
-      "date": "2026-10-21T09:00:00.000Z"
-    },
-    {
       "source": "爱范儿",
       "tag": "tech",
       "title": "小米神秘新车曝光！SU9 LUX 进军行政轿车市场，还会有一台 SU7 LUX？",
@@ -712,22 +728,6 @@
       "link": "https://www.ifanr.com/1685107?utm_source=rss&utm_medium=rss&utm_campaign=",
       "summary": "奇瑞想做一家创新技术企业。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
       "date": "2026-10-21T01:31:11.000Z"
-    },
-    {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "早报｜小天才回应封闭社交争议/车灯新规拟禁止显示文字/马斯克回应SpaceX与特斯拉合并",
-      "link": "https://www.ifanr.com/1685079?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "summary": "· 车灯国标征求意见：拟限 L3 及以上车辆安装 ADS 标志灯 · Anthropic 上半年亏损超 800 亿美元，大部分来自融资工具会计计提 · 9 月 BBA 主力车型无一零售破万 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-10-21T00:21:51.000Z"
-    },
-    {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "从一句话到一个能玩的世界，VAST 把整条链路开源了",
-      "link": "https://www.ifanr.com/1685059?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "summary": "规则归交互系统，画面归模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-10-20T14:13:34.000Z"
     },
     {
       "source": "阮一峰的网络日志",
