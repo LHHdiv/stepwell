@@ -1,6 +1,214 @@
 {
-  "generatedAt": "2026-11-14T04:14:15.966Z",
+  "generatedAt": "2026-11-15T03:59:00.095Z",
   "items": [
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "闭环 AI 自我进化：从 Skill、Harness 到模型训练与评估｜AICon北京",
+      "link": "https://www.infoq.cn/article/fZSEkDatL9xajG8PVi7G?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-11-15T10:00:00.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "GitLab 19.5 发布，将智能体开发纳入可治理的 DevOps 平台能力",
+      "link": "https://www.infoq.cn/article/0IpE2EOypcqMFtL7z4z1?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-11-15T09:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt",
+      "link": "https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c",
+      "summary": "Article URL: https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c Comments URL: https://news.y",
+      "date": "2026-11-15T03:05:54.000Z"
+    },
+    {
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "刚刚，马斯克再创历史，人类首次用「筷子」夹住星舰飞船",
+      "link": "https://www.ifanr.com/1689501?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "再创历史 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "date": "2026-11-15T02:47:36.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+      "link": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches Comments URL: https://news.ycombinator.com/item?id=50",
+      "date": "2026-11-15T02:00:54.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Show HN: A custom font based on the Jamaican flag alphabet",
+      "link": "https://bobbiec.github.io/jamaican-font.html",
+      "summary": "Article URL: https://bobbiec.github.io/jamaican-font.html Comments URL: https://news.ycombinator.com/item?id=50502839 Points: 10 # Comments: 3",
+      "date": "2026-11-15T00:56:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "summary": "Article URL: https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html Comments URL: https://news.ycombinator.com/item",
+      "date": "2026-11-14T22:26:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "link": "https://retrocomputing.stackexchange.com/questions/17957",
+      "summary": "Article URL: https://retrocomputing.stackexchange.com/questions/17957 Comments URL: https://news.ycombinator.com/item?id=50501594 Points: 134 # Comments: 51",
+      "date": "2026-11-14T22:22:49.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "link": "https://www.spacex.com/launches/starship-flight-15",
+      "summary": "https://x.com/SpaceX/status/2121316300702056595 https://youtu.be/jHlpfNSpBmw?t=3233 Comments URL: https://news.ycombinator.com/item?id=50500963 Points: 866 # Co",
+      "date": "2026-11-14T21:22:24.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
+      "link": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
+      "summary": "Article URL: https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379 Comments URL: https://news",
+      "date": "2026-11-14T18:56:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "A family tree of software job titles",
+      "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "summary": "Article URL: https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/ Comments URL: https://news.ycombinator.com/item?id=50499038 Points: 237 #",
+      "date": "2026-11-14T17:45:19.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "link": "https://www.crissyfield.de/research/lovable-en/",
+      "summary": "Article URL: https://www.crissyfield.de/research/lovable-en/ Comments URL: https://news.ycombinator.com/item?id=50499017 Points: 696 # Comments: 285",
+      "date": "2026-11-14T17:43:10.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "美国失去麻疹消除地位",
+      "link": "https://www.solidot.org/story?sid=85889",
+      "summary": "受益于疫苗接种，美国自 2000 年起被认定“消灭”了麻疹。但最近几年疫苗接种率持续下降，麻疹卷土重来在美国多地再次流行。如果由同一毒株引起的感染在同一国家内持续发生人际传播，且时间至少达到一年，那么该感染即被视为“地方性流行”，即失去消除地位。犹他州的研究人员今年 8 月报告，麻疹同一毒株引起的感染在该州持续传播超过",
+      "date": "2026-11-14T16:52:55.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "link": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "summary": "Article URL: https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/ Comments URL: https://news.ycombinator.com/item?id=50497892 Points: 218 # Comments: 95",
+      "date": "2026-11-14T15:40:52.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
+      "link": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
+      "summary": "Article URL: https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax Comments URL: https://news.ycombinator.com/item?id=50497589 Points: 197 # Comments: 11",
+      "date": "2026-11-14T15:04:15.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "GitHub Actions 锁文件功能正式可用，保障工作流依赖安全",
+      "link": "https://www.infoq.cn/article/XrW1cdg9NFRkemvqLiZc?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-11-14T15:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Demystifying phone unlocking tools: A technical overview",
+      "link": "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/",
+      "summary": "Article URL: https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/ Comments URL: https://news.ycombinator.com/it",
+      "date": "2026-11-14T14:44:28.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "天问四号将尝试登陆木卫四",
+      "link": "https://www.solidot.org/story?sid=85887",
+      "summary": "11 月 13 日，探月与航天工程中心发布通知，天问四号有效载荷研制方案开展征集。天问四号任务将执行环绕木星、环绕木卫四、着陆木卫四三大任务。木卫四或 Callisto 是太阳系第三大卫星，也是木星第二大卫星，仅次于木卫三。木卫四的直径为水星直径的 99%，但是质量只有它的三分之一。木卫四由近乎等量的岩石和水所构成，其",
+      "date": "2026-11-14T14:12:32.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "link": "https://gitlab.com/snipedbywifi/terminactory",
+      "summary": "Hey HN readers! I'm snipedbywifi (https://gitlab.com/snipedbywifi), and i've been working on terminactory. Please try it out if you'd like to play a cozy factor",
+      "date": "2026-11-14T14:05:54.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "微软云服务宕机持续逾 24 小时",
+      "link": "https://www.solidot.org/story?sid=85886",
+      "summary": "微软周六表示，影响各国企业和政府所用 Microsoft 365 应用的全球服务中断已经结束，这次中断持续了超过 24 小时。微软在 X 上发文说：“我们已完成解决这一事件根本问题的工作，并为其余受影响的客户和地区恢复了服务。”Teams、Outlook 和 Copilot 等微软应用都受到了这次服务中断的影响，导致数",
+      "date": "2026-11-14T13:55:50.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "KDE: The documentary [video]",
+      "link": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "summary": "Article URL: https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c Comments URL: https://news.ycombinator.com/item?id=50496976 Points: 407 # Comments: 87",
+      "date": "2026-11-14T13:43:28.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "A visual explanation of reinforcement learning",
+      "link": "https://aatishb.com/myriad/how-brains-learn/",
+      "summary": "Article URL: https://aatishb.com/myriad/how-brains-learn/ Comments URL: https://news.ycombinator.com/item?id=50496885 Points: 132 # Comments: 6",
+      "date": "2026-11-14T13:31:06.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "美国历史上第三次航班大停飞",
+      "link": "https://www.solidot.org/story?sid=85884",
+      "summary": "美国 FAA 本周五宣布了其历史上第三次全国航班停飞，持续 4.5 小时后解除。此举导致近 1 万架次航班被取消。FAA 历史上第一次全国航班停飞是 2001 年的 911 事件，第二次是 2023 年 1 月 11 日，持续不到 2 小时。对于最新的事件，美国交通部长 Sean Duffy 给出的理由是空管系统依赖的",
+      "date": "2026-11-14T13:24:23.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Advancing science and engineering with Antigravity's /teamwork",
+      "link": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+      "summary": "Article URL: https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/ Comments URL: https://news.ycombinator.com/item?id=5",
+      "date": "2026-11-14T13:20:43.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Tech companies are trying to shift the concept of privacy again",
+      "link": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+      "summary": "Article URL: https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again Comments URL: https://news.ycombinator.com/item?",
+      "date": "2026-11-14T12:45:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Project Zero will disclose vulnerabilities 90 days after reporting",
+      "link": "https://projectzero.google/2026/11/disclosure-policy.html",
+      "summary": "Article URL: https://projectzero.google/2026/11/disclosure-policy.html Comments URL: https://news.ycombinator.com/item?id=50496051 Points: 196 # Comments: 53",
+      "date": "2026-11-14T11:13:17.000Z"
+    },
     {
       "source": "AI 前线",
       "tag": "ai",
@@ -18,140 +226,20 @@
       "date": "2026-11-14T10:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
-      "link": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "summary": "Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinat",
-      "date": "2026-11-14T02:52:59.000Z"
+      "source": "少数派",
+      "tag": "tech",
+      "title": "怀旧手记｜索尼 CLIE：千禧年的高端 Palm OS PDA",
+      "link": "https://sspai.com/post/118276",
+      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
+      "date": "2026-11-14T07:40:21.000Z"
     },
     {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Ggml v1.0.0",
-      "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
-      "summary": "Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 57 # Comments: 2",
-      "date": "2026-11-14T02:28:29.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
-      "summary": "Article URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html Comments URL: https://news.ycombinator.com/item?id=",
-      "date": "2026-11-14T02:21:36.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Elephants found to be increasingly isolated leading to fractured social networks",
-      "link": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
-      "summary": "Article URL: https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks Comments URL: https://news.ycombinato",
-      "date": "2026-11-14T02:02:42.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
-      "link": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
-      "summary": "Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026 Comments URL: https://news.ycombinator.com/item?id=504923",
-      "date": "2026-11-14T00:52:29.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
-      "link": "https://claude.com/resources/articles/projects-redesigned",
-      "summary": "Article URL: https://claude.com/resources/articles/projects-redesigned Comments URL: https://news.ycombinator.com/item?id=50492141 Points: 65 # Comments: 49",
-      "date": "2026-11-14T00:28:11.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Philip Roth and David Remnick Getting Personal",
-      "link": "https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick",
-      "summary": "Article URL: https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick Comments URL: https://news.ycombinator.com/item?id=50492098 Points: 6 # Com",
-      "date": "2026-11-14T00:21:26.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-      "link": "https://unsloth.ai/docs/models/qwen3.8",
-      "summary": "Article URL: https://unsloth.ai/docs/models/qwen3.8 Comments URL: https://news.ycombinator.com/item?id=50491980 Points: 33 # Comments: 4",
-      "date": "2026-11-14T00:06:04.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "What Happened to 3Com?",
-      "link": "https://dfarq.homeip.net/what-happened-to-3com/",
-      "summary": "Article URL: https://dfarq.homeip.net/what-happened-to-3com/ Comments URL: https://news.ycombinator.com/item?id=50491830 Points: 78 # Comments: 44",
-      "date": "2026-11-13T23:48:59.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
-      "link": "https://grounds.top/",
-      "summary": "Article URL: https://grounds.top/ Comments URL: https://news.ycombinator.com/item?id=50491545 Points: 66 # Comments: 10",
-      "date": "2026-11-13T23:17:39.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Terminal borders that don't cost a cell",
-      "link": "https://www.joshka.net/cell-borders/",
-      "summary": "Article URL: https://www.joshka.net/cell-borders/ Comments URL: https://news.ycombinator.com/item?id=50491423 Points: 135 # Comments: 62",
-      "date": "2026-11-13T23:06:40.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "How Not to Build a Music Player",
-      "link": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
-      "summary": "Article URL: https://alichraghi.github.io/blog/how-not-to-build-a-music-player/ Comments URL: https://news.ycombinator.com/item?id=50491400 Points: 47 # Comment",
-      "date": "2026-11-13T23:04:30.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Lying to Zed to get its remote server running on FreeBSD",
-      "link": "https://hayzam.com/blog/03-lying-to-zeds-remote-editor/",
-      "summary": "Article URL: https://hayzam.com/blog/03-lying-to-zeds-remote-editor/ Comments URL: https://news.ycombinator.com/item?id=50491295 Points: 21 # Comments: 4",
-      "date": "2026-11-13T22:54:47.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-      "link": "https://orcasairband.com/",
-      "summary": "Article URL: https://orcasairband.com/ Comments URL: https://news.ycombinator.com/item?id=50490593 Points: 232 # Comments: 54",
-      "date": "2026-11-13T22:04:24.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "All US airports are currently ground stopped",
-      "link": "https://twitter.com/flightradar24/status/2121347654714077605",
-      "summary": "Article URL: https://twitter.com/flightradar24/status/2121347654714077605 Comments URL: https://news.ycombinator.com/item?id=50489652 Points: 177 # Comments: 33",
-      "date": "2026-11-13T21:06:52.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "FAA issues national ground stop – lifted 4.5 hours later",
-      "link": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-      "summary": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&amp;a... https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&amp;a... https://www.nytimes.com/",
-      "date": "2026-11-13T21:05:53.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-      "link": "https://atg.science/careers",
-      "summary": "Article URL: https://atg.science/careers Comments URL: https://news.ycombinator.com/item?id=50489589 Points: 0 # Comments: 0",
-      "date": "2026-11-13T21:01:11.000Z"
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "早报｜英伟达员工请愿黄仁勋回归/余承东重申华为与赛力斯分工/Microsoft 365故障延续至48小时",
+      "link": "https://www.ifanr.com/1689450?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "summary": "· 两部门公布新型储能方案，提出到 2030 年平均储能约 3 小时 · LangChain 完成 3 亿美元 C 轮融资，估值 30 亿美元 · 荣耀 700 系列定档 11 月 23 日，背屏可贴 GIF、看通知 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "date": "2026-11-14T00:00:42.000Z"
     },
     {
       "source": "AI 前线",
@@ -160,30 +248,6 @@
       "link": "https://www.infoq.cn/video/FwbOyyfoAmkQPMTItMDN?utm_source=rss&utm_medium=article",
       "summary": "点击查看原文>",
       "date": "2026-11-13T20:54:12.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Live-migration support in FreeBSD and bhyve coming",
-      "link": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
-      "summary": "Article URL: https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/ Comments URL: https://news.ycombinator.com/item?id=50488835 Points: 77 # Comment",
-      "date": "2026-11-13T19:58:42.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Found: A protein that drives ageing without unleashing inflammation",
-      "link": "https://www.nature.com/articles/d41586-026-03638-3",
-      "summary": "Article URL: https://www.nature.com/articles/d41586-026-03638-3 Comments URL: https://news.ycombinator.com/item?id=50488470 Points: 148 # Comments: 23",
-      "date": "2026-11-13T19:25:21.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-      "link": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-      "summary": "Article URL: https://www.perplexity.ai/hub/blog/perplexity-decider Comments URL: https://news.ycombinator.com/item?id=50488464 Points: 107 # Comments: 21",
-      "date": "2026-11-13T19:24:47.000Z"
     },
     {
       "source": "AI 前线",
@@ -250,12 +314,28 @@
       "date": "2026-11-13T14:21:31.000Z"
     },
     {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "500 Lines or Less A 3D Modeller",
+      "link": "https://aosabook.org/en/500L/a-3d-modeller.html",
+      "summary": "Article URL: https://aosabook.org/en/500L/a-3d-modeller.html Comments URL: https://news.ycombinator.com/item?id=50483431 Points: 21 # Comments: 1",
+      "date": "2026-11-13T13:47:42.000Z"
+    },
+    {
       "source": "AI 前线",
       "tag": "ai",
       "title": "应用只是冰山一角：构建大规模移动应用基础设施需要什么",
       "link": "https://www.infoq.cn/article/oKGTGPNZuleM61QqQOVf?utm_source=rss&utm_medium=article",
       "summary": "点击查看原文>",
       "date": "2026-11-13T13:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "The Evolving Story of How Chemistry Became Biology",
+      "link": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+      "summary": "Article URL: https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/ Comments URL: https://news.ycombinator.com/item?id=5048",
+      "date": "2026-11-13T11:55:19.000Z"
     },
     {
       "source": "AI 前线",
@@ -546,30 +626,6 @@
       "date": "2026-11-12T10:45:05.000Z"
     },
     {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "InfoQ 2026 年趋势报告：AI、ML与数据工程",
-      "link": "https://www.infoq.cn/article/7Pecd1CshYIMvCTeBhrm?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-11-12T10:23:32.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "让系统接管底层算法：HarmonyOS 7 FAST Kit 的性能与接入实践",
-      "link": "https://www.infoq.cn/article/kIw9Wp2uSgCwrsgicIZ0?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-11-12T10:21:00.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "从“搜到知识”到“理解约束”：差旅 Agent 的业务语义、偏好图谱与上下文工程实践｜AICon北京",
-      "link": "https://www.infoq.cn/article/V5Fwpg9gOBefx6xADcdd?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-11-12T10:00:00.000Z"
-    },
-    {
       "source": "Solidot",
       "tag": "tech",
       "title": "M87 星系黑洞存在甜甜圈结构",
@@ -584,38 +640,6 @@
       "link": "https://sspai.com/post/118366",
       "summary": "在炎热但逐渐清爽的夏末，我和女朋友去了一趟日本。我尝试用眼用心记录下所见所感，转写成文字。当我重新阅读这些词句，闭上眼睛，仿佛又回到了关西。我希望能把这份心情与光景，也分享给你。4:3/3:4比例的图 ...查看全文",
       "date": "2026-11-12T08:37:25.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "《Python 之禅》作者 Tim Peters 去世",
-      "link": "https://www.solidot.org/story?sid=85867",
-      "summary": "Python 语言作者 Guido van Rossum 发表文章悼念了 2026 年 7 月 15 日去世的 Tim Peters（享年 74 岁）。他写道：Tim Peters 最为人熟知的贡献是撰写了《Python 之禅》，“但对我而言他是我的良师益友，也是这门语言的共同设计者之一。”Tim Peters 很早就",
-      "date": "2026-11-12T08:30:55.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "电视厂商回应有关监视的提问",
-      "link": "https://www.solidot.org/story?sid=85866",
-      "summary": "在 LG 电视监视用户的报道引发广泛关注之后，The Verge 联系了亚马逊、苹果、Google、海信、LG、松下、Roku、三星、索尼、TCL 和 Vizio 等机顶盒和电视厂商，询问了相同的问题，其中海信、松下等无任何回应，TCL 等厂商很多问题也没有直接回应，而 LG 即便被发现监视用户但其代表在回应时基本上完",
-      "date": "2026-11-12T07:39:21.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "腾讯计划将半数员工部署到 AI 原生业务",
-      "link": "https://www.solidot.org/story?sid=85865",
-      "summary": "腾讯创始人马化腾称，他愿意将半数员工投入到 AI 原生业务，并敦促公司逾 10 万名员工拥抱这项定义时代的技术。 马化腾本周在年度演讲中告诉员工，行业已进入“大航海时代”，他将腾讯的核心业务比作陆军，将新的 AI 业务比作海军。马化腾称，50% 的人要像陆军一样，守土有责，通过提效去做好现有的核心业务；另外 50% 的",
-      "date": "2026-11-12T06:49:27.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "罗技给所有员工放假一天玩 GTA 6",
-      "link": "https://www.solidot.org/story?sid=85864",
-      "summary": "游戏外设制造商罗技推出了罗技游戏日（Logi Game Day），为公司全部 7000 名员工提供了额外的一天带薪假期，让他们能在 11 月 19 日《GTA 6》发布时尽情畅玩。员工和实习生可在未来一年内的任意时间使用这一假期。罗技认为应当摒弃玩游戏是浪费时间的旧观念。作为一家生产游戏外设的企业，罗技持有这种观点并不",
-      "date": "2026-11-12T06:42:30.000Z"
     },
     {
       "source": "少数派",
@@ -698,36 +722,12 @@
       "date": "2026-11-11T11:52:16.000Z"
     },
     {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "4.99 万元起，长安糯玉米 PLUS 变成四门「大玉米」，小车最后还是要「大大大」",
-      "link": "https://www.ifanr.com/1688966?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "summary": "微型小车正在集体变大。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-11-11T09:47:34.000Z"
-    },
-    {
       "source": "少数派",
       "tag": "tech",
       "title": "城市漫步指南 | 安特卫普，时尚就在生活中",
       "link": "https://sspai.com/post/118781",
       "summary": "原本今年夏天的旅行是要在佛罗伦萨结束的，但突发状况导致我不用上班了，就顺势使用了我的国际机票退改券，增加了一段安特卫普的行程。打卡安特卫普的理由跟意大利一样奇怪——因为这个地方举办过好几届体操世锦赛（ ...查看全文",
       "date": "2026-11-11T09:30:00.000Z"
-    },
-    {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "10 亿 Token 开源万只假鸟， AI 伪科普正在「污染」下一代的常识",
-      "link": "https://www.ifanr.com/1688897?utm_source=rss&utm_medium=rss&utm_campaign=",
-      "summary": "人不能、至少不应该把严谨的自然科学当成 AI 技能大赛现场 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-11-11T07:03:17.000Z"
-    },
-    {
-      "source": "少数派",
-      "tag": "tech",
-      "title": "从优胜美地到金门大桥：跟着 macOS 游览加州",
-      "link": "https://sspai.com/post/118175",
-      "summary": "陪伴 Mac 用户十余年的加州风景，走出屏幕后究竟是什么模样？查看全文",
-      "date": "2026-11-11T06:50:39.000Z"
     },
     {
       "source": "阮一峰的网络日志",
