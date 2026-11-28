@@ -1,6 +1,310 @@
 {
-  "generatedAt": "2026-11-27T05:58:07.829Z",
+  "generatedAt": "2026-11-28T05:39:41.245Z",
   "items": [
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "技术没有按时改变世界，但有些事正在发生｜与 Werner 聊 2027 技术趋势的一小时",
+      "link": "https://www.infoq.cn/article/FBXHYmfe2kQm7gTAu4yK?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-11-28T12:07:43.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "十年：谷歌更新 SRE 著作，拥抱 AI 时代",
+      "link": "https://www.infoq.cn/article/vD2gdB9ER7QgjD0W5wds?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-11-28T11:00:00.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "华映资本董事总经理李岩已确认出席 AICon北京，分享AI 落地中值得持续积累的能力",
+      "link": "https://www.infoq.cn/article/SfAOlgtjHYikEQUKrRVT?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-11-28T10:00:00.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "Netflix将GPU可靠性视为分布式系统的问题",
+      "link": "https://www.infoq.cn/article/PdhfyXFhNVWNK5055l2H?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-11-28T10:00:00.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "谷歌发布新一代 TPU，开发者：真正重要的不是芯片",
+      "link": "https://www.infoq.cn/article/MrxlyksI1KxvEKLuCg5P?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-11-28T08:00:00.000Z"
+    },
+    {
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "德系最大 SUV 来了！奥迪 Q9 国内首秀，车长超 5 米 3，还有一台大 V6丨广州车展",
+      "link": "https://www.ifanr.com/1696001?utm_source=rss&utm_medium=rss&utm_campaign",
+      "summary": "奥迪也拥有了他们的「大 9 系」。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "date": "2026-11-28T05:01:54.000Z"
+    },
+    {
+      "source": "少数派",
+      "tag": "tech",
+      "title": "「黑五」值得买：不容错过的数码硬件优惠",
+      "link": "https://sspai.com/post/119651",
+      "summary": "除了软件服务，这个黑五还有这些硬件值得一看。查看全文",
+      "date": "2026-11-28T03:30:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "link": "https://unkernel.dev",
+      "summary": "Article URL: https://unkernel.dev Comments URL: https://news.ycombinator.com/item?id=50674218 Points: 69 # Comments: 6",
+      "date": "2026-11-28T03:19:20.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Atari Homebrew Awards Cancelled",
+      "link": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+      "summary": "Article URL: https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/ Comments URL: https://news.ycombinator.com/item?id=50673688 Points: 142 #",
+      "date": "2026-11-28T02:03:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Woman evicted after landlord's AI assistant told her she could delay rent",
+      "link": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "summary": "Article URL: https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai Comments URL: https://news.ycombinator.com/item?id=50673521 Points: 128 # Comment",
+      "date": "2026-11-28T01:32:56.000Z"
+    },
+    {
+      "source": "少数派",
+      "tag": "tech",
+      "title": "本月玩什么｜GTA VI、塞尔达传说 时之笛、魔兽世界：无限",
+      "link": "https://sspai.com/post/119686",
+      "summary": "以上便是部分近期值得探讨的新游信息汇总，个人角度仅供参考。本期不设特定有奖互动话题，欢迎你在评论区分享11月新作游玩体验，可以是本文出现的，也可以是本文未提及、但你特别想推荐给派友的。我们下期再见！> ...查看全文",
+      "date": "2026-11-28T00:47:47.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "link": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "summary": "Article URL: https://research.google/blog/supercharging-transformer-residual-connections/ Comments URL: https://news.ycombinator.com/item?id=50672565 Points: 25",
+      "date": "2026-11-27T23:06:29.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Tabernetes: A Kubernetes cluster whose nodes are browser tabs",
+      "link": "https://tabernet.es/",
+      "summary": "Article URL: https://tabernet.es/ Comments URL: https://news.ycombinator.com/item?id=50672521 Points: 67 # Comments: 29",
+      "date": "2026-11-27T23:00:30.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Source Control from Hell",
+      "link": "https://frantic.im/git/",
+      "summary": "Article URL: https://frantic.im/git/ Comments URL: https://news.ycombinator.com/item?id=50672142 Points: 79 # Comments: 59",
+      "date": "2026-11-27T22:06:44.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "9/UX: a Macintosh-inspired desktop for 9front",
+      "link": "https://progrium.github.io/9ux/",
+      "summary": "Article URL: https://progrium.github.io/9ux/ Comments URL: https://news.ycombinator.com/item?id=50672008 Points: 96 # Comments: 24",
+      "date": "2026-11-27T21:48:14.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+      "link": "https://sessiongraph.ai/",
+      "summary": "Article URL: https://sessiongraph.ai/ Comments URL: https://news.ycombinator.com/item?id=50671651 Points: 41 # Comments: 21",
+      "date": "2026-11-27T21:07:34.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Prospero: Bloat-free, native AI coding harness with ImGui",
+      "link": "https://github.com/skeeto/prospero",
+      "summary": "Article URL: https://github.com/skeeto/prospero Comments URL: https://news.ycombinator.com/item?id=50671275 Points: 51 # Comments: 11",
+      "date": "2026-11-27T20:23:14.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "股价破发、用户抱怨、创始人套现，Anthropic CEO 深夜回应：我从没想过让 AI 统治人类",
+      "link": "https://www.infoq.cn/article/FDR8k5bNu9eWklHh9NmI?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-11-27T19:56:26.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "link": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "summary": "Article URL: https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-",
+      "date": "2026-11-27T19:42:25.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "The AT&T Unix PC (3B1) VM",
+      "link": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
+      "summary": "Article URL: https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/ Comments URL: https://news.ycombinator.com/item?id=50670841 ",
+      "date": "2026-11-27T19:40:33.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Michael Nielsen took down his book on neural nets",
+      "link": "https://neuralnetworksanddeeplearning.com/",
+      "summary": "Article URL: https://neuralnetworksanddeeplearning.com/ Comments URL: https://news.ycombinator.com/item?id=50670757 Points: 457 # Comments: 286",
+      "date": "2026-11-27T19:31:01.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "“观测未来大会”前瞻 | AI 时代，可观测性将迎来怎样的进化？",
+      "link": "https://www.infoq.cn/article/deKZOTSuqBy0T3VYMpTE?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-11-27T18:53:18.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "link": "https://github.com/convex/convex-backend-skill/issues/64",
+      "summary": "Article URL: https://github.com/convex/convex-backend-skill/issues/64 Comments URL: https://news.ycombinator.com/item?id=50669765 Points: 260 # Comments: 87",
+      "date": "2026-11-27T18:02:45.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Show HN: DragDropMath – Learn math by feel",
+      "link": "https://dragdropmath.com/",
+      "summary": "Hi HN! I am a professional physicist and I shuffle symbols in equations and mathematical expressions all day long. During my PhD (almost 20 years ago) I noticed",
+      "date": "2026-11-27T17:56:28.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "如何让Agent 记得住、查得准、改得对？",
+      "link": "https://www.infoq.cn/article/DUG6LEgK9Vi4sGy6QYTW?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-11-27T17:25:02.000Z"
+    },
+    {
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "24.99 万元起！宝马新世代 i3 正式上市，纯电续航高达 1028km丨广州车展",
+      "link": "https://www.ifanr.com/1695987?utm_source=rss&utm_medium=rss&utm_campaign",
+      "summary": "新世代的宝马，依旧是「驾驶者之车」。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "date": "2026-11-27T16:41:37.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "瞄准“走偏”与“健忘”两道难题：蚂蚁灵波发布两大模型，补齐机器人空间导航能力",
+      "link": "https://www.infoq.cn/article/zRubhYcrBMTrOvzjlPQN?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-11-27T16:15:06.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "Kimi 向科学家提供最高 2 万美元 API 免费额度",
+      "link": "https://www.solidot.org/story?sid=86015",
+      "summary": "Kimi 大模型开发商月之暗面宣布了 Kimi for Science 项目，欢迎自然科学、工程学及相关交叉学科领域的研究人员加入。月之暗面表示，“科学始终源于人类的好奇心、严谨的探索精神，以及对未知世界的不懈追求。一个有价值的科学假设，往往需要经过大量的文献调研、数据分析和反复验证。而一次意料之外的发现，也可能成为下",
+      "date": "2026-11-27T16:14:48.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "Take-Two 无法阻止用户利用 AI 将 GTA 6 移植到 PC 上",
+      "link": "https://www.solidot.org/story?sid=86014",
+      "summary": "GTA 6 开发商 Rockstar 的母公司 Take-Two 与微软和索尼签署了独占协议，这款备受瞩目的大作目前只有主机版本，PC 版本发布时间未知。但在 AI 工具的帮助下 PC 玩家正以惊人的速度将 GTA 6 移植到 PC 上。Take-Two 已采取行动，试图遏制这一行为：他们通过 DMCA 通知从 Git",
+      "date": "2026-11-27T15:59:17.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "link": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "summary": "Article URL: https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer Comments URL: https://news.ycombinator.com/item?id=50668145 Points: 482 # Comm",
+      "date": "2026-11-27T15:40:31.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "文明的历史是小麦的历史",
+      "link": "https://www.solidot.org/story?sid=86013",
+      "summary": "根据苏美尔神话，世界之初即无耕种也无畜牧和纺织，原神们生活窘迫，为此他们创造了谷之女神 Ashnan 和羊之神 Lahar，将他们派去帮助人类。Ashnan 和 Lahar 合作为神祇们提供了面包、酒、奶和兽皮。但众神们又争执起了谁的贡献更大。智慧之神 Enki 裁定谷之女神 Ashnan 贡献更大，理由是无谷物就没有",
+      "date": "2026-11-27T15:37:23.000Z"
+    },
+    {
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "9.69 万元，奇瑞 QQ3 变身一辆可以开咖啡馆的「QQ 啡车」丨广州车展",
+      "link": "https://www.ifanr.com/1695964?utm_source=rss&utm_medium=rss&utm_campaign",
+      "summary": "生活方式，可大可小。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "date": "2026-11-27T15:29:34.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "False computer-checked proofs",
+      "link": "https://cr.yp.to/proofs/falseccp.html",
+      "summary": "Article URL: https://cr.yp.to/proofs/falseccp.html Comments URL: https://news.ycombinator.com/item?id=50667989 Points: 204 # Comments: 79",
+      "date": "2026-11-27T15:26:09.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+      "link": "https://bouncemarket.minhanhday.com/",
+      "summary": "a ball will fall. trade on where it lands. I made this game! Some technical details: The entire drop of the ball is simulated server-side, then streamed to each",
+      "date": "2026-11-27T15:01:50.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "给 AI 编码智能体装上知识库，反而更费 Token？JioHotstar 测完六种方案，文件搜索依然能打",
+      "link": "https://www.infoq.cn/article/Ql4GGMIEqA3bI2W2lh7h?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-11-27T15:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Rayshader 1.0: Exit the Matrix",
+      "link": "https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html",
+      "summary": "Article URL: https://www.tylermw.com/posts/rayverse/rayshader-1-0-exit-the-matrix.html Comments URL: https://news.ycombinator.com/item?id=50667371 Points: 102 #",
+      "date": "2026-11-27T14:30:20.000Z"
+    },
+    {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "Netflix Titus为容器增加单租户VM隔离",
+      "link": "https://www.infoq.cn/article/QqEgs5GtC5gbwqcV5OSR?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-11-27T14:00:00.000Z"
+    },
+    {
+      "source": "Hacker News",
+      "tag": "ai",
+      "title": "Paolo Soleri built a utopian eco-city in the Arizona desert",
+      "link": "https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona",
+      "summary": "Article URL: https://www.worldofinteriors.com/story/paolo-soleri-arconsati-arizona Comments URL: https://news.ycombinator.com/item?id=50666724 Points: 3 # Comme",
+      "date": "2026-11-27T13:30:20.000Z"
+    },
     {
       "source": "AI 前线",
       "tag": "ai",
@@ -8,6 +312,46 @@
       "link": "https://www.infoq.cn/article/2uDBVKjk3kJXRb6CqQfu?utm_source=rss&utm_medium=article",
       "summary": "点击查看原文>",
       "date": "2026-11-27T13:00:00.000Z"
+    },
+    {
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "从「中国特供」变全球旗舰，搭载 Momenta 智驾的本田冠道来了｜广州车展",
+      "link": "https://www.ifanr.com/1695948?utm_source=rss&utm_medium=rss&utm_campaign",
+      "summary": "十年前为中国造大空间，十年后用中国场景定义全球车。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "date": "2026-11-27T12:20:17.000Z"
+    },
+    {
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "启源 Q06 迎来大升级！长安发布天枢领航 Ultra 2.0，明年 1 月推车位到车位｜广州车展",
+      "link": "https://www.ifanr.com/1695936?utm_source=rss&utm_medium=rss&utm_campaign",
+      "summary": "15 万级家用车车主，也在认真用高阶智驾了。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "date": "2026-11-27T12:16:32.000Z"
+    },
+    {
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "捷途纵横 R700 发布：华为乾崑智驾配大梁，家用硬派两手抓｜广州车展",
+      "link": "https://www.ifanr.com/1695926?utm_source=rss&utm_medium=rss&utm_campaign",
+      "summary": "穿西装的方盒子。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "date": "2026-11-27T12:13:40.000Z"
+    },
+    {
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "43.99 万元，只有一个配置，岚图泰山纯电版带来了三腔空悬｜广州车展",
+      "link": "https://www.ifanr.com/1695915?utm_source=rss&utm_medium=rss&utm_campaign",
+      "summary": "一个配置打天下。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "date": "2026-11-27T12:11:19.000Z"
+    },
+    {
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "限时 11.99 万元起，日产 NX7 标配宁德时代电池，还有Momenta 智驾｜广州车展",
+      "link": "https://www.ifanr.com/1695904?utm_source=rss&utm_medium=rss&utm_campaign",
+      "summary": "辅助驾驶上大分。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "date": "2026-11-27T12:09:14.000Z"
     },
     {
       "source": "AI 前线",
@@ -18,12 +362,28 @@
       "date": "2026-11-27T12:00:00.000Z"
     },
     {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "欧盟委员会称浏览器竞争是 DMA 优先事项",
+      "link": "https://www.solidot.org/story?sid=86012",
+      "summary": "欧盟委员会回应了 Open Web Advocacy 的公开信，认可浏览器是互联网的入口，是内容出版商触达读者的主要方式，而浏览器竞争是 DMA（Digital Markets Act）的优先事项。欧盟委员会表示，目前正就相关事宜进行磋商，确保竞争对手的浏览器能在 iPhone 和 iPad 上与 Safari 展开有",
+      "date": "2026-11-27T11:09:57.000Z"
+    },
+    {
       "source": "AI 前线",
       "tag": "ai",
       "title": "JEP 543在JDK 28中结束七轮预览，正式定稿结构化并发功能",
       "link": "https://www.infoq.cn/article/dsu2PlHW6JXNquGpJZNe?utm_source=rss&utm_medium=article",
       "summary": "点击查看原文>",
       "date": "2026-11-27T11:00:00.000Z"
+    },
+    {
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "Agent 上车元年，支付宝造了一个行动座舱",
+      "link": "https://www.ifanr.com/1695888?utm_source=rss&utm_medium=rss&utm_campaign",
+      "summary": "智能座舱的下半场，正在从「对话智能」步入「行动智能」。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "date": "2026-11-27T10:01:35.000Z"
     },
     {
       "source": "AI 前线",
@@ -50,12 +410,124 @@
       "date": "2026-11-27T10:00:00.000Z"
     },
     {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "\"What's Claude's Fursona?\" and Other Questions",
-      "link": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
-      "summary": "Article URL: https://herecomesthemoon.net/2026/11/whats-claudes-fursona/ Comments URL: https://news.ycombinator.com/item?id=50662933 Points: 39 # Comments: 3",
-      "date": "2026-11-27T04:56:18.000Z"
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "一人户二人户占全国家庭构成的近六成",
+      "link": "https://www.solidot.org/story?sid=86011",
+      "summary": "一个时代的家庭模板，正在悄悄退场。曾经被视作社会基本单元的三口之家，如今占比不足两成；一人户、二人户相加，已经接近全部家庭的六成。最新的家庭结构抽样数据，展现了一个很直观的变化：一人户占比 26.4%，二人户占比 33.2%，两者相加，已经接近六成。而曾经代表主流的三口之家，占比仅 19%。四人户 12.1%，五人及以",
+      "date": "2026-11-27T09:54:31.000Z"
+    },
+    {
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "阿维塔 T09 中国首秀，这是一辆可以在四座和六座之间切换的旗舰 SUV丨广州车展",
+      "link": "https://www.ifanr.com/1695875?utm_source=rss&utm_medium=rss&utm_campaign",
+      "summary": "阿维塔的旗舰 SUV 虽迟但到。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "date": "2026-11-27T09:17:03.000Z"
+    },
+    {
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "Claude Opus 5.6 做出了史上最牛的 PPT，直接杀死比赛？",
+      "link": "https://www.ifanr.com/1695831?utm_source=rss&utm_medium=rss&utm_campaign",
+      "summary": "这可能是我们见过最离谱的 AI 生成 PPT。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "date": "2026-11-27T09:06:19.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "IBM 停止签证担保，让 H-1B 持有者选择离职或离开美国",
+      "link": "https://www.solidot.org/story?sid=86010",
+      "summary": "蓝色巨人决定停止为其咨询部门员工提供美国工作签证及绿卡担保。该公司咨询部门有逾 15 万员工，受影响员工可选择到其他国家工作，或在 2026 年 12 月 31 日前离职。IBM 未披露具体有多少员工会受到影响，也未说明其中有多少人身处美国。员工有三周时间决定是否接受外派。对于不愿接受海外职位的员工，公司将提供相当于三",
+      "date": "2026-11-27T08:55:50.000Z"
+    },
+    {
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "蔚来三大品牌首次同台亮相广州车展，ES8、乐道 L60 推出全新特别版车型丨广州车展",
+      "link": "https://www.ifanr.com/1695848?utm_source=rss&utm_medium=rss&utm_campaign",
+      "summary": "萤火虫渡过了最困难的时期。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "date": "2026-11-27T08:55:27.000Z"
+    },
+    {
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "限时 25.49 万元起！奔驰纯电 GLC「大件夹抵食」",
+      "link": "https://www.ifanr.com/1695815?utm_source=rss&utm_medium=rss&utm_campaign",
+      "summary": "智能化，不再是新势力的独角戏。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "date": "2026-11-27T08:49:16.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "旅行者 1 号发回无法解读的信息",
+      "link": "https://www.solidot.org/story?sid=86009",
+      "summary": "北京时间 11 月 18 日 18 时 16 分 07 秒，旅行者 1 号与地球的距离达到约 259 亿公里，相当于光在真空中传播 24 小时的距离，也就是一光日。但与此同时旅行者 1 号出现了技术故障，给这一里程碑时刻蒙上了一层阴影。11 月 14 日旅行者 1 号发回的信号缺乏帧同步信息，意味着 NASA 无法解读",
+      "date": "2026-11-27T08:34:43.000Z"
+    },
+    {
+      "source": "少数派",
+      "tag": "tech",
+      "title": "本周看什么 | 最近值得一看的 8 部作品",
+      "link": "https://sspai.com/post/119658",
+      "summary": "☕️TL;DR近期佳作推荐：[电影]泥面人、[电影]峡湾、[电影]童话继姊妹、[英剧]警之光第四季、[加拿大]槲寄生谋杀案第三季、[国产]今天是太阳雨、[纪录片]一切如你所见、[真人秀]魔鬼的计谋：死 ...查看全文",
+      "date": "2026-11-27T08:32:46.000Z"
+    },
+    {
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "广汽丰田升级「厂家三担责」，不卡每年 3 万公里，磕碰起火也由厂家兜底｜广州车展",
+      "link": "https://www.ifanr.com/1695800?utm_source=rss&utm_medium=rss&utm_campaign",
+      "summary": "不再有「小字免责」。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "date": "2026-11-27T08:31:22.000Z"
+    },
+    {
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "10.28 万元起，800V、后驱、原厂改装，零跑 Lafa5 想做一辆有趣的电动车丨广州车展",
+      "link": "https://www.ifanr.com/1695788?utm_source=rss&utm_medium=rss&utm_campaign",
+      "summary": "零跑 Lafa5 不是零跑卖得最好的车，但一定是零跑最有趣的车。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "date": "2026-11-27T08:21:35.000Z"
+    },
+    {
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "30.98 万元起！换装 800V 和三联屏的问界新 M7 亮相｜广州车展",
+      "link": "https://www.ifanr.com/1695775?utm_source=rss&utm_medium=rss&utm_campaign",
+      "summary": "问界的拳头产品迎来换代。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "date": "2026-11-27T08:01:41.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "物理学家使用重力发送无法屏蔽的信息",
+      "link": "https://www.solidot.org/story?sid=86008",
+      "summary": "昆士兰大学研究人员利用重力、电梯和一台高灵敏度重力仪成功穿墙传递信息。实验在大学的 Parnell 楼进行，研究人员让电梯在两个楼层之间往返移动，其中 1.8 公吨配重在 0 和 1 之间切换，相邻卫生间里的重力仪探测到了重力场的变化，将信号翻译为单词 Gravity（重力）。Charles Woffinden 博士表",
+      "date": "2026-11-27T07:37:46.000Z"
+    },
+    {
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "30.98 万元起，领克 900L 想让大七座 SUV 重新成为主流丨广州车展",
+      "link": "https://www.ifanr.com/1695759?utm_source=rss&utm_medium=rss&utm_campaign",
+      "summary": "大车就是要七座。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "date": "2026-11-27T07:29:45.000Z"
+    },
+    {
+      "source": "爱范儿",
+      "tag": "tech",
+      "title": "华为全新一代巨鲸电池平台：电池安全，不能只看新车出厂的那一天",
+      "link": "https://www.ifanr.com/1695738?utm_source=rss&utm_medium=rss&utm_campaign",
+      "summary": "安全是个警钟长鸣的事情。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+      "date": "2026-11-27T07:06:54.000Z"
+    },
+    {
+      "source": "Solidot",
+      "tag": "tech",
+      "title": "极端高温引发地表淡水急剧下降",
+      "link": "https://www.solidot.org/story?sid=86007",
+      "summary": "根据发表在《科学》期刊上的一项研究，2023 年和 2024 年的全球极端高温导致地球地表淡水资源出现前所未有的下降，河流流量以及湖泊和水库蓄水量急剧减少，即使在湿润地区也是如此。中科院研究人员分析了 1991 年至 2025 年间全球河流流量以及湖泊和水库蓄水量的变化，发现了三个截然不同的阶段：1991 年至 200",
+      "date": "2026-11-27T06:32:42.000Z"
     },
     {
       "source": "爱范儿",
@@ -76,10 +548,10 @@
     {
       "source": "Hacker News",
       "tag": "ai",
-      "title": "Google will show solo Android developers' phone numbers and addresses",
-      "link": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en",
-      "summary": "Article URL: https://support.google.com/googleplay/android-developer/answer/17594752?hl=en Comments URL: https://news.ycombinator.com/item?id=50662322 Points: 8",
-      "date": "2026-11-27T03:11:41.000Z"
+      "title": "Citroën Hydraulic System",
+      "link": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+      "summary": "Article URL: https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html Comments URL: https://news.ycombinator.com/item?id=50662313 Points: 157 # C",
+      "date": "2026-11-27T03:10:19.000Z"
     },
     {
       "source": "爱范儿",
@@ -90,22 +562,6 @@
       "date": "2026-11-27T03:06:45.000Z"
     },
     {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "The Cutthroat Business of Shipwrecks",
-      "link": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
-      "summary": "Article URL: https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/ Comments URL: https://news.ycombinator.com/item?id=50661705 Points: 9 # Comments: 1",
-      "date": "2026-11-27T01:21:49.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Hard Drive pricing has gotten bad",
-      "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
-      "summary": "Article URL: https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/ Comments URL: https://news.ycombinator.com/item?id=50661646 Points: 223 # Comment",
-      "date": "2026-11-27T01:13:49.000Z"
-    },
-    {
       "source": "少数派",
       "tag": "tech",
       "title": "派早报：1Password 确认内部系统遭入侵等",
@@ -114,116 +570,20 @@
       "date": "2026-11-27T00:27:38.000Z"
     },
     {
+      "source": "AI 前线",
+      "tag": "ai",
+      "title": "把 MiniMax H3Image 塞进 1L 盒子：ThinkStation PGX 单机与双机原生 4K 生图实测",
+      "link": "https://www.infoq.cn/article/NbtPgaZdwwaZ5uBiWWCM?utm_source=rss&utm_medium=article",
+      "summary": "点击查看原文>",
+      "date": "2026-11-27T00:21:00.000Z"
+    },
+    {
       "source": "阮一峰的网络日志",
       "tag": "tech",
       "title": "科技爱好者周刊（第 421 期）：AI 的疯狂造富",
       "link": "http://www.ruanyifeng.com/blog/2026/11/weekly-issue-421.html",
       "summary": "这里记录每周值得分享的科技内容，周五发布。 本杂志开源，欢迎投稿。另有《谁在招人》服务，发布程序员招聘信息。合作请邮件联系（yifeng.ruan@gmail.com）。 封面图 本周，小鹏公司展示它的人形机器人。（via） AI 的疯狂造富 上周，模型公司 Anthropic 公司上市，创造出巨额财富。 这是一家历史",
       "date": "2026-11-27T00:10:30.000Z"
-    },
-    {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "早报｜双11手机销量降17%，前五都是iPhone/马斯克：美国每名儿童赠送两股SpaceX/小红书处置逾万篇虚假人设笔记",
-      "link": "https://www.ifanr.com/1695611?utm_source=rss&utm_medium=rss&utm_campaign",
-      "summary": "· 腾讯《英雄联盟电竞经理》将于明年 1 月停运 · 小米中国区总裁王晓雁将分管生态链与大家电 · 华为引望发布星驰辅助驾驶，预计明年搭载到逾 10 款新车 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-11-27T00:08:31.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "ESO statement on approval of launch of one million space data centres",
-      "link": "https://www.eso.org/public/news/eso2614/",
-      "summary": "Article URL: https://www.eso.org/public/news/eso2614/ Comments URL: https://news.ycombinator.com/item?id=50661224 Points: 25 # Comments: 32",
-      "date": "2026-11-27T00:03:44.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
-      "link": "https://kendell.dev/blog/arkwrapper/",
-      "summary": "Article URL: https://kendell.dev/blog/arkwrapper/ Comments URL: https://news.ycombinator.com/item?id=50660273 Points: 77 # Comments: 12",
-      "date": "2026-11-26T21:59:19.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "AI made self-hosting fun again",
-      "link": "https://janlukas.blog/posts/ai-self-hosting",
-      "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 483 # Comments: 250",
-      "date": "2026-11-26T21:47:45.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-      "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=506",
-      "date": "2026-11-26T21:08:05.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Company Culture = Slack Emoji ÷ √Headcount",
-      "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
-      "summary": "Article URL: https://lia.mg/posts/measuring-company-culture-with-slack-emoji/ Comments URL: https://news.ycombinator.com/item?id=50659640 Points: 220 # Comments",
-      "date": "2026-11-26T20:49:49.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Rvoip: VoIP stack in Rust",
-      "link": "https://github.com/eisenzopf/rvoip",
-      "summary": "Article URL: https://github.com/eisenzopf/rvoip Comments URL: https://news.ycombinator.com/item?id=50658632 Points: 109 # Comments: 22",
-      "date": "2026-11-26T19:18:09.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "An introduction to uncertainty in machine learning",
-      "link": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
-      "summary": "Article URL: https://chrhenning.com/blog/2026/introduction-to-uncertainty/ Comments URL: https://news.ycombinator.com/item?id=50658498 Points: 45 # Comments: 1",
-      "date": "2026-11-26T19:04:50.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Largest 2D Chart library in the world using BUI: BlenderUI",
-      "link": "https://bui.preetham.top/charts/",
-      "summary": "Article URL: https://bui.preetham.top/charts/ Comments URL: https://news.ycombinator.com/item?id=50658193 Points: 86 # Comments: 19",
-      "date": "2026-11-26T18:37:24.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "George Whitesides, 1939-2026",
-      "link": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
-      "summary": "Article URL: https://www.science.org/content/blog-post/george-whitesides-1939-2026 Comments URL: https://news.ycombinator.com/item?id=50657936 Points: 73 # Comm",
-      "date": "2026-11-26T18:13:07.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "summary": "Article URL: https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/ Comments URL: https://news.ycombinator.com/item?id=50657645 Poin",
-      "date": "2026-11-26T17:47:45.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-      "link": "https://github.com/antonpictures/youtube-punisher",
-      "summary": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 334 # Comments: 400",
-      "date": "2026-11-26T17:36:47.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "AMD-specific fork of llama.cpp",
-      "link": "https://devnull.land/amd-specific-llama-cpp",
-      "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 322 # Comments: 77",
-      "date": "2026-11-26T17:11:29.000Z"
     },
     {
       "source": "Solidot",
@@ -238,7 +598,7 @@
       "tag": "tech",
       "title": "英国人性生活频率大幅下降",
       "link": "https://www.solidot.org/story?sid=86005",
-      "summary": "根据发表在《柳叶刀》期刊上的一项研究，英国人性生活频率大幅下降，从 1990 年每月四次降至如今的每月两次；三分之一的 16–24 岁年轻人表示从未有过性行为，而 1990-2010 年间这一比例是五分之一；过去十年同性性行为的报告在增加；观看网络色情非常流行，一半年轻女性和近九成年轻男性表示过一年曾看过色情；无子女女",
+      "summary": "根据发表在《柳叶刀》期刊上的一项研究，英国人性生活频率大幅下降，从 1990 年每月四次降至如今的每月两次；三分之一的 16–24 岁年轻人表示从未有过性行为，而 1990-2010 年间这一比例是五分之一；过去十年同性性行为的报告在增加；观看网络色情非常流行，一半年轻女性和近九成年轻男性表示过去一年曾看过色情；无子女",
       "date": "2026-11-26T15:41:40.000Z"
     },
     {
@@ -258,14 +618,6 @@
       "date": "2026-11-26T15:24:13.000Z"
     },
     {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
-      "link": "https://michidk.github.io/sidebyside/",
-      "summary": "Article URL: https://michidk.github.io/sidebyside/ Comments URL: https://news.ycombinator.com/item?id=50656036 Points: 128 # Comments: 29",
-      "date": "2026-11-26T15:00:06.000Z"
-    },
-    {
       "source": "AI 前线",
       "tag": "ai",
       "title": "Snowflake CoCo 再进化：让数据开发进入 Agent 自主执行时代 ｜ 技术趋势",
@@ -282,22 +634,6 @@
       "date": "2026-11-26T14:49:24.000Z"
     },
     {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "Snowflake CoWork ：从受治理业务洞察到主动式业务作业 ｜ 技术趋势",
-      "link": "https://www.infoq.cn/article/o7KPsR1LxisdOA9aT2Eb?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-11-26T14:45:20.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Show HN: I wrote an entire Vim manual over 4 years",
-      "link": "http://themouseless.dev/vim/",
-      "summary": "I'm glad to announce that I'm releasing my new book, Learning to Play Vim. When I started using Vim more than a decade ago, I wished there was a manual out ther",
-      "date": "2026-11-26T14:44:22.000Z"
-    },
-    {
       "source": "Solidot",
       "tag": "tech",
       "title": "中国发现新古人类支系",
@@ -306,132 +642,12 @@
       "date": "2026-11-26T14:28:12.000Z"
     },
     {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Tell HN: Happy Thanksgiving",
-      "link": "https://news.ycombinator.com/item?id=50655664",
-      "summary": "Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway! Comments URL: https://news.ycombinator.com/item?id=5",
-      "date": "2026-11-26T14:26:54.000Z"
-    },
-    {
       "source": "Solidot",
       "tag": "tech",
       "title": "地球连续六天气温比工业化前水平高 2C",
       "link": "https://www.solidot.org/story?sid=86001",
       "summary": "根据欧盟哥白尼气候变化服务中心(C3S)的数据，全球气温已连续六天比工业化前水平高 2C。本周一全球日地表气温比工业化前水平高 2.24C 创历史新高，预计未来至少几天内气温仍将维持这一高位。此前只有两次日气温升幅超过 2C 的记录，分别出现在 2023 年 11 月和 2024 年 2 月，那两次持续时间较短，升温幅",
       "date": "2026-11-26T14:06:07.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "Uber 推出安全 AI 框架：对 AI 智能体进行全生命周期治理",
-      "link": "https://www.infoq.cn/article/xA3g2i0VtTZIOVePMedY?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-11-26T14:00:00.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "不用自建后端，前端页面也能接入云端数据了：Pages Data SDK 正式上线",
-      "link": "https://www.infoq.cn/article/WXXMTPHLTH0bKV3rc35g?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-11-26T13:46:49.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "Cohere 的研究结果表明，自托管开放权重模型仍然需出站控制",
-      "link": "https://www.infoq.cn/article/bzWoHP0FGUBSTBuP5xVJ?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-11-26T13:00:00.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "Siri AI 开发者预览版让 iOS、iPadOS 和 macOS 应用能够与 Siri 集成",
-      "link": "https://www.infoq.cn/article/j1aQzS6OrB9aDlChCwiQ?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-11-26T12:00:00.000Z"
-    },
-    {
-      "source": "Hacker News",
-      "tag": "ai",
-      "title": "Nextcloud Office Desktop app",
-      "link": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
-      "summary": "Article URL: https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/ Comments URL: https://news.ycombinator.com/item",
-      "date": "2026-11-26T11:50:49.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "AI写代码，谁来交付？",
-      "link": "https://www.infoq.cn/video/zrq9NZI5eJVetI8kA5kW?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-11-26T11:28:47.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "前苹果空间智能首席科学家权龙再创业，成立 Envision AI 研发空间物理基础模型",
-      "link": "https://www.infoq.cn/article/3rQ4aRqts2zywSBmeJvb?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-11-26T11:00:08.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "开源数据库 DocumentDB 正式发布 1.0 版本",
-      "link": "https://www.infoq.cn/article/k2Q7xBBucwOwxVoyq4LG?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-11-26T11:00:00.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "当产品开始写代码、研发开始做需求，团队该怎么变？｜极客对谈",
-      "link": "https://www.infoq.cn/article/ehSAx1Ze0UPN2p8WzhHf?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-11-26T10:30:00.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "从语音基座到语音应用：讯飞语音大模型能力全解",
-      "link": "https://www.infoq.cn/minibook/h1BlHGoTKyeLgs0KmAhe?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-11-26T10:29:57.000Z"
-    },
-    {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "2026 年，国产模型还能追上 Opus 5.5 吗",
-      "link": "https://www.ifanr.com/1695555?utm_source=rss&utm_medium=rss&utm_campaign",
-      "summary": "这个九月就发布的模型 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-11-26T10:02:35.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "谷歌云 Compute Engine API 改用不可变更的日期格式版本",
-      "link": "https://www.infoq.cn/article/htamKOFm9ol5c0htycSK?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-11-26T10:00:00.000Z"
-    },
-    {
-      "source": "AI 前线",
-      "tag": "ai",
-      "title": "清华大学教授李宁已确认出席 AICon北京，分享生成式人工智能驱动的组织变革与组织管理",
-      "link": "https://www.infoq.cn/article/xzQgJEw18ECxHGA7FFBx?utm_source=rss&utm_medium=article",
-      "summary": "点击查看原文>",
-      "date": "2026-11-26T10:00:00.000Z"
-    },
-    {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "ChatGPT即将到来的大更新，为何让老用户集体破防",
-      "link": "https://www.ifanr.com/1695589?utm_source=rss&utm_medium=rss&utm_campaign",
-      "summary": "20 美元的会员费，养不起一个全天候工作的 AI #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-11-26T09:51:52.000Z"
     },
     {
       "source": "Solidot",
@@ -482,60 +698,12 @@
       "date": "2026-11-26T07:46:52.000Z"
     },
     {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "1Password 源代码以及部分客户数据泄漏",
-      "link": "https://www.solidot.org/story?sid=85995",
-      "summary": "密码管理器 1Password 披露了一起安全事件：2026 年 11 月 19 日黑客入侵了该公司一名员工的企业 GitHub 账户，访问了源代码，向后端服务推送恶意代码，下载了客户相关的管理数据。泄漏的数据包括了客户姓名和电子邮件地址；账户及用户标识符、账户创建时间和最后登录时间；公钥（本身就是公开的），Secur",
-      "date": "2026-11-26T07:15:24.000Z"
-    },
-    {
       "source": "少数派",
       "tag": "tech",
       "title": "论文作图不求人，用 ChatGPT 和 Keynote 免费搞定机理图",
       "link": "https://sspai.com/post/119563",
       "summary": "在 AI 工具玲琅满目的今天，用各种方法「写」出一篇论文已经不算难事。但有一个环节依然很让人头疼——论文里的机理图。查看全文",
       "date": "2026-11-26T07:00:00.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "纽约时报警告摄影师不要升级到内置 AI 功能的 Photoshop",
-      "link": "https://www.solidot.org/story?sid=85994",
-      "summary": "《纽约时报》要求自由摄影师不要升级到内置 AI 功能的最新版本 Adob​​e Photoshop，理由是 AI 可能会以用户难以察觉的方式改变照片。《时报》摄影部门负责人 Meaghan Looram 和 Josh Haner 在邮件里指出，结果就是根据照片的元数据照片可能会被标记为 AI 生成。Adobe 过去几年",
-      "date": "2026-11-26T06:32:38.000Z"
-    },
-    {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "荣耀 700 Pro 上手：4099 元起，主流价位档里的手机异类",
-      "link": "https://www.ifanr.com/1695371?utm_source=rss&utm_medium=rss&utm_campaign",
-      "summary": "有诚意、有新意 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-11-26T04:28:11.000Z"
-    },
-    {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "首款鸿蒙小折叠电脑正式发布，生态创新重新定义折叠电脑体验",
-      "link": "https://www.ifanr.com/1695349?utm_source=rss&utm_medium=rss&utm_campaign",
-      "summary": "未来随着更多生态伙伴的加入，鸿蒙电脑还将持续解锁更多场景化创新，为用户带来兼顾便携与高效的桌面生产力新选择。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-11-26T04:04:24.000Z"
-    },
-    {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "OPPO Reno17 Pro 体验：在手机里装进一只猫，分几步？",
-      "link": "https://www.ifanr.com/1691222?utm_source=rss&utm_medium=rss&utm_campaign",
-      "summary": "哈基米，浮出机面 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-11-26T04:02:09.000Z"
-    },
-    {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "专访《影之刃零》梁其伟：我想让年轻人觉得，中国功夫很酷丨多样性公司",
-      "link": "https://www.ifanr.com/1695256?utm_source=rss&utm_medium=rss&utm_campaign",
-      "summary": "中国功夫，也能很酷 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-11-26T03:48:29.000Z"
     },
     {
       "source": "少数派",
@@ -546,22 +714,6 @@
       "date": "2026-11-26T03:13:53.000Z"
     },
     {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "Robotaxi 即将开启无人运营、机器人脱稿演讲，小鹏科技日迎来了自己的「奇点时刻」",
-      "link": "https://www.ifanr.com/1695212?utm_source=rss&utm_medium=rss&utm_campaign",
-      "summary": "技术实力的外溢。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-11-26T02:25:24.000Z"
-    },
-    {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "A社曝光了一份AI整顿职场魔幻实录，请甩给你那位沉迷AI提效的老板",
-      "link": "https://www.ifanr.com/1691748?utm_source=rss&utm_medium=rss&utm_campaign",
-      "summary": "你用公司的 AI 省下的时间是公司的 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-11-26T01:28:30.000Z"
-    },
-    {
       "source": "少数派",
       "tag": "tech",
       "title": "派早报：蔚来举办 2026 创新科技日、Tidal 将拒绝 AI 音乐等",
@@ -570,164 +722,12 @@
       "date": "2026-11-26T00:08:07.000Z"
     },
     {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "早报｜手机厂商集体下调明年出货目标，曝小米降幅达25%/小鹏悠游开启主驾无人载客/宕机后，微软进入「红色警报」",
-      "link": "https://www.ifanr.com/1695128?utm_source=rss&utm_medium=rss&utm_campaign",
-      "summary": "· Counterpoint：2027 年全球智能手机出货量预计再降 6%，2028 年反弹 6% · 理想汽车 2026 年 Q3 营收 288.34 亿元，经营与自由现金流转正 · 26.99 万元起，宝马首款国产新世代车型 iX3 上市并开始交付 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多",
-      "date": "2026-11-26T00:02:57.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "EA Sports FC 利用 AI 数字重现已故解说员 John Motson 的声音",
-      "link": "https://www.solidot.org/story?sid=85993",
-      "summary": "EA 透露其足球游戏《EA Sports FC 27》利用 AI 数字重现了已故解说员 John Motson 的声音。Motson 于 2023 年去世，他曾长期担任 BBC Sport 首席解说员，也曾为 EA 足球游戏解说。在其遗孀和儿子的许可下，EA 利用其过去的录音资料与生成式 AI 技术合成了他的声音。该内",
-      "date": "2026-11-25T15:54:33.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "Claude 和 ChatGPT 在蛋白质结构预测和设计上挑战 AlphaFold",
-      "link": "https://www.solidot.org/story?sid=85992",
-      "summary": "AI 生物科技公司 Phylo 研究员 Xinming Tu 本月初使用 OpenAI、Anthropic 和 Google 的大模型测试了它们预测鲜为人知细菌蛋白质序列的能力。他让分析程序运行了整晚，第二天对结果非常吃惊。Anthropic 最新版本的Claude 表现不仅优于其它大模型，而且超过了针对蛋白质序列训练",
-      "date": "2026-11-25T15:26:31.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "NASA 计划 2028 年发射验证核电推进技术的探测器",
-      "link": "https://www.solidot.org/story?sid=85991",
-      "summary": "NASA 计划 2028 年发射验证深空核电推进技术的探测器 Space Reactor‑1 Freedom（SR-1）。SR-1 将利用核能和太阳能将 SkyFall 舱送往火星，SkyFall 内有三架新一代直升机，这些直升机将研究火星的地质和气候历史，探索新地形，搜寻地下冰层的迹象。SR-1 将配备一台布雷顿闭式",
-      "date": "2026-11-25T14:51:37.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "研究显示不是所有地区的男性精子数量都大幅下降",
-      "link": "https://www.solidot.org/story?sid=85990",
-      "summary": "丹麦的一项研究显示，该国男性精子的数量并非大幅下降，过去 26 年一直维持稳定，甚至少数人还表现出改善的迹象。这项研究表明男性精子数量的变化趋势可能存在地域差异。对男性精子数量的担忧始于 1992 年，《British Medical Journal》期刊当时发表的一项研究发现自 1940 年以来男性精子浓度下降了 4",
-      "date": "2026-11-25T14:27:27.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "如何维护超算",
-      "link": "https://www.solidot.org/story?sid=85989",
-      "summary": "美国橡树岭国家实验室的超算 Frontier 有数以千计的计算节点，维护其正常工作是一大挑战。无法纠正的内存错误，维护失误都会引发问题。技术人员在狭窄紧密的机架之间工作时可能会重启错误的节点，或意外触碰相邻节点的电源。硬件故障可能会影响单个节点，但对于运行在数千个处理器上的模拟任务而言，这可能导致整个进程逐渐停止工作。",
-      "date": "2026-11-25T14:18:03.000Z"
-    },
-    {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "蔚来发布 NOMI 4.0！0.6 秒极速响应，正式迈入「智能体」时代",
-      "link": "https://www.ifanr.com/1695482?utm_source=rss&utm_medium=rss&utm_campaign",
-      "summary": "当汽车成为物理 AI 的核心载体，一家车企该如何用 AI 重塑自己？ #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-11-25T10:47:45.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "日本政府开发智能体打击盗版动漫",
-      "link": "https://www.solidot.org/story?sid=85988",
-      "summary": "日本文化厅正在测试一款 AI 智能体去自动识别和标记可能包含非法或盗版内容的动漫网站。测试结果显示其准确率极高。2025 财年针对国内的一项调查显示，AI 标记的 1168 条可疑 X 推文有 84% 是非法内容；AI 检测的 1564 个动画网站中 89% 含有盗版动画；1935 个漫画网站中盗版漫画比例高达 94%",
-      "date": "2026-11-25T09:49:29.000Z"
-    },
-    {
       "source": "少数派",
       "tag": "tech",
       "title": "翻开 2027， 值得入手的新年日历推荐",
       "link": "https://sspai.com/post/119264",
       "summary": "按照中国的农历纪年法，2027年是羊年，《说文解字》说「羊，祥也」。《诗经・小雅・无羊》云「尔羊来思，其角濈濈」，写羊群缓缓归野，安然相聚，恰合丁未岁的平和气象。一只吉羊，一册日历，便是收纳这一年日常 ...查看全文",
       "date": "2026-11-25T09:48:34.000Z"
-    },
-    {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "拓竹 P3C 发布：国补后 6374 元起，下一代 3D 打印机开始卷性价比",
-      "link": "https://www.ifanr.com/1691661?utm_source=rss&utm_medium=rss&utm_campaign",
-      "summary": "打印机开始卷手艺 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-11-25T09:00:30.000Z"
-    },
-    {
-      "source": "Solidot",
-      "tag": "tech",
-      "title": "男性肥胖者服用 GLP-1 药物后改善了精子质量",
-      "link": "https://www.solidot.org/story?sid=85987",
-      "summary": "根据发表在《Biomedicines》期刊上的一项研究，男性肥胖者在服用 GLP-1 药物之后改善了精子质量和睾酮水平。研究针对了 108 名有肥胖症和/或 2 型糖尿病男性，服用 GLP-1 药物一年后他们的精子浓度显著增加。在服用 GLP-1 前样本中仅有略超 3% 的精子形状正常，12 个月的治疗后这一比例上升至",
-      "date": "2026-11-25T08:05:18.000Z"
-    },
-    {
-      "source": "少数派",
-      "tag": "tech",
-      "title": "App+1｜Yab：开源、AI 友好的双内核浏览器，给舍不得 Arc 的你",
-      "link": "https://sspai.com/post/119310",
-      "summary": "Arc 花了很大力气重新设计「人该如何使用浏览器」，YAB 在继承这份交互遗产的同时，又顺手为 AI 打开了另一扇门。查看全文",
-      "date": "2026-11-25T06:59:16.000Z"
-    },
-    {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "Seedance 2.5 级别，价格只要 1/10，我们实测了计划开源的 MAGI-2",
-      "link": "https://www.ifanr.com/1691445?utm_source=rss&utm_medium=rss&utm_campaign",
-      "summary": "AI 视频「烧钱」终结者 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-11-25T05:21:04.000Z"
-    },
-    {
-      "source": "少数派",
-      "tag": "tech",
-      "title": "怀旧手记｜Palm Pre：内藏「划时代」系统的手机",
-      "link": "https://sspai.com/post/118791",
-      "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章代表作者个人观点 ...查看全文",
-      "date": "2026-11-25T03:07:41.000Z"
-    },
-    {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "早报｜黄仁勋复职后首开全员大会致歉/豆包推出AI个人助理「小豆」/华为鸿蒙终端突破1亿台",
-      "link": "https://www.ifanr.com/1691400?utm_source=rss&utm_medium=rss&utm_campaign",
-      "summary": "· 华为发布 Mate X8、Mate 90 Air 和小折叠电脑 MateBook Fold S · 神舟二十四号任务将开展一年期在轨驻留试验 · PlayStation 公布《GTA 6》首发数据，四天吸引逾 3900 万玩家 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉",
-      "date": "2026-11-25T00:08:21.000Z"
-    },
-    {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "后排空间直逼迈巴赫！配置看齐六座旗舰，吉利银河 M8 预售价 19.98 万起",
-      "link": "https://www.ifanr.com/1695444?utm_source=rss&utm_medium=rss&utm_campaign",
-      "summary": "5 米 2 个车身，只放两排座椅。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-11-24T15:26:25.000Z"
-    },
-    {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "18.79 万元起！比亚迪唐 EV 正式上市，砍掉七座换来 850km 续航，还有线控底盘",
-      "link": "https://www.ifanr.com/1691381?utm_source=rss&utm_medium=rss&utm_campaign",
-      "summary": "十年之后，比亚迪唐终于卸下了第三排的担子。 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-11-24T13:36:06.000Z"
-    },
-    {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "实测小豆：主动办事的背后，AI 正在走向每一个人",
-      "link": "https://www.ifanr.com/1691355?utm_source=rss&utm_medium=rss&utm_campaign",
-      "summary": "Personal Agent 的下半场，拼的是主动办事 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-11-24T11:04:40.000Z"
-    },
-    {
-      "source": "爱范儿",
-      "tag": "tech",
-      "title": "华为发布了大折叠手机和小折叠电脑，但 1 亿鸿蒙设备才是最大的亮点",
-      "link": "https://www.ifanr.com/1691302?utm_source=rss&utm_medium=rss&utm_campaign",
-      "summary": "一亿台鸿蒙设备之后 #欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-      "date": "2026-11-24T10:30:04.000Z"
-    },
-    {
-      "source": "少数派",
-      "tag": "tech",
-      "title": "社区速递 167｜迪卡侬折叠车、静电白板贴与跨系统设备协同",
-      "link": "https://sspai.com/post/119492",
-      "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大家。上周社区速递 ...查看全文",
-      "date": "2026-11-24T09:14:11.000Z"
     },
     {
       "source": "阮一峰的网络日志",
